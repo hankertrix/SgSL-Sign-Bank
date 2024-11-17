@@ -20,4 +20,4 @@ jobs:
       with:
         artifacts: "SgSL Sign Bank.zip"
         commit: "main"
-        tag: "v0.0.2"
+        tag: "v0.0.3"
