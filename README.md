@@ -9,7 +9,7 @@ in learning Singapore Sign Language.
 
 ## Accessing the sign bank
 
-[Click here]()
+[Click here](https://github.com/hankertrix/SgSL-Sign-Bank/blob/main/sign-bank/sign-bank.org)
 to view the sign bank on GitHub.
 
 <!-- You can also view the sign bank -->
@@ -21,6 +21,9 @@ Alternatively, you can download a local
 copy of the sign bank if you find it
 loading too slowly for your liking.
 You can download a local copy
+[here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fhankertrix%2FSgSL-Sign-Bank%2Ftree%2Fmain%2Fsign-bank).
+If it takes too long to download,
+can also download it from
 [here]().
 Open the file ending in `.html`
 to view the sign bank in your browser.
