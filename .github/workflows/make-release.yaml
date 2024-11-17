@@ -17,6 +17,7 @@ jobs:
         with:
           type: "zip"
           path: "./sign-bank/"
+          exclusions: "*.org"
           filename: "SgSL_Sign_Bank.zip"
 
       - name: Upload Release
