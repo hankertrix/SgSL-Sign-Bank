@@ -29,6 +29,7 @@ Open the file ending in `.html`
 to view the sign bank in your browser.
 
 ## Issues and contributions
+
 If you find any errors in the sign bank,
 or would like to contribute a sign,
 feel free to open an issue or a pull
