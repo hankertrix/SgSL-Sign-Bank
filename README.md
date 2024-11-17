@@ -64,10 +64,10 @@ unofficial port of the official
 stickers above.
 The sticker pack contains both
 the Singapore Sign Language
-sticker pack and the sticker pack
+sticker pack as well as the sticker pack
 for Singlish Signs.
 You can get the sticker pack
-[here]().
+[here](https://telegram.me/addstickers/MerdeafSgSL).
 
 #### [chatsticker](https://chatsticker.com/)
 
