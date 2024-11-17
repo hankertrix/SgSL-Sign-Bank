@@ -1,5 +1,9 @@
 name: Make Release
-on: [push]
+on:
+  push:
+    tags:
+    - "*"
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,11 +17,9 @@ jobs:
       with:
         type: "zip"
         path: "./sign-bank/"
-        filename: "SgSL Sign Bank.zip"
+        filename: "SgSL_Sign_Bank.zip"
         
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "SgSL Sign Bank.zip"
-        commit: "main"
-        tag: "v0.0.3"
+        artifacts: "SgSL_Sign_Bank.zip"
