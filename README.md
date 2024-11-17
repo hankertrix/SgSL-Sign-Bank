@@ -20,11 +20,12 @@ to view the sign bank on GitHub.
 Alternatively, you can download a local
 copy of the sign bank if you find it
 loading too slowly for your liking.
-You can download a local copy
+You can download a local copy from
+[here](https://github.com/hankertrix/SgSL-Sign-Bank/releases/latest/) or
 [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fhankertrix%2FSgSL-Sign-Bank%2Ftree%2Fmain%2Fsign-bank).
-If it takes too long to download,
-can also download it from
-[here]().
+The latter takes much longer to download,
+but will always be up-to-date with the
+latest changes.
 Open the file ending in `.html`
 to view the sign bank in your browser.
 
