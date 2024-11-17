@@ -1,18 +1,21 @@
 name: Make Release
-
-on: 
-  push:
-    tags:
-    - '*'
-
+on: [push]
 jobs:
-
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
     - uses: actions/checkout@v4
-    - uses: ncipollo/release-action@v1
+    
+    - name: Archive Release
+      uses: thedoctor0/zip-release@0.7
       with:
-        artifacts: "sign-bank/*"
+        type: "zip"
+        path: "./sign-bank/"
+        filename: "SgSL Sign Bank.zip"
+        
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "SgSL Sign Bank.zip"
