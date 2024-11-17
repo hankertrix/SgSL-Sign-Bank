@@ -117,4 +117,4 @@ and for people to contribute.
 This project is licenced under the
 GNU Affero General Public Licence Version 3 (GNU AGPL v3).
 For the full licence, look at the
-[LICENCE.txt](https://github.com/hankertrix/SgSL-Sign-Bank/src/branch/main/LICENCE.txt) file.
+[LICENCE.txt](./LICENCE.txt) file.
