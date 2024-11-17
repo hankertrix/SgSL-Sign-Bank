@@ -9,7 +9,7 @@ jobs:
     - uses: actions/checkout@v4
     
     - name: Archive Release
-      uses: thedoctor0/zip-release@0.7
+      uses: thedoctor0/zip-release@0.7.6
       with:
         type: "zip"
         path: "./sign-bank/"
