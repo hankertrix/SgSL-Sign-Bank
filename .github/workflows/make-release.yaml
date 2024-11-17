@@ -19,3 +19,4 @@ jobs:
       uses: ncipollo/release-action@v1
       with:
         artifacts: "SgSL Sign Bank.zip"
+        commit: "main"
