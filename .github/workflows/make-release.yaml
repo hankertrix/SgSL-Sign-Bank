@@ -2,7 +2,7 @@ name: Make Release
 on:
   push:
     tags:
-    - "*"
+      - "*"
 
 jobs:
   build:
@@ -10,16 +10,17 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v4
-    
-    - name: Archive Release
-      uses: thedoctor0/zip-release@0.7.6
-      with:
-        type: "zip"
-        path: "./sign-bank/"
-        filename: "SgSL_Sign_Bank.zip"
-        
-    - name: Upload Release
-      uses: ncipollo/release-action@v1
-      with:
-        artifacts: "SgSL_Sign_Bank.zip"
+      - uses: actions/checkout@v4
+
+      - name: Archive Release
+        uses: thedoctor0/zip-release@0.7.6
+        with:
+          type: "zip"
+          path: "./sign-bank/"
+          filename: "SgSL_Sign_Bank.zip"
+
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          body: "Click on the file called 'SgSL_Sign_Bank.zip' to download the SgSL Sign Bank."
+          artifacts: "SgSL_Sign_Bank.zip"
