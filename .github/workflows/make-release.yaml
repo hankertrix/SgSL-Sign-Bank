@@ -7,7 +7,7 @@ jobs:
       contents: write
     steps:
       - name: Set up environment
-        run: echo "NOW=v$(date +'%d-%m-%y_%I.%M.%S%p')" >> $GITHUB_ENV
+        run: echo "NOW=v$(date +'%d-%m-%y__%I.%M.%S%p')" >> $GITHUB_ENV
 
       - name: Checkout
         uses: actions/checkout@v4
