@@ -82,8 +82,8 @@ are taken directly from the official
 
 This used to be a cheat sheet for the
 Nanyang Technological University (NTU)
-module Singapore Sign Language Level 1
-LL5001. It was migrated to a separate
+module LL5001 Singapore Sign Language Level 1.
+It was migrated to a separate
 repository as the list of signs inside
 the cheat sheet had grown to be more
 comprehensive than even the
