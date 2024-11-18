@@ -24,8 +24,8 @@ You can download a local copy from
 [here](https://github.com/hankertrix/SgSL-Sign-Bank/releases/latest/) or
 [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fhankertrix%2FSgSL-Sign-Bank%2Ftree%2Fmain%2Fsign-bank).
 The latter takes much longer to download,
-but will always be up-to-date with the
-latest changes.
+so it is recommended to download the sign
+bank directly from GitHub using the first link.
 Open the file ending in `.html`
 to view the sign bank in your browser.
 
