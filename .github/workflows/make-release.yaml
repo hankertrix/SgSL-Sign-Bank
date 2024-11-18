@@ -23,5 +23,10 @@ jobs:
       - name: Upload Release
         uses: ncipollo/release-action@v1
         with:
-          body: "Click on the file called 'SgSL_Sign_Bank.zip' to download the SgSL Sign Bank."
           artifacts: "SgSL_Sign_Bank.zip"
+          body: >
+            Click on the file called `SgSL_Sign_Bank.zip`
+            to download the SgSL Sign Bank.
+            After extracting the zip file,
+            open the file ending with `.html`
+            to view the file in your browser.
