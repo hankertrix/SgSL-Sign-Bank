@@ -1,16 +1,16 @@
 name: Make Release
-on:
-  push:
-    tags:
-      - "*"
-
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Set up environment
+        run: echo "NOW=v$(date +'%d-%m-%y_%I.%M.%S%p')" >> $GITHUB_ENV
+
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Archive Release
         uses: thedoctor0/zip-release@0.7.6
@@ -23,6 +23,8 @@ jobs:
       - name: Upload Release
         uses: ncipollo/release-action@v1
         with:
+          tag: ${{ env.NOW }}
+          makeLatest: true
           artifacts: "SgSL_Sign_Bank.zip"
           body: >
             Click on the file called `SgSL_Sign_Bank.zip`
