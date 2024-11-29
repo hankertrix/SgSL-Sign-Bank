@@ -113,9 +113,9 @@ and for people to contribute.
 - [NPO Hope](https://www.youtube.com/@npo1540/videos)
 - [Stories of Hope Singapore](https://www.youtube.com/watch?v=o-NM5ROjbxU)
 
-## Licence
+## [Licence](./LICENCE.txt)
 
 This project is licenced under the
 GNU Affero General Public Licence Version 3 (GNU AGPL v3).
 For the full licence, look at the
-[LICENCE.txt](LICENCE.txt) file.
+[LICENCE.txt](./LICENCE.txt) file.
