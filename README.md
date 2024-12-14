@@ -97,19 +97,23 @@ and for people to contribute.
 ## References
 
 - [SgSL Sign Bank](https://blogs.ntu.edu.sg/sgslsignbank/signs/)
-- [Lifeprint](https://lifeprint.com/) ([YouTube](https://www.youtube.com/@aslu/videos))
+- [Lifeprint](https://lifeprint.com/)
+  ([YouTube](https://www.youtube.com/@aslu/videos))
 - [HandSpeak](https://www.handspeak.com/)
 - [Signing Savvy](https://www.signingsavvy.com/)
 - [Wendy Tay](https://www.wendytay.sg/)
   ([YouTube](https://www.youtube.com/@wendytaysg/videos),
   [Facebook](https://www.facebook.com/wendytay.sg),
   [Instagram](https://www.instagram.com/wendytay.sg/))
-- [Lily Goh](https://www.eohorizons.com/lily-goh) ([YouTube](https://www.youtube.com/@LilyGoh/videos))
+- [Lily Goh](https://www.eohorizons.com/lily-goh)
+  ([YouTube](https://www.youtube.com/@LilyGoh/videos))
 - [Singapore Sign Language: An Introduction](https://ebook.ntu.edu.sg/sgsl-ebook)
 - [Sign ASL](https://www.signasl.org/)
 - [ASL Bloom](https://www.aslbloom.com/)
-- [Deaf Discovery](https://www.deaf.sg/) ([YouTube](https://www.youtube.com/@DeafSG/videos))
-- [ASL Teaching Resources](https://aslteachingresources.com) ([YouTube](https://www.youtube.com/@ASLTeachingResources/videos))
+- [Deaf Discovery](https://www.deaf.sg/)
+  ([YouTube](https://www.youtube.com/@DeafSG/videos))
+- [ASL Teaching Resources](https://aslteachingresources.com)
+  ([YouTube](https://www.youtube.com/@ASLTeachingResources/videos))
 - [NPO Hope](https://www.youtube.com/@npo1540/videos)
 - [Stories of Hope Singapore](https://www.youtube.com/watch?v=o-NM5ROjbxU)
 
