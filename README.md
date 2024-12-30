@@ -1,9 +1,8 @@
 # Singapore Sign Language (SgSL) Sign Bank
 
-Welcome to the unofficial and community-maintained
-sign bank for Singapore Sign Language (SgSL)!
-This sign bank aims to be the ultimate resource
-for Singapore Sign Language.
+Welcome to the unofficial and community-maintained sign bank for
+Singapore Sign Language (SgSL)!
+This sign bank aims to be the ultimate resource for Singapore Sign Language.
 Hopefully you will find this repository useful
 in learning Singapore Sign Language.
 
@@ -16,24 +15,19 @@ in learning Singapore Sign Language.
 <!-- sign bank on GitHub loads too slowly. Access it -->
 <!-- [here](https://sgsl-sign-bank.vercel.app). -->
 
-Alternatively, you can download a local
-copy of the sign bank if you find it
-loading too slowly for your liking.
-You can download a local copy from
+Alternatively, you can download a local copy of the sign bank if you find it
+loading too slowly for your liking. You can download a local copy from
 [here](https://github.com/hankertrix/SgSL-Sign-Bank/releases/latest/) or
 [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fhankertrix%2FSgSL-Sign-Bank%2Ftree%2Fmain%2Fsign-bank).
-The latter takes much longer to download,
-so it is recommended to download the sign
-bank directly from GitHub using the first link.
-Open the file ending in `.html`
-to view the sign bank in your browser.
+The latter takes much longer to download, so it is recommended to
+download the sign bank directly from GitHub using the first link.
+Open the file ending in `.html` to view the sign bank in your browser.
 
 ## Issues and contributions
 
-If you find any errors in the sign bank,
-or would like to contribute a sign,
-feel free to open an issue or a pull
-request in this repository.
+If you find any errors in the sign bank, or would like to contribute
+a sign or a sord (the sign equivalent for a word),
+feel free to open an issue or a pull request in this repository.
 
 Alternatively, you can also contact
 [@hankertrix on Telegram](https://t.me/hankertrix)
@@ -43,35 +37,29 @@ for any issues or contributions.
 
 ### Merdeaf
 
-Merdeaf is a Deaf merlion from Singapore,
-created by a Deaf artist from
+Merdeaf is a Deaf merlion from Singapore, created by a Deaf artist from
 The Singapore Association for the Deaf (SADeaf).
 
 #### [LINE](https://line.me/en/)
 
-The stickers packs below are the official stickers
-published by The Singapore Association for the Deaf (SADeaf).
+The stickers packs below are the official stickers published by
+The Singapore Association for the Deaf (SADeaf).
 
 - [Singapore Sign Language](https://store.line.me/stickershop/product/1194012/en)
 - [Singlish Signs](https://store.line.me/stickershop/product/1351785/en)
 
 #### [Telegram](https://telegram.org/)
 
-The Telegram sticker pack is an
-unofficial port of the official
-[LINE](https://line.me/en/)
-stickers above.
-The sticker pack contains both
-the Singapore Sign Language
-sticker pack as well as the sticker pack
-for Singlish Signs.
+The Telegram sticker pack is an unofficial port of the official
+[LINE](https://line.me/en/) stickers above.
+The sticker pack contains both the Singapore Sign Language
+sticker pack and the sticker pack for Singlish Signs.
 You can get the sticker pack
 [here](https://telegram.me/addstickers/MerdeafSgSL).
 
 #### [chatsticker](https://chatsticker.com/)
 
-The below sticker packs on chatsticker
-are taken directly from the official
+The below sticker packs on chatsticker are taken directly from the official
 [LINE](https://line.me/en/) stickers.
 
 - [Singapore Sign Language](https://chatsticker.com/sticker/merdeaf-singapore-sign-language-1)
@@ -85,11 +73,11 @@ It was migrated to a separate repository as the list of signs inside
 the cheat sheet had grown to be more comprehensive than even the
 [SgSL Sign Bank] maintained by Nanyang Technological University (NTU) and
 The Singapore Association for the Deaf (SADeaf).
-Moving the cheat sheet into a separate
-repository will make it easier to maintain
-and for people to contribute.
+Moving the cheat sheet into a separate repository will make it
+easier to maintain, and easier for people to contribute.
+Hence, this sign bank for SgSL was born.
 
-## References
+## Sources and references
 
 - [SgSL Sign Bank]
 - [Lifeprint](https://lifeprint.com/)
