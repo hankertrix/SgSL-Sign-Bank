@@ -1,0 +1,36 @@
+name: Make Release
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Set up environment
+        run: echo "NOW=v$(date +'%d-%m-%Y__%I.%M.%S%p')" >> $GITHUB_ENV
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Archive Release
+        uses: thedoctor0/zip-release@0.7.6
+        with:
+          type: "zip"
+          path: "./sign-bank/"
+          exclusions: "*.org"
+          filename: "SgSL_Sign_Bank.zip"
+
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: ${{ env.NOW }}
+          makeLatest: true
+          artifacts: "SgSL_Sign_Bank.zip"
+          body: >
+            Click on the file called `SgSL_Sign_Bank.zip`
+            to download the SgSL Sign Bank.
+            After extracting the zip file,
+            open the file ending with `.html`
+            to view the file in your browser.
