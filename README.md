@@ -9,8 +9,7 @@ in learning Singapore Sign Language.
 
 ## Accessing the sign bank
 
-[Click here](https://github.com/hankertrix/SgSL-Sign-Bank/blob/main/sign-bank/sign-bank.org)
-to view the sign bank on GitHub.
+[Click here](./sign-bank/sign-bank.org) to view the sign bank.
 
 <!-- You can also view the sign bank -->
 <!-- through a specially built website if the -->
@@ -80,15 +79,11 @@ are taken directly from the official
 
 ## Background
 
-This used to be a cheat sheet for the
-Nanyang Technological University (NTU)
+This used to be a cheat sheet for the Nanyang Technological University (NTU)
 module LL5001 Singapore Sign Language Level 1.
-It was migrated to a separate
-repository as the list of signs inside
-the cheat sheet had grown to be more
-comprehensive than even the
-[SgSL Sign Bank](https://blogs.ntu.edu.sg/sgslsignbank/signs/)
-maintained by Nanyang Technological University (NTU) and
+It was migrated to a separate repository as the list of signs inside
+the cheat sheet had grown to be more comprehensive than even the
+[SgSL Sign Bank] maintained by Nanyang Technological University (NTU) and
 The Singapore Association for the Deaf (SADeaf).
 Moving the cheat sheet into a separate
 repository will make it easier to maintain
@@ -96,7 +91,7 @@ and for people to contribute.
 
 ## References
 
-- [SgSL Sign Bank](https://blogs.ntu.edu.sg/sgslsignbank/signs/)
+- [SgSL Sign Bank]
 - [Lifeprint](https://lifeprint.com/)
   ([YouTube](https://www.youtube.com/@aslu/videos))
 - [HandSpeak](https://www.handspeak.com/)
@@ -117,9 +112,12 @@ and for people to contribute.
 - [NPO Hope](https://www.youtube.com/@npo1540/videos)
 - [Stories of Hope Singapore](https://www.youtube.com/watch?v=o-NM5ROjbxU)
 
-## [Licence](./LICENCE.txt)
+## [Licence]
 
 This project is licenced under the
 GNU Affero General Public Licence Version 3 (GNU AGPL v3).
 For the full licence, look at the
-[LICENCE.txt](./LICENCE.txt) file.
+[LICENCE.txt][Licence] file.
+
+[SgSL Sign Bank]: https://blogs.ntu.edu.sg/sgslsignbank/signs/
+[Licence]: LICENCE.txt
