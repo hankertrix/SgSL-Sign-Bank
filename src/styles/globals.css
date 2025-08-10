@@ -10,7 +10,7 @@
 
 @font-face {
 	font-family: "Zi Hun";
-	src: url("/fonts/ZiHunDunHuangJingYunKai.ttf") format(truetype);
+	src: url("/fonts/ZiHunDunHuangJingYunKai.woff2") format(woff2);
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
