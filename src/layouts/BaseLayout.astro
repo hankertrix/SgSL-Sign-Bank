@@ -1,0 +1,94 @@
+---
+import Header from "@components/layout/Header.astro";
+import Footer from "@components/layout/Footer.astro";
+import ScrollUpButton from "@components/layout/ScrollUpButton.astro";
+import "@styles/globals.css";
+const { title, headings } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+
+		<!-- Favicon stuff -->
+		<link
+			rel="icon"
+			type="image/png"
+			href="/favicons/favicon-96x96.png"
+			sizes="96x96"
+		/>
+		<link rel="icon" type="image/svg+xml" href="/favicons/favicon.svg" />
+		<link rel="shortcut icon" href="/favicons/favicon.ico" />
+		<link
+			rel="apple-touch-icon"
+			sizes="180x180"
+			href="/favicons/apple-touch-icon.png"
+		/>
+		<link rel="manifest" href="/favicons/site.webmanifest" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title ? `${title} - SgSL Sign Bank` : "SgSL Sign Bank"}</title>
+	</head>
+
+	<!-- The layout -->
+	<body>
+		<!----->
+
+		<!-- Double wrap to get the footer to be positioned correctly -->
+		<div class="page-container">
+			<div class="page-wrapper">
+				<!----->
+
+				<!-- The div to scroll up to the top of the page -->
+				<div id="top-of-the-page"></div>
+
+				<!-- The scroll up button -->
+				<ScrollUpButton />
+				<Header {headings} />
+				<main data-pagefind-body>
+					<slot />
+				</main>
+				<Footer />
+			</div>
+		</div>
+	</body>
+</html>
+
+<style>
+	.page-container,
+	.page-wrapper {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.page-container {
+		position: relative;
+		min-height: 100svh;
+	}
+
+	.page-wrapper {
+		flex: 1;
+		padding-top: var(--header-height);
+		padding-bottom: var(--footer-height);
+	}
+
+	#top-of-the-page {
+		visibility: hidden;
+	}
+
+	main {
+		margin: 0.5em 3em 2em 3em;
+
+		/* Flexbox with flex grow so that we can easily center things */
+		display: flex;
+		flex-grow: 1;
+	}
+
+	/* The styles for mobile devices */
+	@media only screen and (max-width: 700px) {
+		main {
+			margin: 0 0.7em 2em 0.7em;
+		}
+	}
+</style>

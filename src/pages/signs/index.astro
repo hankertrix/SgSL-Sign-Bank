@@ -1,0 +1,61 @@
+---
+import type { HeadingMap } from "@lib/types";
+import PageOfLinks from "@components/pages/PageOfLinks.astro";
+
+// The interface for the item in the collection
+interface Item {
+	data: {
+		title: string;
+	};
+}
+
+// Regex to check if the string starts with an alphabet
+const ALPHABET_REGEX = /^[A-Z]/i;
+
+// The heading for non-alphabets
+const NON_ALPHABET_HEADING = "Other";
+
+// The function to get the heading
+function getHeadingFunction(item: Item): string {
+	//
+
+	// Get the title of the item
+	const title = item.data.title;
+
+	// Get the match for the title on the regex
+	const match = title.match(ALPHABET_REGEX);
+
+	// If the match doesn't exist, return the non-alphbetical heading
+	if (!match) {
+		return NON_ALPHABET_HEADING;
+	}
+
+	// Otherwise, return the match but in uppercase
+	return match[0].toUpperCase();
+}
+
+// The function to rearrage the headings after they are sorted
+function postHeadingSortFunction(headingMap: HeadingMap): HeadingMap {
+	//
+
+	// Get the non-alphabet heading
+	const links = headingMap.get(NON_ALPHABET_HEADING);
+
+	// Remove the non-alphabet heading from the map
+	headingMap.delete(NON_ALPHABET_HEADING);
+
+	// Add it back so it appears at the end
+	headingMap.set(NON_ALPHABET_HEADING, links ?? []);
+
+	// Return the map
+	return headingMap;
+}
+---
+
+<PageOfLinks
+	title="Signs"
+	collectionString="signs"
+	basePath="/signs"
+	{getHeadingFunction}
+	{postHeadingSortFunction}
+/>

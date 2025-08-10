@@ -1,0 +1,319 @@
+---
+import SearchIcon from "@icons/search.svg";
+---
+
+<!-- The search bar -->
+<div class="wrapper">
+	<div class="page-dimmer"></div>
+	<div id="search-bar">
+		<div class="search-wrapper">
+			<input
+				id="search-input"
+				class="text"
+				type="search"
+				title="Search the website"
+				placeholder="Search..."
+				aria-label="Search"
+			/>
+			<ul id="results"></ul>
+		</div>
+		<button>
+			<SearchIcon />
+		</button>
+	</div>
+</div>
+
+<!-- The script to focus the search bar with keyboard shortcuts -->
+<script>
+	window.addEventListener("keydown", (event) => {
+		//
+
+		// If the key is a slash, period or Ctrl + k
+		if (
+			event.key === "/" ||
+			event.key === "." ||
+			(event.ctrlKey && event.key === "k")
+		) {
+			//
+
+			// Prevent the default action
+			event.preventDefault();
+
+			// Focus the search bar
+			document.getElementById("search-input")?.focus();
+		}
+	});
+</script>
+
+<!-- The script to use pagefind to search the site -->
+<script is:inline>
+	document
+		.getElementById("search-input")
+		?.addEventListener("input", async (event) => {
+			//
+
+			// Get the element
+			const element = event.target;
+
+			// If the pagefind script has not been loaded
+			if (element.dataset.loaded !== "true") {
+				//
+
+				// Load the pagefind script
+				window.pagefind = await import(`/pagefind/pagefind.js`);
+
+				// Configure pagefind
+				await window.pagefind.options({
+					basePath: `/pagefind/`,
+					highlightParam: "highlight",
+				});
+
+				// Initialise pagefind
+				await window.pagefind.init();
+
+				// Set pagefind to be loaded
+				element.dataset.loaded = "true";
+			}
+
+			// Search the index using the input value
+			const search = await window.pagefind.search(event.target.value);
+
+			// Get the result element
+			const resultElem = document.getElementById("results");
+
+			// Clear the old results
+			resultElem.innerHTML = "";
+
+			// Load the results for the page
+			const results = await Promise.all(
+				search.results.map((r) => r.data()),
+			);
+
+			// Initialise the list to store the inner html
+			const innerHtmlList = [];
+
+			// Add the new results
+			for (const result of results) {
+				//
+
+				// Add the data to the inner html list
+				innerHtmlList.push(`
+					<li>
+						<a
+							href="${result.url}"
+							title="Open the page called '${result.meta.title}'"
+						>
+							<h3 class="text">${result.meta.title}</h3>
+							<p class="text">${result.excerpt}</p>
+						</a>
+					</li>
+				`);
+			}
+
+			// Set the inner html to the result element
+			resultElem.innerHTML = innerHtmlList.join("\n");
+		});
+</script>
+
+<!-- The script to load the pagefind highlight script -->
+<script is:inline>
+	document.addEventListener("DOMContentLoaded", async () => {
+		//
+
+		// Get the search params passed to the page
+		const searchParams = new URLSearchParams(window.location.search);
+
+		// Try to get the value of the parameter
+		// for the pagefind highlight script
+		const value = searchParams.get("highlight");
+
+		// If the value is empty, exit the function
+		if (!value) return;
+
+		// Import the pagefind highlight script
+		await import(`/pagefind/pagefind-highlight.js`);
+
+		// Initialise the pagefind highglighting script
+		new PagefindHighlight({ highlightParam: "highlight" });
+	});
+</script>
+
+<style>
+	.wrapper {
+		display: flex;
+		flex-grow: 1;
+		flex-direction: row;
+		justify-content: flex-end;
+	}
+
+	#search-bar {
+		display: flex;
+		flex-grow: 1;
+		flex-direction: row;
+		justify-content: flex-end;
+		overflow: hidden;
+
+		position: relative;
+	}
+
+	.search-wrapper {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-start;
+
+		position: absolute;
+
+		border-radius: 1em;
+		opacity: 0;
+	}
+
+	button {
+		display: flex;
+		flex: none;
+		justify-content: center;
+		align-items: center;
+		border: none;
+		background: none;
+		pointer-events: none;
+		padding: 0;
+		margin: 0;
+
+		width: var(--icon-size);
+		height: var(--icon-size);
+		z-index: 2;
+
+		transition: margin var(--animation-timing);
+	}
+
+	#search-input {
+		background: transparent;
+		font-size: 1.2rem;
+		width: 100%;
+		padding: 0;
+		padding-bottom: 0.5rem;
+		cursor: pointer;
+		border: none;
+		border-bottom: 1px solid var(--text-colour);
+	}
+
+	#search-input:focus {
+		outline: none;
+	}
+
+	button > svg {
+		fill: var(--text-colour);
+		transition: fill var(--animation-timing);
+	}
+
+	#search-bar:hover > button > svg {
+		fill: var(--text-hover-colour);
+		transition: fill var(--animation-timing);
+	}
+
+	/* Styles for the search results */
+	#results {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+		display: flex;
+		flex-direction: column;
+		max-height: calc(100svh - 3.5rem);
+		overflow-y: auto;
+		max-width: 100%;
+		text-wrap: wrap;
+		overflow-wrap: break-word;
+
+		& > :global(li) {
+			display: flex;
+			flex-direction: column;
+			border-radius: 1rem;
+
+			&:hover {
+				background-color: var(--result-hover-colour);
+			}
+		}
+
+		& :global(a) {
+			display: flex;
+			flex-grow: 1;
+			flex-direction: column;
+			gap: 0.5rem;
+			padding: 1rem;
+			margin: 0;
+			text-decoration: none;
+		}
+
+		& :global(h3),
+		& :global(p) {
+			margin: 0;
+			padding: 0;
+		}
+	}
+
+	.page-dimmer {
+		position: fixed;
+		width: 0;
+		height: 0;
+		top: 0;
+		left: 0;
+		opacity: 0;
+		background-color: var(--page-dimmer-colour);
+
+		transition: opacity var(--animation-timing);
+	}
+
+	/* Styles for when there are no search results */
+	.search-wrapper:has(#results:empty) {
+		border-radius: 100vh;
+
+		& #search-input {
+			padding-bottom: 0;
+			border-bottom: none;
+		}
+	}
+
+	/* Styles when the search bar is focused */
+	#search-bar:focus-within {
+		width: 100%;
+		overflow: visible;
+
+		& .search-wrapper {
+			--vertical-padding: 0.4rem;
+			--horizontal-padding: 1rem;
+
+			background-color: var(--search-bar-colour);
+			width: 100%;
+			opacity: 1;
+
+			padding-right: calc(var(--icon-size) + var(--horizontal-padding));
+			padding-left: var(--horizontal-padding);
+			padding-top: var(--vertical-padding);
+			padding-bottom: var(--vertical-padding);
+
+			transform: translateY(calc(-1 * var(--vertical-padding)));
+		}
+
+		& input {
+			cursor: text;
+		}
+
+		& button {
+			margin-right: 0.5rem;
+
+			& > svg {
+				fill: var(--accent-colour);
+			}
+		}
+
+		&:hover > button > svg {
+			fill: var(--accent-hover-colour);
+		}
+	}
+
+	.wrapper:has(#search-bar:focus-within) .page-dimmer {
+		width: 100vw;
+		height: 100svh;
+		opacity: 1;
+	}
+</style>

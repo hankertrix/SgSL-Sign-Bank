@@ -3,25 +3,12 @@
 Welcome to the unofficial and community-maintained sign bank for
 Singapore Sign Language (SgSL)!
 This sign bank aims to be the ultimate resource for Singapore Sign Language.
-Hopefully you will find this repository useful
-in learning Singapore Sign Language.
+Hopefully you will find this repository useful for
+learning Singapore Sign Language.
 
-## Accessing the sign bank
+## [Website][website]
 
-[Click here](./sign-bank/sign-bank.org) to view the sign bank.
-
-<!-- You can also view the sign bank -->
-<!-- through a specially built website if the -->
-<!-- sign bank on GitHub loads too slowly. Access it -->
-<!-- [here](https://sgsl-sign-bank.vercel.app). -->
-
-Alternatively, you can download a local copy of the sign bank if you find it
-loading too slowly for your liking. You can download a local copy from
-[here](https://github.com/hankertrix/SgSL-Sign-Bank/releases/latest/) or
-[here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fhankertrix%2FSgSL-Sign-Bank%2Ftree%2Fmain%2Fsign-bank).
-The latter takes much longer to download, so it is recommended to
-download the sign bank directly from GitHub using the first link.
-Open the file ending in `.html` to view the sign bank in your browser.
+View the [website here][website].
 
 ## Issues and contributions
 
@@ -100,12 +87,58 @@ Hence, this sign bank for SgSL was born.
 - [NPO Hope](https://www.youtube.com/@npo1540/videos)
 - [Stories of Hope Singapore](https://www.youtube.com/watch?v=o-NM5ROjbxU)
 
+## Attribution
+
+### Icons
+
+The icons used in this project are modified versions of icons from
+the [Noun Project]. They are:
+
+- ['Sign Language' by Laura Brier](https://thenounproject.com/icon/sign-language-836023/)
+
+  Modified by fixing two fingers on the icon,
+  inverted the icon to obtain a filled version,
+  and changed the colours.
+
+- ['Laptop' by Agus Raharjo](https://thenounproject.com/icon/laptop-3814970/)
+
+  Modified by removing the laptop background
+  and shortening the arrow above the eye,
+  as well as changing the colours.
+
+- ['Search Eye' by Candy Design](https://thenounproject.com/icon/search-eye-5799995/)
+
+  Modified by changing the colours.
+
+### Fonts
+
+The fonts used in this project are:
+
+- ['Berkshire Swash' by Astigmatic](https://fonts.google.com/specimen/Berkshire+Swash)
+  ([GitHub](https://github.com/librefonts/berkshireswash))
+- ['字魂敦煌经韵楷' by 字魂](https://www.fonts.net.cn/font-45252387134.html)
+
 ## [Licence]
 
 This project is licenced under the
 GNU Affero General Public Licence Version 3 (GNU AGPL v3).
 For the full licence, look at the
-[LICENCE.txt][Licence] file.
+[`LICENCE.txt`][Licence] file.
+
+The font, 'Berkshire Swash', is licenced under the
+[Open Font Licence], which can be found
+in the [`LICENCE-FONTS.txt`](OFL.txt) file.
+
+The icons used are licenced under the
+[Creative Commons Attribution 3.0 Unported Licence][cc-by],
+which can be found in the [`LICENCE-ICONS.txt`](LICENCE-ICONS.txt) file.
+
+[![CC-BY-3.0][cc-by-image]][cc-by]
 
 [SgSL Sign Bank]: https://blogs.ntu.edu.sg/sgslsignbank/signs/
+[Noun Project]: https://thenounproject.com/
 [Licence]: LICENCE.txt
+[website]: https://sgsl-sign-bank.vercel.app
+[Open Font Licence]: https://openfontlicense.org/
+[cc-by]: https://creativecommons.org/licenses/by/3.0/
+[cc-by-image]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg

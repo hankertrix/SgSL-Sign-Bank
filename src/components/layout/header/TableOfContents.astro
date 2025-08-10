@@ -1,0 +1,141 @@
+---
+import type { MarkdownHeading } from "astro";
+import type { Heading } from "@lib/types";
+import TableOfContentsCollapsibleMenu from "./TableOfContentsCollapsibleMenu.astro";
+
+// Function to create the hierarchy for the headings
+function createHierarchy(headings: MarkdownHeading[]): Heading[] {
+	//
+
+	// Initialise the hierarchy
+	const hierarchy: Heading[] = [];
+
+	// Initialise the mapping of parent headings
+	const parentHeadings: Map<number, Heading> = new Map();
+
+	// If there are no headings, return the empty table of contents
+	if (!headings) return hierarchy;
+
+	// Iterate over each of the headings
+	for (const h of headings) {
+		//
+
+		// Create the table of contents item
+		const heading: Heading = {
+			...h,
+			subheadings: [],
+		};
+
+		// Set the depth of the heading to the heading
+		parentHeadings.set(heading.depth, heading);
+
+		// If the depth of the current heading is 2 (h2 element)
+		if (heading.depth === 2) {
+			//
+
+			// Add the heading to the table of contents
+			hierarchy.push(heading);
+		}
+
+		// Otherwise
+		else {
+			//
+
+			// Get the parent of the current heading and
+			// add the current heading to the subheadings list
+			parentHeadings.get(heading.depth - 1)?.subheadings.push(heading);
+		}
+	}
+
+	// Return the hierarchy
+	return hierarchy;
+}
+
+// Get the headings from the props
+const { headings } = Astro.props;
+
+// Create the hierarchy from the headings
+const hierarchy = createHierarchy(headings);
+---
+
+{
+	hierarchy && hierarchy.length > 0 && (
+		<li>
+			<details>
+
+				<!-- The summary element to -->
+				<!-- open and close the collapsible menu -->
+				<summary>
+					<div
+						class="menu-toggler"
+						title={
+							`Show the table of contents`
+						}
+					>
+						<div class="icon" />
+					</div>
+					<div class="table-of-contents">Table of Contents</div>
+				</summary>
+
+				<!-- The collapsible menu to open and close -->
+				<ul>
+					{hierarchy.map((heading) => (
+						<TableOfContentsCollapsibleMenu {heading} />
+					))}
+				</ul>
+			</details>
+		</li>
+	)
+}
+
+<style>
+	summary {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		cursor: pointer;
+	}
+
+	.menu-toggler {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-self: start;
+	}
+
+	.icon {
+		--triangle-size: 0.25em;
+
+		width: 0;
+		height: 0;
+		border-top: var(--triangle-size) solid transparent;
+		border-bottom: var(--triangle-size) solid transparent;
+		border-left: var(--triangle-size) solid var(--text-colour);
+		margin-top: var(--triangle-size);
+		margin-left: var(--triangle-size);
+		margin-right: calc(var(--triangle-size) + 0.1em);
+		transition:
+			rotate var(--animation-timing),
+			translate var(--animation-timing);
+	}
+
+	summary:hover .icon {
+		border-left-color: var(--link-hover-colour);
+	}
+
+	summary:hover .table-of-contents {
+		color: var(--link-hover-colour);
+	}
+
+	ul {
+		margin: 0;
+		margin-left: var(--list-margin-left);
+		padding: 0;
+		list-style-type: var(--sidebar-list-style-type);
+	}
+
+	/* The styles when the collapsible is open */
+	details[open] > summary > .menu-toggler > .icon {
+		rotate: 90deg;
+	}
+</style>

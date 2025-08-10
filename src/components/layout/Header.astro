@@ -1,0 +1,247 @@
+---
+import Sidebar from "@components/layout/header/Sidebar.astro";
+import SearchBar from "@components/layout/header/SearchBar.astro";
+import ThemeToggler from "@components/layout/header/ThemeToggler.astro";
+import SignLanguageIcon from "@icons/sign-language.svg";
+
+const { headings } = Astro.props;
+---
+
+<header>
+	<nav class="top-bar">
+		<!----->
+
+		<!-- The hamburger menu icon -->
+		<div class="left-wrapper">
+			<label
+				class="hamburger-icon"
+				title="Toggle the hamburger menu"
+				role="presentation"
+			>
+				<input name="hamburger-icon" type="checkbox" />
+			</label>
+		</div>
+
+		<!-- The name of the site -->
+		<div class="mid-wrapper">
+			<a href="/" class="site-name-wrapper" title="Go to the home page">
+				<div class="site-icon">
+					<SignLanguageIcon />
+				</div>
+				<div class="site-name text">SgSL Sign Bank</div>
+			</a>
+		</div>
+
+		<!-- The wrapper for the buttons -->
+		<div class="right-wrapper">
+			<!----->
+
+			<!-- Search bar -->
+			<div class="search-bar-wrapper">
+				<SearchBar />
+			</div>
+
+			<!-- Theme toggler -->
+			<div class="theme-toggler-wrapper">
+				<ThemeToggler />
+			</div>
+		</div>
+	</nav>
+	<aside class="sidebar">
+		<Sidebar {headings} />
+	</aside>
+</header>
+
+<style>
+	header {
+		/* Variables for the hamburger menu */
+		--bar-width: 1.75rem;
+		--bar-height: 0.25rem;
+		--hamburger-gap: 0.2rem;
+		--hamburger-width: var(--bar-width);
+		--hamburger-height: calc(
+			var(--bar-height) * 3 + var(--hamburger-gap) * 2
+		);
+
+		/* The width of the "X" when the hamburger menu is open */
+		/* 1.41421356237 is root 2 */
+		--x-width: calc(var(--hamburger-height) * 1.41421356237);
+
+		/* The size of the icons */
+		--icon-size: 1.5rem;
+
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		z-index: 2;
+		height: var(--header-height);
+	}
+
+	.top-bar {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		padding: 0.25rem 0.75rem;
+		flex: 1;
+		height: 100%;
+	}
+
+	.left-wrapper {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+	}
+
+	.mid-wrapper {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.site-name-wrapper {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;
+		gap: 0.1rem;
+		text-decoration: none;
+		text-wrap: nowrap;
+	}
+
+	.site-icon > svg {
+		--icon-size: 2rem;
+
+		width: var(--icon-size);
+		height: var(--icon-size);
+		fill: var(--text-colour);
+	}
+
+	.site-name {
+		font-family: "Berkshire Swash", sans-serif;
+		font-size: 1.4rem;
+		padding-right: 0.25rem;
+	}
+
+	.site-name-wrapper:hover svg {
+		fill: var(--text-hover-colour);
+	}
+
+	.site-name-wrapper:hover > .site-name {
+		color: var(--text-hover-colour);
+	}
+
+	.right-wrapper {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: flex-end;
+		gap: 0.35rem;
+	}
+
+	.theme-toggler-wrapper {
+		width: var(--icon-size);
+		height: var(--icon-size);
+	}
+
+	.search-bar-wrapper {
+		display: flex;
+		flex-direction: row;
+		flex-grow: 0;
+		justify-content: flex-end;
+		align-items: center;
+
+		transition: flex-grow var(--animation-timing);
+	}
+
+	/* Styles for the search bar is focused */
+	.top-bar:has(#search-bar:focus-within) {
+		grid-template-columns: auto auto 1fr;
+		gap: 0.5rem;
+	}
+
+	.search-bar-wrapper:has(#search-bar:focus-within) {
+		flex-grow: 1;
+	}
+
+	/* Styles for when the hamburger menu is closed */
+	.hamburger-icon {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		gap: var(--hamburger-gap);
+		cursor: pointer;
+		width: var(--hamburger-width);
+	}
+
+	.hamburger-icon::before,
+	.hamburger-icon::after,
+	.hamburger-icon > input {
+		content: "";
+		width: var(--bar-width);
+		height: var(--bar-height);
+		border-radius: 100vh;
+		background-color: var(--text-colour);
+		transform-origin: left center;
+		transition:
+			opacity var(--animation-timing),
+			width var(--animation-timing),
+			rotate var(--animation-timing),
+			translate var(--animation-timing);
+	}
+
+	.hamburger-icon > input {
+		appearance: none;
+		margin: 0;
+		padding: 0;
+		outline: none;
+		pointer-events: none;
+	}
+
+	.hamburger-icon:hover::before,
+	.hamburger-icon:hover::after,
+	.hamburger-icon:hover > input {
+		background-color: var(--text-hover-colour);
+	}
+
+	.sidebar {
+		translate: -100%;
+		width: max-content;
+		max-width: 100svw;
+		transition: translate var(--animation-timing);
+	}
+
+	/* Styles for when the hamburger menu is open */
+	.hamburger-icon > input:checked {
+		opacity: 0;
+		width: 0;
+	}
+
+	.hamburger-icon:has(input:checked)::before {
+		rotate: 45deg;
+		width: var(--x-width);
+		translate: 0 calc(var(--bar-height) / -2);
+	}
+
+	.hamburger-icon:has(input:checked)::after {
+		rotate: -45deg;
+		width: var(--x-width);
+		translate: 0 calc(var(--bar-height) / 2);
+	}
+
+	:is(.top-bar:has(.hamburger-icon > input:checked)) + .sidebar {
+		translate: 0;
+	}
+
+	/* Styles for mobile devices */
+	@media only screen and (max-width: 700px) {
+		.top-bar:has(#search-bar:focus-within) .site-name {
+			display: none;
+		}
+	}
+
+	@media only screen and (max-width: 450px) {
+		.site-name {
+			display: none;
+		}
+	}
+</style>

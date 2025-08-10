@@ -1,0 +1,111 @@
+---
+import ArrowUpIcon from "@icons/arrow-up.svg";
+---
+
+<script>
+	//
+
+	// The scroll height threshold in pixels.
+	// The button will only appear after the scroll height is
+	// beyond this threshold.
+	const SCROLL_HEIGHT_THRESHOLD = 500;
+
+	// Initialise the previous scroll height
+	let previousScrollHeight = 0;
+
+	// Get the scroll up button
+	const scrollUpButton = document.getElementById("scroll-up-button");
+
+	// Function to make the scroll up button appear and disappear
+	function handleScroll(): void {
+		//
+
+		// If the scroll up button doesn't exist, exit the function
+		if (!scrollUpButton) return;
+
+		// Get the current scroll height
+		const currentScrollHeight = window.scrollY;
+
+		// If the current scroll height is above the scroll height threshold
+		// and if the current scroll height is less than
+		// the previous scroll height,
+		// which means the user is scrolling upwards
+		if (
+			currentScrollHeight > SCROLL_HEIGHT_THRESHOLD &&
+			currentScrollHeight < previousScrollHeight
+		) {
+			//
+
+			// Make the scroll up button visible.
+			//
+			// The opacity is needed, otherwise the button
+			// will not fade in and out,
+			// and instead just immediately appear and disappear.
+			scrollUpButton.style.visibility = "visible";
+			scrollUpButton.style.opacity = "1";
+		}
+
+		// Otherwise
+		else {
+			//
+
+			// Make the scroll up button invisible
+			//
+			// The opacity is needed, otherwise the button
+			// will not fade in and out,
+			// and instead just immediately appear and disappear.
+			scrollUpButton.style.visibility = "hidden";
+			scrollUpButton.style.opacity = "0";
+		}
+
+		// Set the previous scroll height to the current scroll height
+		previousScrollHeight = currentScrollHeight;
+	}
+
+	// Add the event listener for the scroll event to the document
+	document.addEventListener("scroll", handleScroll);
+</script>
+
+<!-- The HTML for the scroll up button -->
+<nav id="scroll-up-button" title="Scroll to the top of the page">
+	<a href="#top-of-the-page" aria-label="Scroll to the top of the page">
+		<ArrowUpIcon />
+	</a>
+</nav>
+
+<!-- The styles for the scroll up button -->
+<style>
+	nav {
+		--size: 2em;
+
+		width: var(--size);
+		height: var(--size);
+		position: fixed;
+		bottom: 3em;
+		right: 1.5em;
+		border-radius: 50%;
+		visibility: hidden;
+		opacity: 1;
+		background-color: var(--footer-background-colour);
+		transition:
+			opacity var(--animation-timing),
+			visibility var(--animation-timing);
+	}
+
+	a {
+		text-decoration: none;
+		width: 100%;
+		height: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	a > svg {
+		fill: var(--accent-colour);
+	}
+
+	a:hover > svg {
+		fill: var(--accent-hover-colour);
+	}
+</style>

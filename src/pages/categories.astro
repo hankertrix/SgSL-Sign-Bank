@@ -1,0 +1,22 @@
+---
+import PageOfLinks from "@components/pages/PageOfLinks.astro";
+
+// The interface for the item in the collection
+interface Item {
+	data: {
+		category: string;
+	};
+}
+
+// The function to get the heading
+function getHeadingFunction(item: Item): string {
+	return item.data.category;
+}
+---
+
+<PageOfLinks
+	title="Categories"
+	collectionString="signs"
+	basePath="/signs"
+	{getHeadingFunction}
+/>

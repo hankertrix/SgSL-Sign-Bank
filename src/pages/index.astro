@@ -1,0 +1,62 @@
+---
+import { PAGES } from "@lib/constants";
+import { createLinks } from "@lib/utils";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import LinkGrid from "@components/general/LinkGrid.astro";
+
+// Create the links from the pages
+const links = createLinks(Object.keys(PAGES), "/");
+---
+
+<BaseLayout>
+	<div class="wrapper">
+		<div class="content">
+			<h1 class="text">SgSL Sign Bank</h1>
+			<p class="text">
+				Welcome to the unofficial, community maintained Singapore Sign
+				Language (SgSL) Sign Bank!
+			</p>
+			<p class="text">
+				Click the hamburger menu on the top right hand corner to open
+				the sidebar, or click on the search icon on the top left to
+				search the entire site, or click on one of the links below to
+				get started!
+			</p>
+			<div class="links">
+				<LinkGrid {links} />
+			</div>
+		</div>
+	</div>
+</BaseLayout>
+
+<style>
+	.wrapper {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-grow: 1;
+		text-align: center;
+	}
+
+	.content {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		max-width: 70%;
+	}
+
+	p {
+		margin: 0.5em 0;
+	}
+
+	.links {
+		margin: 1em;
+		width: 100%;
+	}
+
+	.links :global(a) {
+		font-size: 1.25em;
+		padding: 1em;
+	}
+</style>

@@ -1,0 +1,48 @@
+---
+import type { Link } from "@lib/types";
+
+// Get the links from the props
+const { links } = Astro.props;
+---
+
+<div class="wrapper">
+	<div class="link-grid">
+		{links.map((link: Link) => <a href={link.url}>{link.title}</a>)}
+	</div>
+</div>
+
+<style>
+	.wrapper {
+		--size: 100%;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-grow: 1;
+		background-color: var(--link-grid-background-colour);
+		border-radius: 1rem;
+		border: 0.25rem solid var(--accent-colour);
+	}
+
+	.link-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+		gap: 1rem;
+		width: var(--size);
+		height: var(--size);
+		text-align: center;
+	}
+
+	a {
+		border-radius: 0.5rem;
+		padding: 0.5rem;
+		align-content: center;
+		text-decoration: none;
+
+		transition: background-color var(--animation-timing);
+	}
+
+	a:hover {
+		background-color: var(--accent-colour);
+	}
+</style>

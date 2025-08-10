@@ -1,0 +1,157 @@
+/* Fonts */
+
+@font-face {
+	font-family: "Berkshire Swash";
+	src: url("/fonts/BerkshireSwash.woff2") format(woff2);
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Zi Hun";
+	src: url("/fonts/ZiHunDunHuangJingYunKai.ttf") format(truetype);
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Variables */
+:root {
+	--footer-height: 3rem;
+	--header-height: 3rem;
+	--page-margin: 0.5rem 3rem;
+
+	/* Colours */
+	--accent-colour: #cf142b;
+	--accent-hover-colour: #ef5a6b;
+	--acent-active-colour: #a00f20;
+	--accent-text-colour: white;
+	--mark-text-colour: white;
+	--mark-background-colour: var(--accent-colour);
+	--link-colour: #ff4949;
+	--link-hover-colour: #ff7c7c;
+	--link-active-colour: #e20000;
+	--page-dimmer-colour: rgba(0, 0, 0, 0.5);
+
+	/* Colours for the light theme */
+	--text-colour: black;
+	--text-hover-colour: #4d4d4d;
+	--background-colour: white;
+	--footer-background-colour: #e6e6e6;
+	--github-logo-colour: black;
+	--search-bar-colour: #e6e6e6;
+	--result-hover-colour: #b3b3b3;
+	--link-grid-background-colour: #cccccc;
+}
+
+/* Colours for the dark theme */
+.dark {
+	--text-colour: rgba(255, 255, 255, 0.8);
+	--text-hover-colour: rgba(255, 255, 255);
+	--background-colour: #121212;
+	--footer-background-colour: #2c2c2c;
+	--github-logo-colour: white;
+	--search-bar-colour: #2c2c2c;
+	--result-hover-colour: #4d4d4d;
+	--link-grid-background-colour: #333333;
+}
+
+/* Styles for everything */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	scroll-padding-top: calc(var(--header-height) + 0.5em);
+
+	/* Fonts */
+	font-family: "Zi Hun", sans-serif;
+	font-size: 22px;
+
+	/* Colours */
+	color: var(--text-colour);
+	background-color: var(--background-colour);
+}
+
+input {
+	font-family: "Zi Hun", sans-serif;
+}
+
+header {
+	background-color: var(--accent-colour);
+}
+
+footer {
+	background-color: var(--footer-background-colour);
+}
+
+mark {
+	color: var(--mark-text-colour);
+	background-color: var(--mark-background-colour);
+}
+
+.text {
+	color: var(--text-colour);
+}
+
+a {
+	color: var(--link-colour);
+}
+
+a:hover {
+	color: var(--link-hover-colour);
+}
+
+a:active {
+	color: var(--link-active-colour);
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+h1 {
+	font-family: "Berkshire Swash", "Zi Hun", sans-serif;
+}
+
+:is(h1, h2, h3, h4, h5, h6):target {
+	color: var(--accent-colour);
+}
+
+/* Animate when the user has no preference for reduced motion */
+@media (prefers-reduced-motion: no-preference) {
+	:root {
+		--animation-timing: 200ms ease-in-out;
+	}
+
+	html {
+		scroll-behavior: smooth;
+	}
+
+	::view-transition-new(root) {
+		animation: grow 750ms;
+	}
+
+	@keyframes grow {
+		from {
+			clip-path: circle(0% at 100% 0%);
+		}
+		to {
+			clip-path: circle(150% at 100% 0%);
+		}
+	}
+}
+
+/* The styles for mobile devices */
+@media only screen and (max-width: 700px) {
+	:root {
+		--page-margin: 0 0.75rem;
+	}
+}

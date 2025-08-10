@@ -1,0 +1,39 @@
+---
+import { PAGES } from "@lib/constants";
+import SidebarCollapsibleMenu from "./SidebarCollapsibleMenu.astro";
+import TableOfContents from "./TableOfContents.astro";
+
+// Get the headings from the props
+const { headings } = Astro.props;
+---
+
+<nav>
+	<ul>
+		<TableOfContents {headings} />
+		<SidebarCollapsibleMenu pages={PAGES} />
+	</ul>
+</nav>
+
+<style>
+	nav {
+		--border-radius: 0.5em;
+
+		background-color: var(--accent-colour);
+		border-bottom-left-radius: var(--border-radius);
+		border-bottom-right-radius: var(--border-radius);
+	}
+
+	ul {
+		--sidebar-list-style-type: none;
+		--list-margin-left: 0.75em;
+		--no-child-left-padding: 0.85em;
+
+		margin: 0 0 0 0.5em;
+		padding: 0 0.4em 0.4em 0;
+		list-style-type: var(--sidebar-list-style-type);
+		max-height: calc(100svh - var(--navbar-height));
+		overflow-x: hidden;
+		overflow-y: auto;
+		scrollbar-gutter: stable;
+	}
+</style>

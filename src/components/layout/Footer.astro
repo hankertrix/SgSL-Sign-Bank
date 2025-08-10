@@ -1,0 +1,149 @@
+---
+import GithubLogo from "@icons/github.svg";
+import CodebergLogo from "@icons/codeberg.svg";
+import TelegramLogo from "@icons/telegram.svg";
+---
+
+<!-- The main HTML for the footer -->
+<footer>
+	<a
+		class="copyleft"
+		href="https://github.com/hankertrix/SgSL-Sign-Bank/blob/main/LICENCE.txt"
+		target="_blank"
+		title="Copyright notice and license"
+		rel="noopener noreferrer"
+	>
+		<div class="text">
+			Copyleft&nbsp;<span class="symbol">©</span>&#32;2024 Hankertrix.
+			<div class="rights-notice">All Wrongs Reserved.</div>
+		</div>
+	</a>
+	<div class="source-wrapper">
+		<a
+			class="source"
+			href="https://codeberg.org/Hanker/SgSL-Sign-Bank"
+			target="_blank"
+			title="View the source code on Codeberg"
+			rel="noopener noreferrer">Source:</a
+		>
+		<div class="icon-wrapper">
+			<a
+				class="codeberg-logo"
+				href="https://codeberg.org/Hanker/SgSL-Sign-Bank"
+				target="_blank"
+				title="View the source code on Codeberg"
+				aria-label="View the source code on Codeberg"
+				rel="noopener noreferrer"
+			>
+				<CodebergLogo />
+			</a>
+			<a
+				class="github-logo"
+				href="https://github.com/hankertrix/SgSL-Sign-Bank"
+				target="_blank"
+				title="View the source code on GitHub"
+				aria-label="View the source code on GitHub"
+				rel="noopener noreferrer"
+			>
+				<GithubLogo />
+			</a>
+		</div>
+	</div>
+	<a
+		href="https://t.me/addstickers/MerdeafSgSL"
+		target="_blank"
+		rel="noopener noreferrer"
+		title="Add SgSL Merdeaf stickers!"
+		class="telegram-wrapper"
+	>
+		<TelegramLogo />
+		<b>Telegram Stickers</b>
+	</a>
+</footer>
+
+<!-- The styles for the footer -->
+<style>
+	footer {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height: var(--footer-height);
+		display: grid;
+		align-items: center;
+		grid-template-columns: repeat(3, 1fr);
+		padding: 5px 20px;
+	}
+
+	.symbol {
+		display: inline-block;
+		transform: scale(-1, 1);
+	}
+
+	.copyleft {
+		font-size: 0.75rem;
+		flex-direction: row;
+		text-decoration: none;
+	}
+
+	.source-wrapper {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.source {
+		font-size: 0.7rem;
+		margin-bottom: 0.25em;
+	}
+
+	.icon-wrapper {
+		--icon-size: 1.25rem;
+
+		display: flex;
+		flex-direction: row;
+		gap: 0.2rem;
+	}
+
+	.icon-wrapper svg {
+		width: var(--icon-size);
+		height: var(--icon-size);
+	}
+
+	.github-logo svg {
+		fill: var(--github-logo-colour);
+	}
+
+	.telegram-wrapper {
+		justify-self: end;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		gap: 0.5em;
+		text-decoration: none;
+		text-align: center;
+		color: #229ed9;
+	}
+
+	.telegram-wrapper > svg {
+		--size: 1.85em;
+
+		width: var(--size);
+		height: var(--size);
+	}
+
+	.telegram-wrapper > b {
+		padding-bottom: 0.25em;
+	}
+
+	/* Styles for mobile devices */
+	@media only screen and (max-width: 700px) {
+		.footer {
+			padding: 0.25em 0.5em;
+		}
+
+		.rights-notice {
+			display: none;
+		}
+	}
+</style>
