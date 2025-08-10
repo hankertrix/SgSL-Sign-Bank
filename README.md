@@ -127,7 +127,7 @@ For the full licence, look at the
 
 The font, 'Berkshire Swash', is licenced under the
 [Open Font Licence], which can be found
-in the [`LICENCE-FONTS.txt`](OFL.txt) file.
+in the [`OFL.txt`](OFL.txt) file.
 
 The icons used are licenced under the
 [Creative Commons Attribution 3.0 Unported Licence][cc-by],
