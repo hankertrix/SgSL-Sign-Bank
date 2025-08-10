@@ -1,4 +1,4 @@
-# Singapore Sign Language (SgSL) Sign Bank
+# [Singapore Sign Language (SgSL) Sign Bank][Website]
 
 Welcome to the unofficial and community-maintained sign bank for
 Singapore Sign Language (SgSL)!
@@ -6,9 +6,15 @@ This sign bank aims to be the ultimate resource for Singapore Sign Language.
 Hopefully you will find this repository useful for
 learning Singapore Sign Language.
 
-## [Website][website]
+## [Website]
 
-View the [website here][website].
+The website is built using the [Astro] meta-framework and
+uses only [Astro components][astro-components],
+and does not make use of front-end frameworks like
+[React], [Vue], [Solid], or [Svelte].
+It also makes use of [Pagefind] for website search.
+
+Visit the [website here][Website].
 
 ## Issues and contributions
 
@@ -41,8 +47,8 @@ The Telegram sticker pack is an unofficial port of the official
 [LINE](https://line.me/en/) stickers above.
 The sticker pack contains both the Singapore Sign Language
 sticker pack and the sticker pack for Singlish Signs.
-You can get the sticker pack
-[here](https://telegram.me/addstickers/MerdeafSgSL).
+You can get the
+[sticker pack here](https://telegram.me/addstickers/MerdeafSgSL).
 
 #### [chatsticker](https://chatsticker.com/)
 
@@ -63,6 +69,11 @@ The Singapore Association for the Deaf (SADeaf).
 Moving the cheat sheet into a separate repository will make it
 easier to maintain, and easier for people to contribute.
 Hence, this sign bank for SgSL was born.
+
+Previously, before the [website][Website] was created, the sign bank
+was in the form of a downloadable HTML file which was created from an
+Org mode document. That has since been removed as the website
+is far easier to use.
 
 ## Sources and references
 
@@ -118,6 +129,13 @@ The fonts used in this project are:
   ([GitHub](https://github.com/librefonts/berkshireswash))
 - ['字魂敦煌经韵楷' by 字魂](https://www.fonts.net.cn/font-45252387134.html)
 
+## Privacy
+
+This project respects your privacy and the [website][Website]
+collects absolutely no information about you.
+The [website][Website] only makes use of local storage to store the theme
+and nothing else. You can verify this by looking through the source code.
+
 ## [Licence]
 
 This project is licenced under the
@@ -135,10 +153,17 @@ which can be found in the [`LICENCE-ICONS.txt`](LICENCE-ICONS.txt) file.
 
 [![CC-BY-3.0][cc-by-image]][cc-by]
 
+[Website]: https://sgsl-sign-bank.vercel.app
+[Astro]: https://astro.build/
+[astro-components]: https://docs.astro.build/en/basics/astro-components/
+[React]: https://react.dev/
+[Vue]: https://vuejs.org/
+[Svelte]: https://svelte.dev/
+[Solid]: https://www.solidjs.com/
+[Pagefind]: https://pagefind.app/
 [SgSL Sign Bank]: https://blogs.ntu.edu.sg/sgslsignbank/signs/
 [Noun Project]: https://thenounproject.com/
 [Licence]: LICENCE.txt
-[website]: https://sgsl-sign-bank.vercel.app
 [Open Font Licence]: https://openfontlicense.org/
 [cc-by]: https://creativecommons.org/licenses/by/3.0/
 [cc-by-image]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
