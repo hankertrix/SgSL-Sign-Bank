@@ -190,8 +190,11 @@ import SearchIcon from "@icons/search.svg";
 		background: transparent;
 		font-size: 1.2rem;
 		width: 100%;
+		height: 100%;
 		padding: 0;
+		padding-top: 0.1rem;
 		padding-bottom: 0.5rem;
+		border-radius: 0;
 		cursor: pointer;
 		border: none;
 		border-bottom: 1px solid var(--text-colour);
@@ -268,7 +271,7 @@ import SearchIcon from "@icons/search.svg";
 		border-radius: 100vh;
 
 		& #search-input {
-			padding-bottom: 0;
+			padding-bottom: 0.1rem;
 			border-bottom: none;
 		}
 	}
@@ -279,7 +282,7 @@ import SearchIcon from "@icons/search.svg";
 		overflow: visible;
 
 		& .search-wrapper {
-			--vertical-padding: 0.4rem;
+			--vertical-padding: 0.3rem;
 			--horizontal-padding: 1rem;
 
 			background-color: var(--search-bar-colour);
