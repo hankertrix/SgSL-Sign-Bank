@@ -181,8 +181,6 @@ import SearchIcon from "@icons/search.svg";
 		padding: 0;
 		margin: 0;
 
-		width: var(--icon-size);
-		height: var(--icon-size);
 		z-index: 2;
 
 		transition: margin var(--animation-timing);
@@ -207,13 +205,14 @@ import SearchIcon from "@icons/search.svg";
 	}
 
 	button > svg {
+		width: var(--icon-size);
+		height: var(--icon-size);
 		fill: var(--text-colour);
 		transition: fill var(--animation-timing);
 	}
 
 	#search-bar:hover > button > svg {
 		fill: var(--text-hover-colour);
-		transition: fill var(--animation-timing);
 	}
 
 	/* Styles for the search results */
