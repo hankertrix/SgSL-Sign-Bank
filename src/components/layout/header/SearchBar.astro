@@ -147,6 +147,8 @@ import SearchIcon from "@icons/search.svg";
 	}
 
 	#search-bar {
+		--input-padding-top-bottom: 0.2rem;
+
 		display: flex;
 		flex-grow: 1;
 		flex-direction: row;
@@ -181,9 +183,12 @@ import SearchIcon from "@icons/search.svg";
 
 		width: var(--icon-size);
 		height: var(--icon-size);
-		z-index: 3;
+		z-index: 2;
 
 		transition: margin var(--animation-timing);
+
+		/* Fix for Safari since it doesn't seem to respect the z-index */
+		-webkit-transform: translate3d(0, 0, 0);
 	}
 
 	#search-input {
@@ -192,7 +197,7 @@ import SearchIcon from "@icons/search.svg";
 		width: 100%;
 		height: 100%;
 		padding: 0;
-		padding-top: 0.1rem;
+		padding-top: var(--input-padding-top-bottom);
 		padding-bottom: 0.5rem;
 		border-radius: 0;
 		cursor: pointer;
@@ -271,7 +276,7 @@ import SearchIcon from "@icons/search.svg";
 		border-radius: 100vh;
 
 		& #search-input {
-			padding-bottom: 0.1rem;
+			padding-bottom: var(--input-padding-top-bottom);
 			border-bottom: none;
 		}
 	}
@@ -282,8 +287,11 @@ import SearchIcon from "@icons/search.svg";
 		overflow: visible;
 
 		& .search-wrapper {
-			--vertical-padding: 0.3rem;
+			--total-padding: 0.4rem;
 			--horizontal-padding: 1rem;
+			--vertical-padding: calc(
+				var(--total-padding) - var(--input-padding-top-bottom)
+			);
 
 			background-color: var(--search-bar-colour);
 			width: 100%;
@@ -294,7 +302,7 @@ import SearchIcon from "@icons/search.svg";
 			padding-top: var(--vertical-padding);
 			padding-bottom: var(--vertical-padding);
 
-			transform: translateY(calc(-1 * var(--vertical-padding)));
+			transform: translateY(calc(-1 * var(--total-padding)));
 		}
 
 		& input {
