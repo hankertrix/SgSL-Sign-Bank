@@ -121,6 +121,8 @@ import TelegramLogo from "@icons/telegram.svg";
 	.telegram-wrapper svg {
 		--size: 1.85em;
 
+		/* The round function is to fix the icon */
+		/* being cut off at the bottom in Safari */
 		width: round(var(--size), 1px);
 		height: round(var(--size), 1px);
 	}
