@@ -45,11 +45,12 @@ import SearchIcon from "@icons/search.svg";
 	});
 </script>
 
-<!-- The script to unfocus the search bar when the dimmer is clicked -->
+<!-- The script to unfocus the search bar when the page dimmer is clicked -->
 <script>
 	//
 
-	// Immediately invoked function expression to immediately run the function
+	// Immediately invoked function expression (IIFE)
+	// to immediately run the function
 	(function setupUnfocus(): void {
 		//
 
@@ -59,7 +60,7 @@ import SearchIcon from "@icons/search.svg";
 		// If the page dimmer doesn't exist, exit the function
 		if (!pageDimmer) return;
 
-		// Add an event listener for when it is clicked
+		// Otherwise, add an event listener for when it is clicked
 		pageDimmer.addEventListener("click", () => {
 			//
 
@@ -69,17 +70,35 @@ import SearchIcon from "@icons/search.svg";
 	})();
 </script>
 
+<!-- The script to continue focusing the search bar -->
+<!-- when the result element is clicked -->
+<script>
+	//
+
+	// Immediately invoked function expression (IIFE)
+	// to immediately run the function
+	(function setupContinueFocus(): void {
+		//
+
+		// Get the result element
+		const resultElem = document.getElementById("results");
+
+		// If the result element doesn't exist, exit the function
+		if (!resultElem) return;
+
+		// Otherwise add an event listener for when it is clicked
+		resultElem.addEventListener("click", (event) => {
+			//
+
+			// Continue focusing the search bar
+			document.getElementById("search-input")?.focus();
+		});
+	})();
+</script>
+
 <!-- The script to use pagefind to search the site -->
 <script is:inline>
 	//
-
-	// The function to navigate to the result page.
-	//
-	// This function is a fallback for Safari since
-	// it somehow doesn't navigate to the page correctly.
-	function navigate(relative_url) {
-		window.location.href = window.location.hostname + relative_url;
-	}
 
 	// Create the event listener on the input element
 	document
@@ -116,6 +135,9 @@ import SearchIcon from "@icons/search.svg";
 			// Get the result element
 			const resultElem = document.getElementById("results");
 
+			// If the result element doesn't exist, exit the function
+			if (!resultElem) return;
+
 			// Clear the old results
 			resultElem.innerHTML = "";
 
@@ -137,7 +159,6 @@ import SearchIcon from "@icons/search.svg";
 						<a
 							href="${result.url}"
 							title="Open the page called '${result.meta.title}'"
-							onclick="navigate('${result.url}')"
 						>
 							<h3 class="text">${result.meta.title}</h3>
 							<p class="text">${result.excerpt}</p>
