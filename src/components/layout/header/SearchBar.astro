@@ -90,6 +90,9 @@ import SearchIcon from "@icons/search.svg";
 		resultElem.addEventListener("click", (event) => {
 			//
 
+			// Prevent the default action
+			event.preventDefault();
+
 			// Continue focusing the search bar
 			document.getElementById("search-input")?.focus();
 		});
@@ -99,6 +102,11 @@ import SearchIcon from "@icons/search.svg";
 <!-- The script to use pagefind to search the site -->
 <script is:inline>
 	//
+
+	// Function to navigate to the results page
+	function navigate(relativeUrl) {
+		window.location.href = relativeUrl;
+	}
 
 	// Create the event listener on the input element
 	document
@@ -159,6 +167,7 @@ import SearchIcon from "@icons/search.svg";
 						<a
 							href="${result.url}"
 							title="Open the page called '${result.meta.title}'"
+							onclick="navigate('${result.url}')"
 						>
 							<h3 class="text">${result.meta.title}</h3>
 							<p class="text">${result.excerpt}</p>
