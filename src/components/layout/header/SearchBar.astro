@@ -4,7 +4,7 @@ import SearchIcon from "@icons/search.svg";
 
 <!-- The search bar -->
 <div class="wrapper">
-	<div class="page-dimmer"></div>
+	<div id="page-dimmer"></div>
 	<div id="search-bar">
 		<div class="search-wrapper">
 			<input
@@ -45,8 +45,43 @@ import SearchIcon from "@icons/search.svg";
 	});
 </script>
 
+<!-- The script to unfocus the search bar when the dimmer is clicked -->
+<script>
+	//
+
+	// Immediately invoked function expression to immediately run the function
+	(function setupUnfocus(): void {
+		//
+
+		// Get the page dimmer element
+		const pageDimmer = document.getElementById("page-dimmer");
+
+		// If the page dimmer doesn't exist, exit the function
+		if (!pageDimmer) return;
+
+		// Add an event listener for when it is clicked
+		pageDimmer.addEventListener("click", () => {
+			//
+
+			// Unfocus the search bar
+			document.getElementById("search-input")?.blur();
+		});
+	})();
+</script>
+
 <!-- The script to use pagefind to search the site -->
 <script is:inline>
+	//
+
+	// The function to navigate to the result page.
+	//
+	// This function is a fallback for Safari since
+	// it somehow doesn't navigate to the page correctly.
+	function navigate(relative_url) {
+		window.location.href = window.location.hostname + relative_url;
+	}
+
+	// Create the event listener on the input element
 	document
 		.getElementById("search-input")
 		?.addEventListener("input", async (event) => {
@@ -101,8 +136,11 @@ import SearchIcon from "@icons/search.svg";
 					<li>
 						<a
 							href="${result.url}"
+							title="Open the page called '${result.meta.title}'"
+							onclick="navigate('${result.url}')"
 						>
-							${result.meta.title}
+							<h3 class="text">${result.meta.title}</h3>
+							<p class="text">${result.excerpt}</p>
 						</a>
 					</li>
 				`);
@@ -253,7 +291,7 @@ import SearchIcon from "@icons/search.svg";
 		}
 	}
 
-	.page-dimmer {
+	#page-dimmer {
 		position: fixed;
 		width: 0;
 		height: 0;
@@ -316,7 +354,7 @@ import SearchIcon from "@icons/search.svg";
 		}
 	}
 
-	.wrapper:has(#search-bar:focus-within) .page-dimmer {
+	.wrapper:has(#search-bar:focus-within) #page-dimmer {
 		width: 100vw;
 		height: 100svh;
 		opacity: 1;
