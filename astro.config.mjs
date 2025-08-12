@@ -59,6 +59,9 @@ export default defineConfig({
 				hashes: [
 					//
 
+					// The pagefind highlight style
+					"sha256-ZCoB1kba9ZTfELA9P5NVsXbrXfcqOSTrLTbcMfUVY4E=",
+
 					// Not sure what this style is for, but it's required
 					"sha256-y0FDWhr0m3Jam1HNNCTVey61m4zSmlv57Q1pjAE7A+E=",
 				],
