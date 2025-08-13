@@ -8,7 +8,7 @@ category: Vocabulary
 ## Variation 1
 
 Exactly the same gesture as the
-["agent gesture"](../resources/definitions#agent-gesture).
+["agent gesture"](../../resources/definitions#agent-gesture).
 
 ![Variation 1 of person](@signs/person-variation-1.gif)
 
