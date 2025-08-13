@@ -74,7 +74,7 @@ import SearchIcon from "@icons/search.svg";
 	})();
 </script>
 
-<!-- The script to load the pagefind scripts -->
+<!-- The script to load the pagefind highlight script -->
 <script
 	defer
 	is:inline
@@ -86,18 +86,6 @@ import SearchIcon from "@icons/search.svg";
 	// to load the pagefind scripts
 	(async () => {
 		//
-
-		// Load the pagefind script
-		window.pagefind = await import(`${PAGEFIND_BASE_PATH}/pagefind.js`);
-
-		// Configure pagefind
-		await window.pagefind.options({
-			basePath: `${PAGEFIND_BASE_PATH}/`,
-			highlightParam: PAGEFIND_HIGHLIGHT_PARAM,
-		});
-
-		// Initialise pagefind
-		await window.pagefind.init();
 
 		// Get the search params passed to the page
 		const searchParams = new URLSearchParams(window.location.search);
@@ -118,8 +106,12 @@ import SearchIcon from "@icons/search.svg";
 </script>
 
 <!-- The script to use pagefind to search the site -->
-<script>
-	import type { Pagefind } from "vite-plugin-pagefind/types";
+<script
+	defer
+	is:inline
+	define:vars={{ PAGEFIND_BASE_PATH, PAGEFIND_HIGHLIGHT_PARAM }}
+>
+	//
 
 	// Create the event listener on the input element
 	document
@@ -127,20 +119,33 @@ import SearchIcon from "@icons/search.svg";
 		?.addEventListener("input", async (event) => {
 			//
 
-			// Type the window object
-			const typedWindow = window as Window &
-				typeof globalThis & {
-					pagefind: Pagefind;
-				};
-
 			// Get the input element
-			const inputElem = event.target as HTMLInputElement;
+			const inputElem = event.target;
 
-			// If pagefind has not been loaded
-			if (!typedWindow.pagefind) return;
+			// If the pagefind script has not been loaded
+			if (inputElem.dataset.loaded !== "true") {
+				//
+
+				// Load the pagefind script
+				window.pagefind = await import(
+					`${PAGEFIND_BASE_PATH}/pagefind.js`
+				);
+
+				// Configure pagefind
+				await window.pagefind.options({
+					basePath: `${PAGEFIND_BASE_PATH}/`,
+					highlightParam: PAGEFIND_HIGHLIGHT_PARAM,
+				});
+
+				// Initialise pagefind
+				await window.pagefind.init();
+
+				// Set pagefind to be loaded
+				inputElem.dataset.loaded = "true";
+			}
 
 			// Search the index using the input value
-			const search = await typedWindow.pagefind.search(inputElem.value);
+			const search = await window.pagefind.search(inputElem.value);
 
 			// Get the result element
 			const resultElem = document.getElementById("results");
