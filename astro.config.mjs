@@ -43,7 +43,7 @@ export default defineConfig({
 					//
 
 					// The script to load the pagefind scripts
-					"sha256-8VhgM9+2ocjs2dJMYwR5Iv15mGr1McUL/4b0Z944i4s=",
+					"sha256-y8MjhLyH2LbUZgOIPB1lU3JR1ETD+83Uq6/XOp4IH4E=",
 				],
 			},
 			styleDirective: {
