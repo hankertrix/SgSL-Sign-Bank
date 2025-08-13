@@ -1,4 +1,5 @@
 ---
+import { PAGEFIND_BASE_PATH, PAGEFIND_HIGHLIGHT_PARAM } from "@lib/constants";
 import SearchIcon from "@icons/search.svg";
 ---
 
@@ -73,9 +74,52 @@ import SearchIcon from "@icons/search.svg";
 	})();
 </script>
 
-<!-- The script to use pagefind to search the site -->
-<script is:inline>
+<!-- The script to load the pagefind scripts -->
+<script
+	defer
+	is:inline
+	define:vars={{ PAGEFIND_BASE_PATH, PAGEFIND_HIGHLIGHT_PARAM }}
+>
 	//
+
+	// Immediately invoked function expression (IIFE)
+	// to load the pagefind scripts
+	(async () => {
+		//
+
+		// Load the pagefind script
+		window.pagefind = await import(`${PAGEFIND_BASE_PATH}/pagefind.js`);
+
+		// Configure pagefind
+		await window.pagefind.options({
+			basePath: `${PAGEFIND_BASE_PATH}/`,
+			highlightParam: PAGEFIND_HIGHLIGHT_PARAM,
+		});
+
+		// Initialise pagefind
+		await window.pagefind.init();
+
+		// Get the search params passed to the page
+		const searchParams = new URLSearchParams(window.location.search);
+
+		// Try to get the value of the parameter
+		// for the pagefind highlight script
+		const value = searchParams.get(PAGEFIND_HIGHLIGHT_PARAM);
+
+		// If the value is empty, exit the function
+		if (!value) return;
+
+		// Import the pagefind highlight script
+		await import(`${PAGEFIND_BASE_PATH}/pagefind-highlight.js`);
+
+		// Initialise the pagefind highlighting script
+		new PagefindHighlight({ highlightParam: PAGEFIND_HIGHLIGHT_PARAM });
+	})();
+</script>
+
+<!-- The script to use pagefind to search the site -->
+<script>
+	import type { Pagefind } from "vite-plugin-pagefind/types";
 
 	// Create the event listener on the input element
 	document
@@ -83,31 +127,20 @@ import SearchIcon from "@icons/search.svg";
 		?.addEventListener("input", async (event) => {
 			//
 
-			// Get the element
-			const element = event.target;
+			// Type the window object
+			const typedWindow = window as Window &
+				typeof globalThis & {
+					pagefind: Pagefind;
+				};
 
-			// If the pagefind script has not been loaded
-			if (element.dataset.loaded !== "true") {
-				//
+			// Get the input element
+			const inputElem = event.target as HTMLInputElement;
 
-				// Load the pagefind script
-				window.pagefind = await import(`/pagefind/pagefind.js`);
-
-				// Configure pagefind
-				await window.pagefind.options({
-					basePath: `/pagefind/`,
-					highlightParam: "highlight",
-				});
-
-				// Initialise pagefind
-				await window.pagefind.init();
-
-				// Set pagefind to be loaded
-				element.dataset.loaded = "true";
-			}
+			// If pagefind has not been loaded
+			if (!typedWindow.pagefind) return;
 
 			// Search the index using the input value
-			const search = await window.pagefind.search(event.target.value);
+			const search = await typedWindow.pagefind.search(inputElem.value);
 
 			// Get the result element
 			const resultElem = document.getElementById("results");
@@ -147,29 +180,6 @@ import SearchIcon from "@icons/search.svg";
 			// Set the inner html to the result element
 			resultElem.innerHTML = innerHtmlList.join("\n");
 		});
-</script>
-
-<!-- The script to load the pagefind highlight script -->
-<script is:inline>
-	document.addEventListener("DOMContentLoaded", async () => {
-		//
-
-		// Get the search params passed to the page
-		const searchParams = new URLSearchParams(window.location.search);
-
-		// Try to get the value of the parameter
-		// for the pagefind highlight script
-		const value = searchParams.get("highlight");
-
-		// If the value is empty, exit the function
-		if (!value) return;
-
-		// Import the pagefind highlight script
-		await import(`/pagefind/pagefind-highlight.js`);
-
-		// Initialise the pagefind highglighting script
-		new PagefindHighlight({ highlightParam: "highlight" });
-	});
 </script>
 
 <style>

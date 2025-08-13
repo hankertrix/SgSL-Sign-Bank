@@ -42,18 +42,15 @@ export default defineConfig({
 				hashes: [
 					//
 
-					// The script to use pagefind to search the site
-					"sha256-YlSo6cAN82nijF2D+TIpFHAOSfoQip4qPNdwhUOVmCA=",
-
-					// The pagefind highlight script
-					"sha256-6JuOYKInzyFw8q+GPQrZTQbAfw4q6G8S9jxNRH02ueg=",
+					// The script to load the pagefind scripts
+					"sha256-8VhgM9+2ocjs2dJMYwR5Iv15mGr1McUL/4b0Z944i4s=",
 				],
 			},
 			styleDirective: {
 				resources: [
 					"'self'",
 
-					// Needed for the hash below to work
+					// Needed for the hashes below to work
 					"'unsafe-hashes'",
 				],
 				hashes: [
