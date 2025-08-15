@@ -1,6 +1,9 @@
 ---
 import { PAGEFIND_BASE_PATH, PAGEFIND_HIGHLIGHT_PARAM } from "@lib/constants";
 import SearchIcon from "@icons/search.svg";
+
+// The debounce timeout in milliseconds
+const DEBOUNCE_TIMEOUT_MS = 500;
 ---
 
 <!-- The search bar -->
@@ -109,14 +112,38 @@ import SearchIcon from "@icons/search.svg";
 <script
 	defer
 	is:inline
-	define:vars={{ PAGEFIND_BASE_PATH, PAGEFIND_HIGHLIGHT_PARAM }}
+	define:vars={{
+		PAGEFIND_BASE_PATH,
+		PAGEFIND_HIGHLIGHT_PARAM,
+		DEBOUNCE_TIMEOUT_MS,
+	}}
 >
 	//
 
+	// Function to debounce a function.
+	// The timeout is in milliseconds.
+	function debounce(func, timeout = DEBOUNCE_TIMEOUT_MS) {
+		//
+
+		// Initialise the timer variable
+		let timer;
+
+		// Return a function that takes in all the arguments to the function
+		return (...args) => {
+			//
+
+			// Clear the timer to reset it
+			clearTimeout(timer);
+
+			// Set the timer to apply the function after the timeout
+			timer = setTimeout(() => func.apply(this, args), timeout);
+		};
+	}
+
 	// Create the event listener on the input element
-	document
-		.getElementById("search-input")
-		?.addEventListener("input", async (event) => {
+	document.getElementById("search-input")?.addEventListener(
+		"input",
+		debounce(async (event) => {
 			//
 
 			// Get the input element
@@ -184,7 +211,8 @@ import SearchIcon from "@icons/search.svg";
 
 			// Set the inner html to the result element
 			resultElem.innerHTML = innerHtmlList.join("\n");
-		});
+		}),
+	);
 </script>
 
 <style>
