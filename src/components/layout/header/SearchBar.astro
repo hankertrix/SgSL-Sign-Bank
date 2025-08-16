@@ -4,6 +4,9 @@ import SearchIcon from "@icons/search.svg";
 
 // The debounce timeout in milliseconds
 const DEBOUNCE_TIMEOUT_MS = 500;
+
+// Events to add event listeners to for Safari
+const EVENT_TYPES_FOR_SAFARI = ["touchstart", "mousedown"];
 ---
 
 <!-- The search bar -->
@@ -137,6 +140,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 		PAGEFIND_BASE_PATH,
 		PAGEFIND_HIGHLIGHT_PARAM,
 		DEBOUNCE_TIMEOUT_MS,
+		EVENT_TYPES_FOR_SAFARI,
 	}}
 >
 	//
@@ -160,27 +164,6 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			timer = setTimeout(() => func.apply(this, args), timeout);
 		};
 	}
-
-	// Create the function to navigate to the links
-	// and make it global so it is accessible from the onclick attribute
-	// on the anchor elements.
-	//
-	// This function is to workaround Safari not navigating to the
-	// page pointed to by the anchor element when it is clicked.
-	globalThis.navigate = (event, link) => {
-		//
-
-		// If the browser is not Safari, exit the function
-		if (!CSS.supports("(background: -webkit-named-image(i))")) {
-			return;
-		}
-
-		// Prevent the default action
-		event.preventDefault();
-
-		// Navigate to the link given
-		window.location.href = link;
-	};
 
 	// Create the event listener on the input element
 	document.getElementById("search-input")?.addEventListener(
@@ -241,9 +224,9 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 				innerHtmlList.push(`
 					<li>
 						<a
+							class="result-link"
 							href="${result.url}"
 							title="Open the page called '${result.meta.title}'"
-							onclick="navigate(event, ${result.url})"
 						>
 							<h3 class="text">${result.meta.title}</h3>
 							<p class="text">${result.excerpt}</p>
@@ -254,6 +237,47 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 
 			// Set the inner html to the result element
 			resultElem.innerHTML = innerHtmlList.join("\n");
+
+			// If the browser is not Safari, exit the function
+			if (!CSS.supports("(background: -webkit-named-image(i))")) {
+				return;
+			}
+
+			// Otherwise, create the function to navigate to the link
+			// pointed to by the anchor element to workaround Safari
+			// not navigating to the link
+			function navigate(event, link) {
+				//
+
+				// If the button is not the main button
+				// which is usually the left mouse button,
+				// exit the function
+				if (event.button !== 0) return;
+
+				// Otherwise, prevent the default action
+				event.preventDefault();
+
+				// Navigate to the link given
+				window.location.href = link;
+
+				// Return false to stop propagation
+				return false;
+			}
+
+			// Iterate over all the result links
+			for (const elem of document.querySelectorAll(".result-link")) {
+				//
+
+				// Iterate over all the event types for Safari
+				for (const event_type of EVENT_TYPES_FOR_SAFARI) {
+					//
+
+					// Add the navigate event listener for the event type
+					elem.addEventListener(event_type, (e) =>
+						navigate(e, elem.href),
+					);
+				}
+			}
 		}),
 	);
 </script>
