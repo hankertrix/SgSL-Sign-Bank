@@ -77,6 +77,24 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 	})();
 </script>
 
+<!-- The script to continue focusing the search input when -->
+<!-- the area outside of the search input is clicked. -->
+<!-- This is to workaround Safari removing the focus when -->
+<!-- elements in the search bar that are outside of the search input -->
+<!-- are clicked, which breaks the search bar as the links can't -->
+<!-- take you to the page they link to because they are not visible. -->
+<script>
+	//
+
+	// Add the click event listener to the search bar
+	document.getElementById("search-bar")?.addEventListener("click", () => {
+		//
+
+		// Focus the search input
+		document.getElementById("search-input")?.focus();
+	});
+</script>
+
 <!-- The script to load the pagefind highlight script -->
 <script
 	defer
