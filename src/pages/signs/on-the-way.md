@@ -5,7 +5,7 @@ image: ./assets/images-of-signs/merdeaf-on-the-way.png
 category: Short expressions
 ---
 
-Do the gesture for ["on"](./on),
-followed by the gesture for ["way"](./way).
+Do the gesture for ["on"](../on),
+followed by the gesture for ["way"](../way).
 
 ![On the way](@signs/merdeaf-on-the-way.png)

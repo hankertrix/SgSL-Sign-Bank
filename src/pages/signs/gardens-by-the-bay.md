@@ -7,7 +7,7 @@ dependentImages: [./assets/images-of-signs/change.gif]
 
 ## Variation 1
 
-Same motion as ["change"](./change), which is shown below,
+Same motion as ["change"](../change), which is shown below,
 but use an open palm with the fingers curled
 to simulate a flower instead of the "X" hand sign.
 

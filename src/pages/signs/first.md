@@ -13,7 +13,7 @@ category: Vocabulary
 
 Show the "1" hand sign and then quickly rotate your wrist around
 to face the palm inwards.
-It is similar to the ["only"](./only) hand sign, which is shown below,
+It is similar to the ["only"](../only) hand sign, which is shown below,
 but much faster and more forceful.
 
 ![Only](@signs/only.gif)
@@ -21,7 +21,7 @@ but much faster and more forceful.
 This gesture can be extended to other numbers
 by doing their respective hand signs instead of the "1" hand sign.
 For example, the gesture for "third" would be the same motion,
-but showing the ["3"](./3) hand sign, which is shown below,
+but showing the ["3"](../3) hand sign, which is shown below,
 instead of the "1" hand sign.
 
 ![3](@signs/3.gif)

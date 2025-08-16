@@ -9,7 +9,7 @@ dependentImages:
 ## Variation 1
 
 Do the gesture for ["don't"](./do-not), which is the first image below,
-followed by ["want"](./want), which is the second image below.
+followed by ["want"](../want), which is the second image below.
 
 ![Don't](@signs/do-not.gif)
 

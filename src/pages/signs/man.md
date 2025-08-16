@@ -11,8 +11,8 @@ category: Vocabulary
 
 ## Variation 2
 
-Do the gesture for ["boy"](./boy), which is the first image below,
-then do the ["fine"](./fine) gesture, which is the second image below,
+Do the gesture for ["boy"](../boy), which is the first image below,
+then do the ["fine"](../fine) gesture, which is the second image below,
 at the same height.
 
 ![Boy](@signs/boy.gif)

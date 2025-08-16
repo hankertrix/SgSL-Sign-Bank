@@ -11,7 +11,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Do the gesture for ["over"](./over),
-then do the gesture for ["night"](./night).
+Do the gesture for ["over"](../over),
+then do the gesture for ["night"](../night).
 
 ![Variation 2 of overnight](@signs/overnight-variation-2.gif)

@@ -11,6 +11,6 @@ category: Vocabulary
 
 ## Variation 2
 
-Exactly the same gesture as ["bedroom"](./bedroom).
+Exactly the same gesture as ["bedroom"](../bedroom).
 
 ![Variation 2 of bed](@signs/bed-variation-2.gif)

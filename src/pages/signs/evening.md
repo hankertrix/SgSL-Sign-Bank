@@ -11,7 +11,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Similar to ["afternoon"](./afternoon), which is shown below,
+Similar to ["afternoon"](../afternoon), which is shown below,
 but lower the hand such that it is pointed straight in front,
 instead of diagonally front and upwards.
 

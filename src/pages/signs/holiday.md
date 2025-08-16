@@ -11,7 +11,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Similar motion to ["retire"](./retire), which is shown below,
+Similar motion to ["retire"](../retire), which is shown below,
 but don't cross the middle finger over the index finger,
 and do the motion twice.
 

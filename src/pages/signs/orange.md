@@ -15,6 +15,6 @@ based on the context.
 ## Variation 2
 
 Do the gesture for the first variation,
-then do the gesture for ["colour"](./colour).
+then do the gesture for ["colour"](../colour).
 
 ![Variation 2 of orange](@signs/orange-colour.gif)

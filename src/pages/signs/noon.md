@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: [./assets/images-of-signs/afternoon.gif]
 ---
 
-Similar to ["afternoon"](./afternoon), which is shown below,
+Similar to ["afternoon"](../afternoon), which is shown below,
 but the palm faces the side and the arm is vertical
 instead of diagonally front and upwards.
 

@@ -6,9 +6,9 @@ dependentImages:
   [./assets/images-of-signs/blue.gif, ./assets/images-of-signs/berry.gif]
 ---
 
-Do the gesture for ["blue"](./blue),
+Do the gesture for ["blue"](../blue),
 which is the first image below,
-then do the gesture for ["berry"](./berry),
+then do the gesture for ["berry"](../berry),
 which is the second image below.
 
 ![Blue](@signs/blue.gif)

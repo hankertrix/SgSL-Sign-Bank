@@ -6,6 +6,6 @@ category: Places
 ---
 
 Do the gesture for "O",
-followed by the gesture for ["park"](./park).
+followed by the gesture for ["park"](../park).
 
 ![Outram Park](@signs/outram-park.gif)

@@ -7,5 +7,5 @@ category: Vocabulary
 
 ![Quite](@signs/quite.gif)
 
-The only difference between this and ["really"](./really)
+The only difference between this and ["really"](../really)
 is the facial expression.
