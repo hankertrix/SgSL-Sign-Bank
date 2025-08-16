@@ -90,7 +90,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			//
 
 			// Remove focus when the page dimmer is clicked
-			// pageDimmerRemoveFocus();
+			pageDimmerRemoveFocus();
 		}
 
 		// Call the function to workaround Safari
@@ -172,11 +172,8 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			return;
 		}
 
-		// Prevent the default action
-		event.preventDefault();
-
-		// Focus the search input
-		// document.getElementById("search-input")?.focus();
+		// Navigate to the page pointed to by the link
+		window.location.href = event.target.href;
 	};
 
 	// Create the event listener on the input element
