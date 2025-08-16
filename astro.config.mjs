@@ -42,7 +42,7 @@ export default defineConfig({
 					//
 
 					// The script to use pagefind to search
-					"sha256-Lc0ktkgTOL2EBdGaPaFLe/ddP31tzOeAOFSj7mh6lSA=",
+					"sha256-5efRSc5fK5MA/4JAuAOGq7RH2vWzM76SsS/nw3HR9ac=",
 
 					// The script to load the pagefind highlighter
 					"sha256-Ulpb4Pzb595Vi5aqryffW4xfSPkooLYyM2Ebq5ER9Nk=",

@@ -13,7 +13,7 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 <div class="wrapper">
 	<div id="page-dimmer"></div>
 	<div id="search-bar">
-		<div id="search-wrapper">
+		<div class="search-wrapper">
 			<input
 				id="search-input"
 				class="text"
@@ -273,11 +273,11 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 				//
 
 				// Iterate over all the event types for Safari
-				for (const event_type of EVENT_TYPES_FOR_SAFARI) {
+				for (const eventType of EVENT_TYPES_FOR_SAFARI) {
 					//
 
 					// Add the navigate event listener for the event type
-					elem.addEventListener(event_type, (e) =>
+					elem.addEventListener(eventType, (e) =>
 						navigate(e, elem.href),
 					);
 				}
@@ -307,7 +307,7 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 		position: relative;
 	}
 
-	#search-wrapper {
+	.search-wrapper {
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
@@ -419,7 +419,7 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 	}
 
 	/* Styles for when there are no search results */
-	#search-wrapper:has(#results:empty) #search-input {
+	.search-wrapper:has(#results:empty) #search-input {
 		padding-bottom: var(--input-padding-top-bottom);
 		border-bottom: none;
 	}
@@ -429,7 +429,7 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 		width: 100%;
 		overflow: visible;
 
-		& #search-wrapper {
+		& .search-wrapper {
 			--total-padding: 0.4rem;
 			--horizontal-padding: 1rem;
 			--vertical-padding: calc(
