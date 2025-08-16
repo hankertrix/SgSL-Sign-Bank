@@ -85,12 +85,25 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			});
 		}
 
+		// Attach an event listener to the search wrapper
+		// to focus the search input when the search wrapper is clicked
+		function searchWrapperClick() {
+			document
+				.getElementById("search-wrapper")
+				?.addEventListener("click", () =>
+					document.getElementById("search-input")?.focus(),
+				);
+		}
+
 		// Function to call all the workarounds for Safari
 		function workaroundSafari() {
 			//
 
 			// Remove focus when the page dimmer is clicked
 			pageDimmerRemoveFocus();
+
+			// Focus the search input when the search wrapper is clicked
+			searchWrapperClick();
 		}
 
 		// Call the function to workaround Safari
@@ -172,11 +185,8 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			return;
 		}
 
-		// Get the anchor element
-		const anchor = event.target;
-
-		// Focus the anchor element
-		anchor.focus();
+		// Focus the search input
+		// document.getElementById("search-input")?.focus();
 	};
 
 	// Create the event listener on the input element
