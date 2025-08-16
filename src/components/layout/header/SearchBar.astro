@@ -164,6 +164,9 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 	// Create the function to navigate to the links
 	// and make it global so it is accessible from the onclick attribute
 	// on the anchor elements.
+	//
+	// This function is to workaround Safari not navigating to the
+	// page pointed to by the anchor element when it is clicked.
 	globalThis.navigate = (event) => {
 		//
 
@@ -172,8 +175,10 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			return;
 		}
 
-		// Navigate to the page pointed to by the link
+		// Navigate to the page pointed to by the anchor element
 		window.location.href = event.target.href;
+
+		alert("Link navigated");
 	};
 
 	// Create the event listener on the input element

@@ -46,7 +46,7 @@ export default defineConfig({
 					//
 
 					// The script to use pagefind to search
-					"sha256-ET5vsLKwDHzRvYtGFhru2+x+fiwA1l5PQCJzN/9U9zo=",
+					"sha256-vK5lb6iWNeZu9sMWxUYuKbo3mGqBgrO02rC2Z3xnoGE=",
 
 					// The pagefind.js script that is being imported
 					// in the script that uses pagefind to search
