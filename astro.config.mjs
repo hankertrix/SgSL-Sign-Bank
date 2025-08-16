@@ -27,7 +27,6 @@ export default defineConfig({
 				"connect-src 'self'",
 				"manifest-src 'self'",
 				"object-src 'none'",
-				"frame-ancestors 'none'",
 				"form-action 'none'",
 				"base-uri 'none'",
 			],
@@ -43,7 +42,7 @@ export default defineConfig({
 					//
 
 					// The script to use pagefind to search
-					"sha256-Oh+eRhVbokX61Koca30XX8QByeH9pEDuyiSSTju0YGc=",
+					"sha256-afpfve8EbtZ3sWkRxyhdqJYPVFK7FDVT5o5x2fgkr5k=",
 
 					// The script to load the pagefind highlighter
 					"sha256-Ulpb4Pzb595Vi5aqryffW4xfSPkooLYyM2Ebq5ER9Nk=",
