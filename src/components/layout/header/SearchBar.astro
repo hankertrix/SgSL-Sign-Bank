@@ -167,7 +167,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 	//
 	// This function is to workaround Safari not navigating to the
 	// page pointed to by the anchor element when it is clicked.
-	globalThis.navigate = (event) => {
+	globalThis.navigate = (event, link) => {
 		//
 
 		// If the browser is not Safari, exit the function
@@ -175,10 +175,11 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			return;
 		}
 
-		// Navigate to the page pointed to by the anchor element
-		window.location.href = event.target.href;
+		// Prevent the default action
+		event.preventDefault();
 
-		alert("Link navigated");
+		// Navigate to the link given
+		window.location.href = link;
 	};
 
 	// Create the event listener on the input element
@@ -242,7 +243,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 						<a
 							href="${result.url}"
 							title="Open the page called '${result.meta.title}'"
-							onclick="navigate(event)"
+							onclick="navigate(event, ${result.url})"
 						>
 							<h3 class="text">${result.meta.title}</h3>
 							<p class="text">${result.excerpt}</p>
