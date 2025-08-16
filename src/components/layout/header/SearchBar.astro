@@ -67,32 +67,22 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 		// when the page dimmer is clicked,
 		// because for some reason, Safari on iOS doesn't remove
 		// the focus from the search bar when the page dimmer is clicked.
-		// function pageDimmerRemoveFocus() {
-		// 	//
-		//
-		// 	// Get the page dimmer element
-		// 	const pageDimmer = document.getElementById("page-dimmer");
-		//
-		// 	// If the page dimmer doesn't exist, exit the function
-		// 	if (!pageDimmer) return;
-		//
-		// 	// Otherwise, add an event listener for when it is clicked
-		// 	pageDimmer.addEventListener("click", () => {
-		// 		//
-		//
-		// 		// Unfocus the search bar
-		// 		document.getElementById("search-input")?.blur();
-		// 	});
-		// }
+		function pageDimmerRemoveFocus() {
+			//
 
-		// Attach an event listener to the search wrapper
-		// to focus the search input when the search wrapper is clicked
-		function searchWrapperClick() {
-			document
-				.getElementById("search-wrapper")
-				?.addEventListener("click", () =>
-					document.getElementById("search-input")?.focus(),
-				);
+			// Get the page dimmer element
+			const pageDimmer = document.getElementById("page-dimmer");
+
+			// If the page dimmer doesn't exist, exit the function
+			if (!pageDimmer) return;
+
+			// Otherwise, add an event listener for when it is clicked
+			pageDimmer.addEventListener("click", () => {
+				//
+
+				// Unfocus the search bar
+				document.getElementById("search-input")?.blur();
+			});
 		}
 
 		// Function to call all the workarounds for Safari
@@ -100,10 +90,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			//
 
 			// Remove focus when the page dimmer is clicked
-			pageDimmerRemoveFocus();
-
-			// Focus the search input when the search wrapper is clicked
-			searchWrapperClick();
+			// pageDimmerRemoveFocus();
 		}
 
 		// Call the function to workaround Safari
@@ -186,7 +173,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 		}
 
 		// Focus the search input
-		// document.getElementById("search-input")?.focus();
+		document.getElementById("search-input")?.focus();
 	};
 
 	// Create the event listener on the input element
