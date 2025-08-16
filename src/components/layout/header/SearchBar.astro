@@ -49,10 +49,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 	});
 </script>
 
-<!-- The script to remove focus from the search bar -->
-<!-- when the page dimmer is clicked. -->
-<!-- This is to workaround Safari not removing focus when -->
-<!-- clicking outside of the search bar. -->
+<!-- The script containing all the Safari workarounds -->
 <script>
 	//
 
@@ -61,44 +58,44 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 	(() => {
 		//
 
-		// Get the page dimmer element
-		const pageDimmer = document.getElementById("page-dimmer");
+		// If the browser is not Safari, exit the function
+		if (!CSS.supports("(background: -webkit-named-image(i))")) {
+			return;
+		}
 
-		// If the page dimmer doesn't exist, exit the function
-		if (!pageDimmer) return;
-
-		// Otherwise, add an event listener for when it is clicked
-		pageDimmer.addEventListener("click", () => {
+		// Function to remove focus from the search bar
+		// when the page dimmer is clicked,
+		// because for some reason, Safari on iOS doesn't remove
+		// the focus from the search bar when the page dimmer is clicked.
+		function pageDimmerRemoveFocus() {
 			//
 
-			// Unfocus the search bar
-			document.getElementById("search-input")?.blur();
-		});
+			// Get the page dimmer element
+			const pageDimmer = document.getElementById("page-dimmer");
+
+			// If the page dimmer doesn't exist, exit the function
+			if (!pageDimmer) return;
+
+			// Otherwise, add an event listener for when it is clicked
+			pageDimmer.addEventListener("click", () => {
+				//
+
+				// Unfocus the search bar
+				document.getElementById("search-input")?.blur();
+			});
+		}
+
+		// Function to call all the workarounds for Safari
+		function workaroundSafari() {
+			//
+
+			// Remove focus when the page dimmer is clicked
+			pageDimmerRemoveFocus();
+		}
+
+		// Call the function to workaround Safari
+		workaroundSafari();
 	})();
-</script>
-
-<!-- The script to continue focusing the search input when -->
-<!-- the area outside of the search input is clicked. -->
-<!-- This is to workaround Safari removing the focus when -->
-<!-- elements in the search bar that are outside of the search input -->
-<!-- are clicked, which breaks the search bar as the links can't -->
-<!-- take you to the page they link to because they are not visible. -->
-<script>
-	//
-
-	// Add the click event listener to the search wrapper
-	//
-	// The search wrapper element is the part of the search bar
-	// that has width containing the results and the bar,
-	// whereas the search bar element is only the size of the input.
-	//
-	// This is due to the absolute positioning on the search wrapper element.
-	document.getElementById("search-wrapper")?.addEventListener("click", () => {
-		//
-
-		// Focus the search input
-		document.getElementById("search-input")?.focus();
-	});
 </script>
 
 <!-- The script to load the pagefind highlight script -->
@@ -164,6 +161,24 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 		};
 	}
 
+	// Create the function to navigate to the links
+	// and make it global so it is accessible from the onclick attribute
+	// on the anchor elements.
+	globalThis.navigate = (event) => {
+		//
+
+		// If the browser is not Safari, exit the function
+		if (!CSS.supports("(background: -webkit-named-image(i))")) {
+			return;
+		}
+
+		// Get the anchor element
+		const anchor = event.target;
+
+		// Focus the anchor element
+		anchor.focus();
+	};
+
 	// Create the event listener on the input element
 	document.getElementById("search-input")?.addEventListener(
 		"input",
@@ -225,6 +240,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 						<a
 							href="${result.url}"
 							title="Open the page called '${result.meta.title}'"
+							onclick="navigate(event)"
 						>
 							<h3 class="text">${result.meta.title}</h3>
 							<p class="text">${result.excerpt}</p>

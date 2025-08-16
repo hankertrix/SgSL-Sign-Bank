@@ -37,13 +37,20 @@ export default defineConfig({
 
 					// For pagefind to work
 					"'wasm-unsafe-eval'",
+
+					// For the pagefind script to work
+					"'unsafe-hashes'",
 				],
 
 				hashes: [
 					//
 
 					// The script to use pagefind to search
-					"sha256-9xX8K155UElsTVqEeLNIMohzD8nMPpYUs+SrGz1tI24=",
+					"sha256-E3VJVI7cl5FUIaS72ewyT/ANkLuKhXMuYyo5P3+IRQk=",
+
+					// The pagefind.js script that is being imported
+					// in the script that uses pagefind to search
+					"sha256-qlng61eSdcgx1YP9CGiERbV74MqCPHo1ZSCPfx4FJoo=",
 
 					// The script to load the pagefind highlighter
 					"sha256-Ulpb4Pzb595Vi5aqryffW4xfSPkooLYyM2Ebq5ER9Nk=",
