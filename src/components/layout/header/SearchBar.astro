@@ -244,8 +244,12 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 			}
 
 			// Otherwise, create the function to navigate to the link
-			// pointed to by the anchor element to workaround Safari
-			// not navigating to the link
+			// pointed to by the anchor element.
+			//
+			// This is to workaround Safari not firing the click event
+			// on the anchor element when it is clicked because the
+			// anchor element disappears too quickly due to the search input
+			// losing focus when the anchor element is clicked.
 			function navigate(event, link) {
 				//
 
@@ -292,6 +296,7 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 
 	#search-bar {
 		--input-padding-top-bottom: 0.2rem;
+		--border-radius: 1.5rem;
 
 		display: flex;
 		flex-grow: 1;
@@ -310,7 +315,7 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 
 		position: absolute;
 
-		border-radius: 1em;
+		border-radius: var(--border-radius);
 		opacity: 0;
 	}
 
@@ -338,6 +343,8 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 		padding: 0;
 		padding-top: var(--input-padding-top-bottom);
 		padding-bottom: 0.5rem;
+
+		/* Remove the default border radius present on Safari */
 		border-radius: 0;
 		cursor: pointer;
 		border: none;
@@ -375,7 +382,7 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 		& > :global(li) {
 			display: flex;
 			flex-direction: column;
-			border-radius: 1rem;
+			border-radius: var(--border-radius);
 
 			&:hover {
 				background-color: var(--result-hover-colour);
@@ -412,13 +419,9 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 	}
 
 	/* Styles for when there are no search results */
-	#search-wrapper:has(#results:empty) {
-		border-radius: 100vh;
-
-		& #search-input {
-			padding-bottom: var(--input-padding-top-bottom);
-			border-bottom: none;
-		}
+	#search-wrapper:has(#results:empty) #search-input {
+		padding-bottom: var(--input-padding-top-bottom);
+		border-bottom: none;
 	}
 
 	/* Styles when the search bar is focused */
