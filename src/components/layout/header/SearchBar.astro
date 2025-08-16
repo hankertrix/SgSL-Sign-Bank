@@ -10,7 +10,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 <div class="wrapper">
 	<div id="page-dimmer"></div>
 	<div id="search-bar">
-		<div class="search-wrapper">
+		<div id="search-wrapper">
 			<input
 				id="search-input"
 				class="text"
@@ -86,8 +86,14 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 <script>
 	//
 
-	// Add the click event listener to the search bar
-	document.getElementById("search-bar")?.addEventListener("click", () => {
+	// Add the click event listener to the search wrapper
+	//
+	// The search wrapper element is the part of the search bar
+	// that has width containing the results and the bar,
+	// whereas the search bar element is only the size of the input.
+	//
+	// This is due to the absolute positioning on the search wrapper element.
+	document.getElementById("search-wrapper")?.addEventListener("click", () => {
 		//
 
 		// Focus the search input
@@ -253,7 +259,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 		position: relative;
 	}
 
-	.search-wrapper {
+	#search-wrapper {
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
@@ -363,7 +369,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 	}
 
 	/* Styles for when there are no search results */
-	.search-wrapper:has(#results:empty) {
+	#search-wrapper:has(#results:empty) {
 		border-radius: 100vh;
 
 		& #search-input {
@@ -377,7 +383,7 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 		width: 100%;
 		overflow: visible;
 
-		& .search-wrapper {
+		& #search-wrapper {
 			--total-padding: 0.4rem;
 			--horizontal-padding: 1rem;
 			--vertical-padding: calc(
