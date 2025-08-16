@@ -172,8 +172,11 @@ const DEBOUNCE_TIMEOUT_MS = 500;
 			return;
 		}
 
+		// Prevent the default action
+		event.preventDefault();
+
 		// Focus the search input
-		document.getElementById("search-input")?.focus();
+		// document.getElementById("search-input")?.focus();
 	};
 
 	// Create the event listener on the input element
