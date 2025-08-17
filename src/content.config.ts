@@ -19,6 +19,7 @@ const resources = defineCollection({
 	loader: glob({ pattern: "**/*.md", base: "./src/pages/resources" }),
 	schema: z.object({
 		title: z.string(),
+		description: z.string(),
 	}),
 });
 

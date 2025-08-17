@@ -15,6 +15,12 @@ const ALPHABET_REGEX = /^[A-Z]/i;
 // The heading for non-alphabets
 const NON_ALPHABET_HEADING = "Other";
 
+// The description for the page
+const description: string = [
+	"The page containing the signs in Singapore Sign Language (SgSL),",
+	"sorted in alphabetical order.",
+].join(" ");
+
 // The function to get the heading
 function getHeadingFunction(item: Item): string {
 	//
@@ -54,6 +60,7 @@ function postHeadingSortFunction(headingMap: HeadingMap): HeadingMap {
 
 <PageOfLinks
 	title="Signs"
+	{description}
 	collectionString="signs"
 	basePath="/signs"
 	{getHeadingFunction}

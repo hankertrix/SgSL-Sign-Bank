@@ -1,5 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
+description: Singapore Sign Language (SgSL) concepts.
 title: Concepts
 ---
 

@@ -5,19 +5,25 @@ import BaseLayout from "@layouts/BaseLayout.astro";
 import LinkGrid from "@components/general/LinkGrid.astro";
 
 // The title of the page
-const TITLE = "Resources";
+const title = "Resources";
+
+// The description of the page
+const description: string = [
+	"The links to the resources for learning",
+	"Singapore Sign Language (SgSL).",
+].join(" ");
 
 // The url friendly title of the page
-const URL_TITLE = makeUrlFriendlyString(TITLE);
+const urlTitle = makeUrlFriendlyString(title);
 
 // Get the links
-const links = createLinks(Object.keys(PAGES[TITLE]), `/${URL_TITLE}/`);
+const links = createLinks(Object.keys(PAGES[title]), `/${urlTitle}/`);
 ---
 
-<BaseLayout title={TITLE}>
+<BaseLayout {title} {description}>
 	<div class="wrapper">
 		<div class="content">
-			<h1 class="text" id={URL_TITLE}>{TITLE}</h1>
+			<h1 class="text" id={urlTitle}>{title}</h1>
 			<p class="text">
 				Click on the links below to view the resource for learning
 				Singapore Sign Language (SgSL)!

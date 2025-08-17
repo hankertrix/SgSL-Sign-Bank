@@ -3,7 +3,13 @@ import Header from "@components/layout/Header.astro";
 import Footer from "@components/layout/Footer.astro";
 import ScrollUpButton from "@components/layout/ScrollUpButton.astro";
 import "@styles/globals.css";
-const { title, headings } = Astro.props;
+
+// Get the props from the Astro.props object
+let { title, headings, description } = Astro.props;
+
+// Add fallbacks for the title and description
+title = title ? `${title.trim()} - SgSL Sign Bank` : "SgSL Sign Bank";
+description = description ? description.trim() : title;
 ---
 
 <html lang="en">
@@ -28,7 +34,8 @@ const { title, headings } = Astro.props;
 
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{title ? `${title} - SgSL Sign Bank` : "SgSL Sign Bank"}</title>
+		<title>{title}</title>
+		<meta name="description" content={description} />
 	</head>
 
 	<!-- The layout -->

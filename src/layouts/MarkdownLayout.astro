@@ -6,16 +6,20 @@ import { makeUrlFriendlyString } from "@lib/utils";
 // The type of the props
 type Props = MarkdownLayoutProps<{
 	title: string;
+	description?: string;
 }>;
 
 // Obtain the frontmatter and headings
 const { frontmatter, headings } = Astro.props;
 
 // Get the title
-const title = `${frontmatter.title}`.trim();
+const title = frontmatter.title;
+
+// Get the description
+const description = frontmatter.description ?? `The SgSL sign for '${title}'.`;
 ---
 
-<BaseLayout title={frontmatter.title} {headings}>
+<BaseLayout {title} {headings} {description}>
 	<div class="wrapper">
 		<h1 id={makeUrlFriendlyString(title)}>
 			{title}

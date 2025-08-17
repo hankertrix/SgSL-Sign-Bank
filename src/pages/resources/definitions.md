@@ -1,6 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Definitions
+description: Definitions for Singapore Sign Language (SgSL).
 ---
 
 ## Agent gesture

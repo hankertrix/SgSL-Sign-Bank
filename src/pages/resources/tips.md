@@ -1,6 +1,9 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tips
+description: >-
+  Tips for Singapore Sign Language (SgSL),
+  and for working with Deaf or Hard-of-Hearing individuals.
 ---
 
 ## How to communicate with Deaf or Hard-of-Hearing individuals

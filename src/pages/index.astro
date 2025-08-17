@@ -4,11 +4,17 @@ import { createLinks } from "@lib/utils";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import LinkGrid from "@components/general/LinkGrid.astro";
 
+// The description of the page
+const description: string = [
+	"Home page of the unofficial,",
+	"community maintained Singapore Sign Language (SgSL) Sign Bank!",
+].join(" ");
+
 // Create the links from the pages
 const links = createLinks(Object.keys(PAGES), "/");
 ---
 
-<BaseLayout>
+<BaseLayout {description}>
 	<div class="wrapper">
 		<div class="content">
 			<h1 class="text">SgSL Sign Bank</h1>
