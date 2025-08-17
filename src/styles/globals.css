@@ -38,11 +38,11 @@
 	--text-colour: black;
 	--text-hover-colour: #4d4d4d;
 	--background-colour: white;
-	--footer-background-colour: #e6e6e6;
+	--footer-background-colour: #f2f2f2;
 	--github-logo-colour: black;
-	--search-bar-colour: #e6e6e6;
-	--result-hover-colour: #b3b3b3;
-	--link-grid-background-colour: #cccccc;
+	--search-bar-colour: #f2f2f2;
+	--result-hover-colour: #d9d9d9;
+	--link-grid-background-colour: #e6e6e6;
 }
 
 /* Colours for the dark theme */
@@ -50,11 +50,11 @@
 	--text-colour: rgba(255, 255, 255, 0.8);
 	--text-hover-colour: rgba(255, 255, 255);
 	--background-colour: #121212;
-	--footer-background-colour: #2c2c2c;
-	--github-logo-colour: white;
-	--search-bar-colour: #2c2c2c;
-	--result-hover-colour: #4d4d4d;
-	--link-grid-background-colour: #333333;
+	--footer-background-colour: #1f1f1f;
+	--github-logo-colour: rgba(255, 255, 255, 0.8);
+	--search-bar-colour: #1f1f1f;
+	--result-hover-colour: #383838;
+	--link-grid-background-colour: #2c2c2c;
 }
 
 /* Styles for everything */
