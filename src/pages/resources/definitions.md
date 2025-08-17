@@ -34,3 +34,7 @@ to the bottom of your waist. The width of that area is shoulder width.
 
 An initialised sign is a sign that uses a letter of the English alphabet
 in its gesture, usually the first letter of the word.
+
+## Sord
+
+A sord is the sign language equivalent of a word.
