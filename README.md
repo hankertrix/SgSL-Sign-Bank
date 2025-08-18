@@ -10,7 +10,7 @@ learning Singapore Sign Language.
 
 The website is built using the [Astro] meta-framework and
 uses only [Astro components][astro-components],
-and does not make use of front-end frameworks like
+and does not make use of other additional front-end frameworks like
 [React], [Vue], [Solid], or [Svelte].
 It also makes use of [Pagefind] for website search.
 
@@ -30,12 +30,12 @@ for any issues or contributions.
 
 ### Merdeaf
 
-Merdeaf is a Deaf merlion from Singapore, created by a Deaf artist from
+Merdeaf is a Deaf Merlion from Singapore, created by a Deaf artist from
 The Singapore Association for the Deaf (SADeaf).
 
 #### [LINE](https://line.me/en/)
 
-The stickers packs below are the official stickers published by
+The sticker packs below are the official stickers published by
 The Singapore Association for the Deaf (SADeaf).
 
 - [Singapore Sign Language](https://store.line.me/stickershop/product/1194012/en)
@@ -73,7 +73,7 @@ Hence, this sign bank for SgSL was born.
 Previously, before the [website][Website] was created, the sign bank
 was in the form of a downloadable HTML file which was created from an
 Org mode document. That has since been removed as the website
-is far easier to use.
+is far easier to use and maintain.
 
 ## Sources and references
 
