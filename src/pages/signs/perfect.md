@@ -7,6 +7,8 @@ category: Vocabulary
 
 ## Variation 1
 
+Exactly the same gesture as ["absolutely"](./absolutely).
+
 ![Variation 1 of perfect](@signs/perfect-variation-1.gif)
 
 ## Variation 2

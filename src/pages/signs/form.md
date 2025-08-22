@@ -14,7 +14,7 @@ or an abstract concept, like "art form".
 
 ## Variation 2
 
-Same motion as ["museum"](../museum), which is shown below,
+Same motion as ["museum"](./museum), which is shown below,
 but with the "F" hand sign instead of the "M" hand sign.
 
 ![Museum](@signs/museum.gif)

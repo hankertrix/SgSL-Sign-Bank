@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: All
+title: All / Whole
 image: ./assets/images-of-signs/all-variation-1.gif
 category: Vocabulary
 ---

@@ -6,6 +6,6 @@ category: Vocabulary
 ---
 
 Do the gesture for the second variation of ["manage"](./manage#variation-2),
-followed by the gesture for ["person"](../person).
+followed by the gesture for ["person"](./person).
 
 ![Manager](@signs/manager-job.gif)

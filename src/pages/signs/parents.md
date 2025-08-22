@@ -11,9 +11,9 @@ category: Vocabulary
 
 ## Variation 2
 
-Do the gesture for ["father"](../father),
+Do the gesture for ["father"](./father),
 which is the first image below,
-then the gesture for ["mother"](../mother),
+then the gesture for ["mother"](./mother),
 which is the second image below.
 
 ![Father](@signs/father.gif)

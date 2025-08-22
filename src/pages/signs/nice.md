@@ -11,7 +11,7 @@ category: Vocabulary
 
 ![Merdeaf version](@signs/merdeaf-nice-variation-1.png)
 
-This is the exact same gesture as ["clean"](../clean),
+This is the exact same gesture as ["clean"](./clean),
 so the meaning depends on the context.
 
 ## Variation 2

@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: [./assets/images-of-signs/advise.gif]
 ---
 
-Same motion as ["advise"](../advise),
+Same motion as ["advise"](./advise),
 which is shown below, but do it twice.
 
 ![Advise](@signs/advise.gif)

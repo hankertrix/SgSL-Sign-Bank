@@ -12,7 +12,7 @@ category: Fruits
 ## Variation 2
 
 Do the hand sign for "S",
-then do the gesture for ["berry"](../berry),
+then do the gesture for ["berry"](./berry),
 which is shown below.
 
 ![Berry](@signs/berry.gif)

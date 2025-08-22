@@ -7,7 +7,7 @@ category: Vocabulary
 
 ## Variation 1
 
-Exactly the same gesture as ["pray"](../pray).
+Exactly the same gesture as ["pray"](./pray).
 
 ![Variation 1 of ask](@signs/ask-variation-1.gif)
 

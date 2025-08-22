@@ -11,7 +11,7 @@ category: Vocabulary
 
 ## Variation 2
 
-Same motion as ["way"](../way), which is shown below,
+Same motion as ["way"](./way), which is shown below,
 but instead of the open hands, use a "R" hand sign.
 
 ![Way](@signs/way.gif)

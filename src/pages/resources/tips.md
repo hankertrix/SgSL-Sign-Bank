@@ -44,3 +44,22 @@ description: >-
 - Treat the interpreter as a professional.
 - Speak directly to the deaf person, and not the interpreter.
 - Don't use "tell him / her" when using an interpreter.
+
+## How to sign more like a native?
+
+- Make your signs as small as reasonably possible.
+  Particularly, you should aim to minimise the width of your signs.
+- When signing numbers with a [zero](../signs/zero),
+  you can just close your fingers into a zero straight away and
+  not need to move your hand to the right when signing the zero.
+- When signing numbers with a [hundred](../signs/100) in them,
+  you can move the "C" backwards instead of to the right.
+
+### Finger spelling tips
+
+- Finger spell from left to right.
+- Finger spell within the area between your shoulders.
+- Start your finger spelling from below your chin.
+- Spell smoothly and do not bounce or
+  move your hand up and down when spelling.
+- Relax your hand and wrists, don't strain your wrist.

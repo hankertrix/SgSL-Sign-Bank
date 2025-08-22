@@ -7,5 +7,5 @@ category: Vocabulary
 
 ![Bungalow](@signs/bungalow.gif)
 
-This gesture is very similar to ["house"](../house),
+This gesture is very similar to ["house"](./house),
 just that the house is larger.

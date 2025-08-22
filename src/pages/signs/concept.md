@@ -2,11 +2,11 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Concept
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/sun-variation-1.gif]
+dependentImages: [./assets/images-of-signs/idea.gif]
 ---
 
-Same motion as the first variation of ["sun"](./sun#variation-1),
-which is shown below, but start with the thumb of the "C" hand sign
-at your temple instead of the "C" surrounding your eyes.
+Same motion as the gesture for ["idea"](./idea),
+which is shown below, but use the "C" hand sign
+instead of the "I" hand sign.
 
-![Variation 1 of sun](@signs/sun-variation-1.gif)
+![Idea](@signs/idea.gif)

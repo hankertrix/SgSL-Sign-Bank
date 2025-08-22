@@ -13,7 +13,7 @@ Flat meaning an HDB flat.
 
 ## Variation 2
 
-Do the gesture for ["on"](../on), which is shown below,
+Do the gesture for ["on"](./on), which is shown below,
 then bring your hand upwards while changing from an open palm
 to the "F" hand sign.
 

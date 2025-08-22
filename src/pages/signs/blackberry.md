@@ -12,7 +12,7 @@ dependentImages:
 Do the gesture for the first variation of
 ["black"](./black#variation-1),
 which is the first image below,
-then do the gesture for ["berry"](../berry),
+then do the gesture for ["berry"](./berry),
 which is the second image below.
 
 ![Black](@signs/black-variation-1.gif)

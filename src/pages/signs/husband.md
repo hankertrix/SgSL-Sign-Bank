@@ -7,8 +7,8 @@ category: Vocabulary
 
 ## Variation 1
 
-Do the gesture for ["boy"](../boy),
-then do the gesture for ["marry"](../marry).
+Do the gesture for ["boy"](./boy),
+then do the gesture for ["marry"](./marry).
 
 ![Variation 1 of husband](@signs/husband-variation-1.gif)
 

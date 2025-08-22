@@ -15,6 +15,8 @@ category: Vocabulary
 
 ## Variation 3
 
+Exactly the same gesture as ["anticipate"](./anticipate).
+
 ![Variation 3 of hope](@signs/hope-variation-3.gif)
 
 ![Variation 3 of hope](@signs/hope-variation-3-sgsl-sign-bank.gif)

@@ -7,7 +7,7 @@ category: Vocabulary
 
 ## Variation 1
 
-Exactly the same gesture as ["near"](../near).
+Exactly the same gesture as ["near"](./near).
 
 ![Variation 1 of close](@signs/near.gif)
 

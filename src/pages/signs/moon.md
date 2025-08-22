@@ -11,5 +11,5 @@ category: Vocabulary
 
 ## Variation 2
 
-Use your thumb and index finger to form the "C" hand sign
+Use your thumb and index finger only to make the "C" hand sign
 and put it around an eye.

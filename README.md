@@ -96,7 +96,11 @@ is far easier to use and maintain.
 - [ASL Teaching Resources](https://aslteachingresources.com)
   ([YouTube](https://www.youtube.com/@ASLTeachingResources/videos))
 - [NPO Hope](https://www.youtube.com/@npo1540/videos)
+- [Rachel's ASL Class](https://www.youtube.com/watch?v=f2jzl4sVcc0)
+- [Indian Sign Language Research and Training Centre](https://www.youtube.com/watch?v=phxsLXgw49A)
+- [Strong ASL](https://www.strongasl.com/american-sign-language-dictionary/words/shake)
 - [Stories of Hope Singapore](https://www.youtube.com/watch?v=o-NM5ROjbxU)
+- [Kristen & Siya](https://www.youtube.com/watch?v=vxqADBvHL18)
 
 ## Attribution
 

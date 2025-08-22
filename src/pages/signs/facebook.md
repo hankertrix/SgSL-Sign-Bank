@@ -12,3 +12,7 @@ category: Brands
 ## Variation 2
 
 ![Variation 2 of Facebook](@signs/facebook-variation-2.gif)
+
+## Variation 3
+
+Place two "B" hand signs beside your cheeks and flap your hands.

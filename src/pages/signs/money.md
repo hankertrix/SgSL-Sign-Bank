@@ -11,6 +11,6 @@ category: Vocabulary
 
 ## Variation 2
 
-Exactly the same gesture as ["cash"](../cash).
+Exactly the same gesture as ["cash"](./cash).
 
 ![Variation 2 of money](@signs/money-variation-2.gif)

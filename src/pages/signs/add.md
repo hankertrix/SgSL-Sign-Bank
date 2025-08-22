@@ -11,6 +11,6 @@ category: Mathematical symbols
 
 ## Variation 2
 
-Exactly the same gesture as ["additional"](../additional).
+Exactly the same gesture as ["additional"](./additional).
 
 ![Variation 2 of add](@signs/add-variation-2.gif)

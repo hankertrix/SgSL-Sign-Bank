@@ -24,9 +24,12 @@ For example:
 
 ## Letter drag
 
-You can drag out letters at the end of a finger spell if
+You can drag out letters at the end of a finger spell only if
 the ending letters are the same.
 The motion is like pulling the letter out to the side.
+
+You cannot do a letter drag for duplicate letters at the start
+or the middle of a word, only at the end.
 
 ## Plural words
 

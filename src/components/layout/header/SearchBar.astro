@@ -196,6 +196,9 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 				inputElem.dataset.loaded = "true";
 			}
 
+			// Create the regex to fix the pagefind url
+			const fixPagefindUrlRegex = /\/(?=$|\?)/;
+
 			// Search the index using the input value
 			const search = await window.pagefind.search(inputElem.value);
 
@@ -220,12 +223,15 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 			for (const result of results) {
 				//
 
+				// Fix the url given by pagefind
+				const fixedUrl = result.url.replace(fixPagefindUrlRegex, "");
+
 				// Add the data to the inner html list
 				innerHtmlList.push(`
 					<li>
 						<a
 							class="result-link"
-							href="${result.url}"
+							href="${fixedUrl}"
 							title="Open the page called '${result.meta.title}'"
 						>
 							<h3 class="text">${result.meta.title}</h3>

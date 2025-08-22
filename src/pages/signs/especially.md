@@ -15,6 +15,6 @@ category: Vocabulary
 
 ## Variation 3
 
-Exactly the same gesture as ["emphasise"](../emphasise).
+Exactly the same gesture as ["emphasise"](./emphasise).
 
 ![Variation 3 of especially](@signs/emphasise.gif)

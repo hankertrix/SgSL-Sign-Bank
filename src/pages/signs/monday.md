@@ -6,3 +6,5 @@ category: Days of the week
 ---
 
 ![Monday](@signs/monday.gif)
+
+Draw the circle twice only.
