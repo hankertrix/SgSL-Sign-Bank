@@ -1,82 +1,88 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import { pagefind } from "vite-plugin-pagefind";
+import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://sgsl-sign-bank.vercel.app",
-	output: "static",
-	image: {
-		layout: "constrained",
-	},
+    site: "https://sgsl-sign-bank.vercel.app",
+    output: "static",
 
-	// Disable smartypants so the quotes don't look weird
-	// due to the Chinese font
-	markdown: {
-		smartypants: false,
-	},
+    image: {
+        layout: "constrained",
+    },
 
-	// CSP
-	experimental: {
-		csp: {
-			algorithm: "SHA-512",
-			directives: [
-				"default-src 'none'",
-				"img-src 'self'",
-				"font-src 'self'",
-				"connect-src 'self'",
-				"manifest-src 'self'",
-				"object-src 'none'",
-				"form-action 'none'",
-				"base-uri 'none'",
-			],
-			scriptDirective: {
-				resources: [
-					"'self'",
+    // Disable smartypants so the quotes don't look weird
+    // due to the Chinese font
+    markdown: {
+        smartypants: false,
+    },
 
-					// For pagefind to work
-					"'wasm-unsafe-eval'",
-				],
+    // CSP
+    experimental: {
+        csp: {
+            algorithm: "SHA-512",
+            directives: [
+                "default-src 'none'",
+                "img-src 'self'",
+                "font-src 'self'",
+                "connect-src 'self'",
+                "manifest-src 'self'",
+                "object-src 'none'",
+                "form-action 'none'",
+                "base-uri 'none'",
+            ],
+            scriptDirective: {
+                resources: [
+                    "'self'",
 
-				hashes: [
-					//
+                    // For pagefind to work
+                    "'wasm-unsafe-eval'",
+                ],
 
-					// The script to use pagefind to search
-					"sha256-CRG3rbY7+cge/Gw0MXgl2Es33TGGaQsD1J5PldO8Sww=",
+                hashes: [
+                    //
 
-					// The script to load the pagefind highlighter
-					"sha256-Ulpb4Pzb595Vi5aqryffW4xfSPkooLYyM2Ebq5ER9Nk=",
-				],
-			},
-			styleDirective: {
-				resources: [
-					"'self'",
+                    // The script to use pagefind to search
+                    "sha256-CRG3rbY7+cge/Gw0MXgl2Es33TGGaQsD1J5PldO8Sww=",
 
-					// Needed for the hashes below to work
-					"'unsafe-hashes'",
-				],
-				hashes: [
-					//
+                    // The script to load the pagefind highlighter
+                    "sha256-Ulpb4Pzb595Vi5aqryffW4xfSPkooLYyM2Ebq5ER9Nk=",
+                ],
+            },
+            styleDirective: {
+                resources: [
+                    "'self'",
 
-					// The pagefind highlight style
-					"sha256-ZCoB1kba9ZTfELA9P5NVsXbrXfcqOSTrLTbcMfUVY4E=",
+                    // Needed for the hashes below to work
+                    "'unsafe-hashes'",
+                ],
+                hashes: [
+                    //
 
-					// Not sure what this style is for, but it's required
-					"sha256-y0FDWhr0m3Jam1HNNCTVey61m4zSmlv57Q1pjAE7A+E=",
-				],
-			},
-		},
-	},
+                    // The pagefind highlight style
+                    "sha256-ZCoB1kba9ZTfELA9P5NVsXbrXfcqOSTrLTbcMfUVY4E=",
 
-	vite: {
-		plugins: [
-			pagefind({
-				outputDirectory: "dist",
-				assetsDirectory: "public",
-				bundleDirectory: "pagefind",
-				buildScript: "build",
-				developStrategy: "lazy",
-			}),
-		],
-	},
+                    // Not sure what this style is for, but it's required
+                    "sha256-y0FDWhr0m3Jam1HNNCTVey61m4zSmlv57Q1pjAE7A+E=",
+                ],
+            },
+        },
+    },
+
+    // Vite pagefind plugin
+    vite: {
+        plugins: [
+            pagefind({
+                outputDirectory: "dist",
+                assetsDirectory: "public",
+                bundleDirectory: "pagefind",
+                buildScript: "build",
+                developStrategy: "lazy",
+            }),
+        ],
+    },
+
+    // Generate a sitemap
+    integrations: [sitemap()],
 });
