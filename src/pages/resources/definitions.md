@@ -52,3 +52,50 @@ for the sign. For example, the root of the signs for
 ["read"](../signs/read) and ["study"](../signs/study) is "book".
 Another example is ["sit"](../signs/sit) being the root for
 ["chair"](../signs/chair) and ["couch"](../signs/couch).
+
+## Non-manual markers (NMM) / Non-manual signals or signs (NMS)
+
+Non-manual markers or non-manual signals or signs encompass essentially
+everything that isn't done by your hands, as all signs and gestures
+done by your hands are considered manual. That means non-manual markers
+consist of body language and physical actions, such as:
+
+- Head shake or nod
+- Head tilts
+- Raised eyebrows
+- Pursed lips
+- Movement of the tongue
+- Movement of the chin
+- Eye shifts and gazes
+- Body shifts and movements
+- Facial expressions, like smiling, frowning, angry look, puzzled look, etc.
+
+These signals must be clear and obvious for the meaning to be understood.
+
+### Examples of non-manual markers
+
+1. Not yet or haven't
+
+   Slightly opening the mouth and placing the tongue over the bottom teeth
+   so that it touches the lower lip.
+
+2. Boring
+
+   Mouth yawning or puffing out your cheeks and moving your eyes.
+
+3. I never hear
+
+   Eyebrows frowning or one eyebrow raising.
+
+4. Really
+
+   Show facial expression like something is incredible,
+   or a questioning look, depending on what you mean.
+
+5. Long-winded
+
+   Eyes drooping and tongue wagging.
+
+6. Exhausted
+
+   Puffing out your cheeks and show arms drooping.

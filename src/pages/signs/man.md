@@ -17,4 +17,4 @@ at the same height.
 
 ![Boy](@signs/boy.gif)
 
-![Fine](@signs/fine.gif)
+![Fine](@signs/fine-adjective.gif)

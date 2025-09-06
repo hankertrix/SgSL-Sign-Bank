@@ -63,3 +63,20 @@ description: >-
 - Spell smoothly and do not bounce or
   move your hand up and down when spelling.
 - Relax your hand and wrists, don't strain your wrist.
+
+## How to introduce yourself to a Deaf person?
+
+When introducing yourself to a Deaf person, be prepared
+to include the following in your introduction.
+
+- Your first name and last name.
+- Whether you are deaf, hard of hearing, or hearing.
+- Who is teaching you the language and culture.
+- Where you are studying.
+- Why you are learning the language.
+
+## How to leave a deaf event?
+
+Do let the deaf people or organiser know that you are leaving.
+You are not being obnoxious, but are instead being polite as they
+cannot hear you leaving the room.

@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: House
+title: House / Home
 image: ./assets/images-of-signs/house-variation-1.gif
 category: Vocabulary
 ---

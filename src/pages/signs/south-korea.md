@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: South Korea
+title: South Korea / Korea
 image: ./assets/images-of-signs/south-korea.gif
 category: Places
 ---

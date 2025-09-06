@@ -3,6 +3,7 @@ export const PAGES = {
 	Resources: {
 		Concepts: null,
 		Definitions: null,
+		Grammar: null,
 		Tips: null,
 	},
 	Categories: null,

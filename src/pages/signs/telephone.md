@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Phone / Telephone
+title: Phone / Telephone / Phone call
 image: ./assets/images-of-signs/telephone.gif
 category: Vocabulary
 ---

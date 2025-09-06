@@ -11,4 +11,6 @@ category: Vocabulary
 
 ## Variation 2
 
+Do the gesture for the [first variation of "here"](./here#variation-1) twice.
+
 ![Variation 2 of today](@signs/today-variation-2.gif)

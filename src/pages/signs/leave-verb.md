@@ -5,6 +5,8 @@ image: ./assets/images-of-signs/leave-verb-variation-1.gif
 category: Vocabulary
 ---
 
+Doing the gestures with only one hand is acceptable too.
+
 ## Variation 1
 
 ![Variation 1 of leave](@signs/leave-verb-variation-1.gif)

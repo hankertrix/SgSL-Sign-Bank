@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-description: Singapore Sign Language (SgSL) concepts.
 title: Concepts
+description: Singapore Sign Language (SgSL) concepts.
 ---
 
 ## Tense markers
@@ -13,14 +13,21 @@ title: Concepts
 
 ## Intensity of signs
 
-Intensity is shown by varying the intensity or speed
-with which a sign is made, or by incorporating facial expressions.
+Intensity is shown by varying the speed, size, and force
+with which a sign is made, increasing the number of repetitions of a gesture,
+or by incorporating facial expressions.
 For example:
 
 1. Walk can be made quickly or slowly to indicate how the person is walking.
 2. Drink can be modified depending on the volume consumed.
 3. Smart becomes brilliant when the sign is exaggerated.
 4. Pretty becomes beautiful when the sign is exaggerated.
+5. What becomes WHAT by moving your index finger across your body instead
+   of just across your palm.
+6. Need becomes must when the gesture is done with more force.
+7. Indicating how many times you have told a person something
+   by repeating the gesture and then counting up the number of times
+   it has been told.
 
 ## Letter drag
 

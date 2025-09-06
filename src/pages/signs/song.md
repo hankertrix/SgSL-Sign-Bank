@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Song
+title: Song / Music
 image: ./assets/images-of-signs/song.gif
 category: Vocabulary
 ---

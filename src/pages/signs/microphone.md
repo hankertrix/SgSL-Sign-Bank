@@ -12,6 +12,7 @@ category: Vocabulary
 ## Variation 2
 
 Exactly the same gesture as the
-second variation of ["sing"](./sing#variation-2).
+second variation of ["sing"](./sing#variation-2),
+and the gesture for ["pop"](./pop).
 
 ![Variation 2 of microphone](@signs/sing-variation-2.gif)

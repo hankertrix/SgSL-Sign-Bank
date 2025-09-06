@@ -1,0 +1,14 @@
+---
+layout: "@layouts/MarkdownLayout.astro"
+title: Innocent
+image: ./assets/images-of-signs/innocent-variation-1.gif
+category: Vocabulary
+---
+
+## Variation 1
+
+![Variation 1 of innocent](@signs/innocent-variation-1.gif)
+
+## Variation 2
+
+![Variation 2 of innocent](@signs/innocent-variation-2.gif)

@@ -2,10 +2,10 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Should / Shall
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/must.gif]
+dependentImages: [./assets/images-of-signs/need.gif]
 ---
 
-Same motion as ["must"](./must), which is shown below,
+Same motion as ["need"](./need), which is shown below,
 but do it lightly and do it twice.
 
-![Must](@signs/must.gif)
+![Must](@signs/need.gif)

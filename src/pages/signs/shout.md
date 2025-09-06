@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Shout
+title: Shout / Call out
 image: ./assets/images-of-signs/shout.gif
 category: Vocabulary
 ---

@@ -1,11 +1,11 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Community
+image: ./assets/images-of-signs/community.gif
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/friend.gif]
 ---
 
-Same motion as ["friend"](./friend), which is shown below,
+Same motion as the gesture for ["friend"](./friend)
 but with a fully open palm.
 
-![Friend](@signs/friend.gif)
+![Community](@signs/community.gif)

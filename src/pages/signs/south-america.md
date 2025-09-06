@@ -1,12 +1,17 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: South America
-category: Places
-dependentImages: [./assets/images-of-signs/america.gif]
+image: ./assets/images-of-signs/south-america-variation-1.gif
+category: Vocabulary
 ---
 
-Do the gesture for ["down"](./down-direction),
-then do the gesture for ["America"](./america),
-which is shown below.
+## Variation 1
 
-![America](@signs/america.gif)
+Do the gesture for ["south"](./south),
+then do the gesture for ["America"](./america).
+
+![Variation 1 of South America](@signs/south-america-variation-1.gif)
+
+## Variation 2
+
+![Variation 2 of South America](@signs/south-america-variation-2.gif)
