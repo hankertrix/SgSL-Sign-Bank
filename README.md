@@ -154,11 +154,17 @@ GNU Affero General Public Licence Version 3 (GNU AGPL v3).
 For the full licence, look at the
 [`LICENCE.txt`][Licence] file.
 
-The font, 'Berkshire Swash', is licenced under the
+The font, 'Berkshire Swash', is licensed under the
 [Open Font Licence], which can be found
 in the [`OFL.txt`](OFL.txt) file.
 
-The icons used are licenced under the
+The sign images in this repository are licensed under
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International][cc-by-nc-sa],
+which can be found in the [`LICENCE-IMAGES.txt`](LICENCE-IMAGES.txt) file.
+
+[![CC-BY-NC-SA-4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+The icons used are licensed under
 [Creative Commons Attribution 3.0 Unported Licence][cc-by],
 which can be found in the [`LICENCE-ICONS.txt`](LICENCE-ICONS.txt) file.
 
@@ -175,6 +181,8 @@ which can be found in the [`LICENCE-ICONS.txt`](LICENCE-ICONS.txt) file.
 [SgSL Sign Bank]: https://blogs.ntu.edu.sg/sgslsignbank/signs/
 [Noun Project]: https://thenounproject.com/
 [Licence]: LICENCE.txt
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg
 [Open Font Licence]: https://openfontlicense.org/
 [cc-by]: https://creativecommons.org/licenses/by/3.0/
 [cc-by-image]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg
