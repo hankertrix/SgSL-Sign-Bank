@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Bakkwa
+title: Bakkwa / Bak kwa
 category: Food
 dependentImages:
   [
