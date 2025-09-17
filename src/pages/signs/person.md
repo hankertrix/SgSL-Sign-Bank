@@ -15,3 +15,8 @@ Exactly the same gesture as the
 ## Variation 2
 
 ![Variation 2 of person](@signs/person-variation-2.gif)
+
+## Variation 3
+
+Same motion as the [first variation](#variation-1),
+but use the "P" hand sign instead of the flat palm.
