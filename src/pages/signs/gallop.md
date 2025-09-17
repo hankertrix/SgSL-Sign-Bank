@@ -1,9 +1,15 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gallop
+image: ./assets/images-of-signs/gallop-variation-1.gif
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/ride.gif]
 ---
+
+## Variation 1
+
+![Gallop](@signs/gallop-variation-1.gif)
+
+## Variation 2
 
 Same hand sign as the gesture for ["ride"](./ride),
 which is shown below,

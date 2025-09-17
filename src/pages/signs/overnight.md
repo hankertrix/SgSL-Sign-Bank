@@ -9,6 +9,8 @@ category: Vocabulary
 
 ![Variation 1 of overnight](@signs/overnight-variation-1.gif)
 
+![Variation 1 of overnight](@signs/overnight-variation-1-sgsl-sign-bank.gif)
+
 ## Variation 2
 
 Do the gesture for ["over"](./over),
