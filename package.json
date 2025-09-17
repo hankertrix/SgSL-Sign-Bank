@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "rm -r ./public/pagefind/ && astro build && pagefind",
+    "build": "rm -rf ./public/pagefind/ && astro build && pagefind",
     "preview": "astro preview",
     "check": "astro check",
     "astro": "astro"
