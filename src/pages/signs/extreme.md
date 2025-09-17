@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Very
+title: Extreme
 category: Vocabulary
 dependentImages: [./assets/images-of-signs/very.gif]
 ---
