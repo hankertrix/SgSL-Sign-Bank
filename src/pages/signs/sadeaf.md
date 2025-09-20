@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Association
+title: SADeaf
 category: Vocabulary
 dependentImages: [./assets/images-of-signs/class.gif]
 ---
