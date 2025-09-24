@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Cafe
+title: Cafe / Canteen
 category: Places
 ---
 

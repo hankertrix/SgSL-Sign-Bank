@@ -1,10 +1,16 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Happy
-image: ./assets/images-of-signs/happy.gif
+image: ./assets/images-of-signs/happy-variation-1.gif
 category: Vocabulary
 ---
 
-![Happy](@signs/happy.gif)
+## Variation 1
 
-![Merdeaf version](@signs/merdeaf-happy.png)
+![Variation 1 of happy](@signs/happy-variation-1.gif)
+
+## Variation 2
+
+![Variation 2 of happy](@signs/happy-variation-2.gif)
+
+![Merdeaf version](@signs/merdeaf-happy-variation-2.png)
