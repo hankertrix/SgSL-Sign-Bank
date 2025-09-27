@@ -352,7 +352,7 @@ Classifiers can be used to:
 - Spreading butter, frosting, or similar substances.
 - Boards like railroad ties and wooden or construction beams.
 - A person standing with their legs together,
-  which is a variation of [CL-V](#cl-v).
+  which is a variation of [CL-V](#cl-v-cl-2).
 - "Standing ovation", which is a person standing a surfboard.
 
 #### CL-H
@@ -466,7 +466,7 @@ clasping or attaching movement.
 - Long thin round hand-held objects, like a spear,
   large stirring spoon, or a rake handle.
 
-#### CL-V
+#### CL-V (CL-2)
 
 ![CL-V](@classifiers/cl-v.gif)
 
