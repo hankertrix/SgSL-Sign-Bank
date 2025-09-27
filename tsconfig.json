@@ -11,22 +11,25 @@
   "compilerOptions": {
     "paths": {
       "@components/*": [
-        "src/components/*"
+        "./src/components/*"
       ],
       "@styles/*": [
-        "src/styles/*"
-      ],
-      "@signs/*": [
-        "src/assets/images-of-signs/*"
+        "./src/styles/*"
       ],
       "@layouts/*": [
-        "src/layouts/*"
+        "./src/layouts/*"
+      ],
+      "@signs/*": [
+        "./src/assets/images-of-signs/*"
+      ],
+      "@classifiers/*": [
+        "./src/assets/classifiers/*"
       ],
       "@icons/*": [
-        "src/assets/icons/*"
+        "./src/assets/icons/*"
       ],
       "@lib/*": [
-        "src/lib/*"
+        "./src/lib/*"
       ]
     }
   }
