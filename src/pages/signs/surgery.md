@@ -1,12 +1,12 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Surgery
+title: Surgery / Surgeon
 image: ./assets/images-of-signs/surgery.gif
 category: Vocabulary
 ---
 
-Do this gesture based on where you had the surgery.
-The gesture shown below is generic,
-but also shows surgery on the palm.
-
 ![Surgery](@signs/surgery.gif)
+
+Do this gesture based on where you had the surgery.
+The gesture shown above is generic,
+but also shows surgery on the palm.

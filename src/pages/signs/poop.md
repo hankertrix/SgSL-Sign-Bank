@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Poop / Shit / Defecate
+title: Poop / Stool / Shit / Feces
 image: ./assets/images-of-signs/poop.gif
 category: Vocabulary
 ---

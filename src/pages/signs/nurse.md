@@ -1,11 +1,11 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Nurse
+image: ./assets/images-of-signs/nurse.gif
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/doctor.gif]
 ---
 
-Same motion as ["doctor"](./doctor), which is shown below,
+Same motion as ["doctor"](./doctor),
 but use the "N" hand sign instead of the "D" hand sign.
 
-![Doctor](@signs/doctor.gif)
+![Nurse](@signs/nurse.gif)

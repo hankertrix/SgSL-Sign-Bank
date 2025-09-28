@@ -5,10 +5,4 @@ image: ./assets/images-of-signs/bankrupt-variation-1.gif
 category: Vocabulary
 ---
 
-## Variation 1
-
-![Variation 1 of broke](@signs/bankrupt-variation-1.gif)
-
-## Variation 2
-
-???
+![Bankrupt](@signs/bankrupt-variation-1.gif)

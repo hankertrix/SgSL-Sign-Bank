@@ -18,3 +18,7 @@ category: Vocabulary
 Start with an open palm facing outwards on both hands
 and use your middle fingers to lift a box up,
 ending with the palm pointing upwards.
+
+It is also the exact same gesture as ["mild"](./mild).
+
+![Variation 3 of light](@signs/light-weight-variation-3.gif)

@@ -12,7 +12,7 @@ category: Places
 ## Variation 2
 
 Have two open palms facing outwards with the fingers pointing upwards,
-and make sure the thumb is outstretched from the rest of the fingers.
+and make sure the thumb is away from the rest of the fingers.
 Tilt both palms such that the fingers are pointing 45 degrees to the side,
 then move them together such that both thumbs
 and the flesh below the thumbs are touching each other.

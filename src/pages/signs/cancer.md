@@ -1,6 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cancer
+image: ./assets/images-of-signs/cancer.gif
 category: Vocabulary
 ---
 
@@ -12,3 +13,5 @@ above the wrist of the arm before moving towards the elbow of the arm
 and throwing the pole it grabbed to the side.
 Then the hand, still an open palm from throwing the pole,
 moves back to the side of your body it started from.
+
+![Cancer](@signs/cancer.gif)

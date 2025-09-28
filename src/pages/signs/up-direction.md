@@ -1,9 +1,14 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Up (direction)
+image: ./assets/images-of-signs/up-direction.gif
 category: Vocabulary
 ---
 
-Make the "U" hand sign and move it upwards.
+## Variation 1
 
-Alternatively, you can just point upwards and move your hand upwards.
+![Up](@signs/up-direction.gif)
+
+## Variation 2
+
+Make the "U" hand sign and move it upwards.

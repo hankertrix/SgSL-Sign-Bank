@@ -1,8 +1,8 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Stare
-image: ./assets/images-of-signs/stare.gif
 category: Vocabulary
+dependentImages: [./assets/images-of-signs/stare-asl.gif]
 ---
 
 Similar motion to the gesture for "stare" in American Sign Language (ASL),

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Hand
 image: ./assets/images-of-signs/hand-variation-1.gif
-category: Vocabulary
+category: Body parts
 ---
 
 ## Variation 1

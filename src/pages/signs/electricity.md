@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Electricity
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/electricity.gif]
+dependentImages: [./assets/images-of-signs/electricity-asl.gif]
 ---
 
 Same hand position as the American Sign Language (ASL) gesture
