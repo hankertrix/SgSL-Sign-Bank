@@ -6,3 +6,5 @@ category: Vocabulary
 ---
 
 ![Will](@signs/will.gif)
+
+This sign is usually used at the end of a sentence.
