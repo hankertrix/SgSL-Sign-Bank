@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Culture
 image: ./assets/images-of-signs/culture.gif
 category: Vocabulary
+family: Culture
 ---
 
 ![Culture](@signs/culture.gif)

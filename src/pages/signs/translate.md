@@ -2,11 +2,16 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Translate
 category: Vocabulary
+family: Change
 dependentImages: [./assets/images-of-signs/change.gif]
 ---
 
-Same motion as ["change"](./change), which is shown below,
-but use the "T" hand sign for both hands instead of the "X" hand sign.
-Then, the two "T" hand signs transition to index fingers pointing to the side.
+## Variation 1
 
-![Change](@signs/change.gif)
+![Variation 1 of translate](@signs/translate-variation-1.gif)
+
+## Variation 2
+
+Same motion as the [first variation](#variation-1),
+but the two "T" hand signs transition to index fingers pointing to the side
+about halfway through the turning motion.

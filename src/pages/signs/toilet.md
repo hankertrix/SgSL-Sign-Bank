@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Toilet
 image: ./assets/images-of-signs/toilet.gif
 category: Vocabulary
+family: Toilet
 ---
 
 Shake the "T" hand sign from side to side.

@@ -9,6 +9,7 @@ export const PAGES = {
 	},
 	Categories: null,
 	Signs: null,
+	"Sign Families": null,
 };
 
 // The pagefind base path

@@ -2,6 +2,9 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Finish
 image: ./assets/images-of-signs/finish-variation-1.gif
+family:
+  variation-1: Finish
+  variation-2: Done
 category: Vocabulary
 ---
 
@@ -11,4 +14,6 @@ category: Vocabulary
 
 ## Variation 2
 
-![Variation 2 of finish](@signs/finish-variation-2.gif)
+Exactly the same gesture as ["done"](./done).
+
+![Variation 2 of finish](@signs/done.gif)

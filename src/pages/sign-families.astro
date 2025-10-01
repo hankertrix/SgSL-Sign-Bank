@@ -1,0 +1,107 @@
+---
+import type { Link, HeadingMap } from "@lib/types";
+import PageOfLinks from "@components/pages/PageOfLinks.astro";
+
+// The interface for the item in the collection
+interface Item {
+	id: string;
+	data: {
+		title: string;
+		family: string | { [variation: string]: string | null } | null;
+	};
+}
+
+// The default family
+const DEFAULT_FAMILY: string = "Not part of any family";
+
+// The description of the page
+const description: string = [
+	"The page containing the signs in Singapore Sign Language (SgSL),",
+	"sorted by their sign families in alphabetical order.",
+].join(" ");
+
+// The function to create the heading to link object map
+function createHeadingToLinkObjectMap(
+	basePath: string,
+	item: Item,
+): Map<string, Link> {
+	//
+
+	// Create the map
+	const map = new Map();
+
+	// Get the family for the item
+	const item_family = item.data.family;
+
+	// If the family is not given,
+	// set the heading to not part of any family
+	if (!item_family || typeof item_family === "string") {
+		//
+
+		// Create the heading
+		const heading = item_family
+			? `"${item_family}" family`
+			: DEFAULT_FAMILY;
+
+		// Create the link object for the heading
+		const linkObject: Link = {
+			title: `${item.data.title}`,
+			url: `${basePath.replace(/[\/]+$/, "")}/${item.id}`,
+		};
+
+		// Set the map
+		map.set(heading, linkObject);
+
+		// Return the map
+		return map;
+	}
+
+	// Otherwise, the item family is an object, so iterate over it
+	for (const [variation, family] of Object.entries(item_family)) {
+		//
+
+		// Create the heading
+		const heading = family ? `"${family}" family` : DEFAULT_FAMILY;
+
+		// Create the link object for the heading
+		const linkObject: Link = {
+			title: `${item.data.title}`,
+			url:
+				`${basePath.replace(/[\/]+$/, "")}/${item.id}#` +
+				variation.toLowerCase(),
+		};
+
+		// Set the map
+		map.set(heading, linkObject);
+	}
+
+	// Return the map
+	return map;
+}
+
+// The function to rearrange the headings after they are sorted
+function postHeadingSortFunction(headingMap: HeadingMap): HeadingMap {
+	//
+
+	// Get the default family
+	const links = headingMap.get(DEFAULT_FAMILY);
+
+	// Remove the default family heading from the map
+	headingMap.delete(DEFAULT_FAMILY);
+
+	// Add it back so it appears at the end
+	headingMap.set(DEFAULT_FAMILY, links ?? []);
+
+	// Return the map
+	return headingMap;
+}
+---
+
+<PageOfLinks
+	title="Sign Families"
+	{description}
+	collectionString="signs"
+	basePath="/signs"
+	{createHeadingToLinkObjectMap}
+	{postHeadingSortFunction}
+/>

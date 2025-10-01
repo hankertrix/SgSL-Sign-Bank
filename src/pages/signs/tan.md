@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: [./assets/images-of-signs/brown.gif]
 ---
 
-Same motion as the gesture for ["brown"](./brown),
+Same motion as ["brown"](./brown),
 which is shown below, but use the "T" hand sign
 instead of the "B" hand sign.
 

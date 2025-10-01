@@ -1,9 +1,9 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Feel
-image: ./assets/images-of-signs/feel.gif
+title: Mood
 category: Vocabulary
 family: Feel
+dependentImages: [./assets/images-of-signs/feel.gif]
 ---
 
 ![Feel](@signs/feel.gif)

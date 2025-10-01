@@ -2,6 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Already
 category: Vocabulary
+family: Done
 dependentImages: [./assets/images-of-signs/done.gif]
 ---
 

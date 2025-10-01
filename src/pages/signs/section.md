@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: [./assets/images-of-signs/part.gif]
 ---
 
-Same motion as the gesture for ["part"](./part),
+Same motion as ["part"](./part),
 which is shown below,
 but use the "S" hand sign instead of the "P" hand sign.
 

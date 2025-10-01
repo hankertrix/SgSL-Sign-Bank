@@ -2,6 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Group
 category: Vocabulary
+family: Class
 dependentImages: [./assets/images-of-signs/class.gif]
 ---
 

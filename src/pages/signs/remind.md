@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: [./assets/images-of-signs/think.gif]
 ---
 
-Same motion as the gesture for ["think"](./think),
+Same motion as ["think"](./think),
 which is shown below, but use the "R" hand sign
 instead of your index finger.
 

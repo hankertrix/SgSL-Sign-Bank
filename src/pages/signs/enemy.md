@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: [./assets/images-of-signs/opposite.gif]
 ---
 
-Same motion as the gesture for ["opposite"](./opposite),
+Same motion as ["opposite"](./opposite),
 which is shown below, but for one hand,
 use the "E" hand sign instead of the index finger.
 

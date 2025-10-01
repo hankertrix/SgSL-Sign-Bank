@@ -2,6 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Environment
 category: Vocabulary
+family: Culture
 dependentImages: [./assets/images-of-signs/culture.gif]
 ---
 

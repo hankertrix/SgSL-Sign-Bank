@@ -10,6 +10,10 @@ const signs = defineCollection({
 		title: z.string().or(z.number()),
 		image: z.string().optional(),
 		category: z.string(),
+		family: z
+			.string()
+			.or(z.record(z.string(), z.string().or(z.null())))
+			.optional(),
 		dependentImages: z.array(z.string()).optional(),
 	}),
 });

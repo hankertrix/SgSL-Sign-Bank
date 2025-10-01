@@ -5,7 +5,7 @@ image: ./assets/images-of-signs/community.gif
 category: Vocabulary
 ---
 
-Same motion as the gesture for ["friend"](./friend)
+Same motion as ["friend"](./friend)
 but with a fully open palm.
 
 ![Community](@signs/community.gif)

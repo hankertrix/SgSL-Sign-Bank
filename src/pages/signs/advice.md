@@ -2,6 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Advice / Influence (noun) / Counsel (noun)
 category: Vocabulary
+family: Advise
 dependentImages: [./assets/images-of-signs/advise.gif]
 ---
 

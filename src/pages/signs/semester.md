@@ -5,7 +5,7 @@ image: ./assets/images-of-signs/video.gif
 category: Vocabulary
 ---
 
-Same motion as the gesture for ["video"](./video),
+Same motion as ["video"](./video),
 which is shown below,
 but use the "S" hand sign, with the fist pointing forward
 instead of the "V" hand sign.

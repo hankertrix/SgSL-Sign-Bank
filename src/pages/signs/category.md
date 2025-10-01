@@ -5,7 +5,7 @@ category: Vocabulary
 dependentImages: [./assets/images-of-signs/shape.gif]
 ---
 
-Same motion as the gesture for ["shape"](./shape),
+Same motion as ["shape"](./shape),
 which is shown below,
 but use the "C" hand sign instead of the "A" hand sign.
 
