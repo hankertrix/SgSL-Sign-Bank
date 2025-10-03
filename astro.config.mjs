@@ -78,7 +78,7 @@ export default defineConfig({
                 assetsDirectory: "public",
                 bundleDirectory: "pagefind",
                 buildScript: "build",
-                developStrategy: "lazy",
+                developStrategy: "eager",
             }),
         ],
     },
