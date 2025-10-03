@@ -1,13 +1,12 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Centre
+image: ./assets/images-of-signs/centre.gif
 category: Vocabulary
 family: Middle
-dependentImages: [./assets/images-of-signs/middle-variation-1.gif]
 ---
 
-Same motion as the gesture for the first variation of ["middle"](./middle),
-which is shown below, but use the "C" hand sign for the hand on top
-instead of the bent hand.
+Same motion as the first variation of ["middle"](./middle#variation-1),
+but use the "C" hand sign for the hand on top instead of the bent hand.
 
-![Variation 1 of middle](@signs/middle-variation-1.gif)
+![Centre](@signs/centre.gif)

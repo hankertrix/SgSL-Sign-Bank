@@ -1,10 +1,12 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Cafe / Canteen
-category: Places
+title: Café / Canteen
+image: ./assets/images-of-signs/cafe.gif
+category: Vocabulary
+family: Restaurant
 ---
 
-Form the "C" hand sign with one hand, then place it under the far side
-of your chin (the side of the chin further away from your hand),
-then slide your hand under your chin until
-you reach the other side of your chin.
+Same motion as ["restaurant"](./restaurant),
+but use the "C" hand sign instead of the "R" hand sign.
+
+![Café](@signs/cafe.gif)

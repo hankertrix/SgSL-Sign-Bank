@@ -2,6 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Concept
 category: Vocabulary
+family: Idea
 dependentImages: [./assets/images-of-signs/idea.gif]
 ---
 

@@ -2,11 +2,12 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Remind
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/think.gif]
+family: Idea
+dependentImages: [./assets/images-of-signs/idea.gif]
 ---
 
-Same motion as ["think"](./think),
+Same motion as ["idea"](./idea),
 which is shown below, but use the "R" hand sign
-instead of your index finger.
+instead of the "I" hand sign, and point it to the person you want to remind.
 
-![Think](@signs/think.gif)
+![Idea](@signs/idea.gif)

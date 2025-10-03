@@ -1,12 +1,12 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Court (noun)
+image: ./assets/images-of-signs/court-noun.gif
 category: Vocabulary
 family: Balance
-dependentImages: [./assets/images-of-signs/balance.gif]
 ---
 
-Same motion as ["balance"](./balance), which is shown below,
+Same motion as ["balance"](./balance),
 but use the "C" hand sign instead of the flat palm facing down.
 
-![Balance](@signs/balance.gif)
+![Court](@signs/court-noun.gif)

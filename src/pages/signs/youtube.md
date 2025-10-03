@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: YouTube
 image: ./assets/images-of-signs/youtube-variation-1.gif
 category: Brands
+family: Video
 ---
 
 ## Variation 1

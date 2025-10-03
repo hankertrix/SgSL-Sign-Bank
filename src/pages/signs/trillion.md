@@ -2,10 +2,11 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: 1,000,000,000,000 / Trillion
 category: Numbers
-dependentImages: [./assets/images-of-signs/billion.gif]
+dependentImages: [./assets/images-of-signs/million.gif]
+family: Million
 ---
 
-Same motion as the ["billion" gesture](./billion), which is shown below,
-but with a "T" hand sign instead of a "B" hand sign.
+Same motion as the ["million" gesture](./million), which is shown below,
+but with a "T" hand sign instead of a "M" hand sign.
 
-![A billion](@signs/billion.gif)
+![A million](@signs/million.gif)

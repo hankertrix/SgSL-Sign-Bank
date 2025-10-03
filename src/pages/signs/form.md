@@ -14,9 +14,9 @@ or an abstract concept, like "art form".
 
 ## Variation 2
 
-Same motion as ["museum"](./museum), which is shown below,
+Same motion as ["museum"](./museum),
 but with the "F" hand sign instead of the "M" hand sign.
 
-![Museum](@signs/museum.gif)
+![Variation 2 of form](@signs/form-variation-2.gif)
 
 This variation refers to a document with blanks to fill up.

@@ -31,7 +31,7 @@ const {
 function defaultCreateHeadingToLinkObjectMap(
 	basePath: string,
 	item: Item,
-): Map<string, Link> {
+): Map<string, Link[]> {
 	//
 
 	// Create the map
@@ -47,7 +47,7 @@ function defaultCreateHeadingToLinkObjectMap(
 	};
 
 	// Add the heading and the link object to the map
-	map.set(heading, linkObject);
+	map.set(heading, [linkObject]);
 
 	// Return the map
 	return map;
@@ -71,23 +71,28 @@ for (const item of collection) {
 		: defaultCreateHeadingToLinkObjectMap(basePath, item);
 
 	// Iterate over the items in the map
-	for (const [heading, linkObject] of headingToLinkObjectMap.entries()) {
+	for (const [heading, linkObjects] of headingToLinkObjectMap.entries()) {
 		//
 
-		// Get the list of links from the map
-		const links = headingMap[heading];
-
-		// If the list of links doesn't exist
-		if (!links || links.length < 1) {
+		// Iterate over all the link objects
+		for (const linkObject of linkObjects) {
 			//
 
-			// Initialise the heading with the link object
-			headingMap[heading] = [linkObject];
-		}
+			// Get the list of links from the map
+			const links = headingMap[heading];
 
-		// Otherwise, add the link object to the list of links
-		else {
-			links.push(linkObject);
+			// If the list of links doesn't exist
+			if (!links || links.length < 1) {
+				//
+
+				// Initialise the heading with the link object
+				headingMap[heading] = [linkObject];
+			}
+
+			// Otherwise, add the link object to the list of links
+			else {
+				links.push(linkObject);
+			}
 		}
 	}
 }

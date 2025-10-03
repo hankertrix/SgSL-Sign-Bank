@@ -1,6 +1,7 @@
 ---
 import type { Link, HeadingMap } from "@lib/types";
 import PageOfLinks from "@components/pages/PageOfLinks.astro";
+import { titlecase } from "@lib/utils";
 
 // The interface for the item in the collection
 interface Item {
@@ -24,7 +25,7 @@ const description: string = [
 function createHeadingToLinkObjectMap(
 	basePath: string,
 	item: Item,
-): Map<string, Link> {
+): Map<string, Link[]> {
 	//
 
 	// Create the map
@@ -50,7 +51,7 @@ function createHeadingToLinkObjectMap(
 		};
 
 		// Set the map
-		map.set(heading, linkObject);
+		map.set(heading, [linkObject]);
 
 		// Return the map
 		return map;
@@ -63,16 +64,33 @@ function createHeadingToLinkObjectMap(
 		// Create the heading
 		const heading = family ? `"${family}" family` : DEFAULT_FAMILY;
 
+		// Get the variation string
+		const variationStr = titlecase(variation.replace(/[-_]/g, " ").trim());
+
 		// Create the link object for the heading
 		const linkObject: Link = {
-			title: `${item.data.title}`,
+			title: `${item.data.title} [${variationStr}]`,
 			url:
 				`${basePath.replace(/[\/]+$/, "")}/${item.id}#` +
 				variation.toLowerCase(),
 		};
 
-		// Set the map
-		map.set(heading, linkObject);
+		// Get the list of link objects
+		const linkObjects = map.get(heading);
+
+		// If the list of link objects exists
+		if (linkObjects && linkObjects.length > 0) {
+			//
+
+			// Add the link object to the list
+			linkObjects.push(linkObject);
+		}
+
+		// Otherwise, create the list of link objects
+		// with the current link object
+		else {
+			map.set(heading, [linkObject]);
+		}
 	}
 
 	// Return the map

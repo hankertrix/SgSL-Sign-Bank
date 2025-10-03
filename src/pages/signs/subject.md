@@ -2,6 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Subject
 category: Vocabulary
+family: Lesson
 dependentImages: [./assets/images-of-signs/law.gif]
 ---
 

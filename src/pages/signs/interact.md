@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Interact
 image: ./assets/images-of-signs/interact-variation-1.gif
 category: Vocabulary
+family: Interact
 ---
 
 ## Variation 1

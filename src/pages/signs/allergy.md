@@ -11,6 +11,10 @@ category: Vocabulary
 
 ## Variation 2
 
+![Variation 2 of allergy](@signs/allergy-variation-2.gif)
+
+## Variation 3
+
 Exactly the same gesture as ["opposite"](./opposite).
 
 ![Variation 2 of allergy](@signs/opposite.gif)

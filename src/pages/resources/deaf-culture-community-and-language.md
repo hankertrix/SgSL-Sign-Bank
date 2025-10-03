@@ -144,3 +144,10 @@ Once you have done your **THINK**-ing, prepare your response
 to the other person. Do not blame, judge, accuse or assume you know
 what is motivating the other person. Keep your body language neutral
 to reflect the most respectful interpretation of the events.
+
+### Interacting with elderly Deaf people
+
+Unlike interacting with younger Deaf people,
+you should not touch elderly Deaf people to get their attention,
+as they are easily frightened.
+It is best to wave your hand in front of their face to get their attention.
