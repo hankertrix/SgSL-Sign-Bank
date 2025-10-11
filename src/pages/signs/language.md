@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Language
 image: ./assets/images-of-signs/language.gif
 category: Vocabulary
+family: Language
 ---
 
 Make two "L" hand signs with the index finger pointing forward

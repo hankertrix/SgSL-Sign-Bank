@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Draw
+title: Draw / Art / Arts
 image: ./assets/images-of-signs/draw.gif
 category: Vocabulary
 ---

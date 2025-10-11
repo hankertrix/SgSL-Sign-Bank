@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Economy
+title: Economy / Economic
 image: ./assets/images-of-signs/economy-variation-1.gif
 category: Vocabulary
 ---

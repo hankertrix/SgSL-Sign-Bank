@@ -11,3 +11,5 @@ or dismay at something that has happened.
 ![Alamak](@signs/alamak.gif)
 
 ![Merdeaf version](@signs/merdeaf-alamak.png)
+
+![Alternate Merdeaf version](@signs/alt-merdeaf-alamak.gif)

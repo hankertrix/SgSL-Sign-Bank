@@ -17,6 +17,7 @@ category: Places
 
 Do the gesture for "J", followed by showing a palm with fingers apart,
 facing inwards, then wiggling your fingers while moving it downwards,
-like the gesture for ["blood"](./blood), which is shown below.
+like the gesture for ["blood"](./blood),
+symbolising the iconic indoor waterfall in the middle of the mall.
 
-![Blood](@signs/blood.gif)
+![Variation 3 of Jewel](@signs/jewel-changi-airport-variation-3.gif)

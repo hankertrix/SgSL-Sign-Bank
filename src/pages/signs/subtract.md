@@ -11,5 +11,11 @@ category: Mathematical symbols
 
 ## Variation 2
 
+Exactly the same gesture as ["deduct"](./deduct).
+
+![Variation 2 of subtract](@signs/deduct.gif)
+
+## Variation 3
+
 Show the minus symbol,
 which is just a line, with the index finger.

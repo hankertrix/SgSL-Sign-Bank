@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Mafan
+title: Mafan / 麻烦
 category: Singlish
 ---
 

@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Communicate / Communication
 image: ./assets/images-of-signs/communicate.gif
 category: Vocabulary
+family: Talk
 ---
 
 Same motion as ["talk"](./talk), which is shown below,

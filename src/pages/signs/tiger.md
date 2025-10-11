@@ -18,3 +18,5 @@ and place it in front of the index finger pointing upwards,
 with the palm facing inwards.
 Then, make a claw shape with both hands
 and place them in front of you like a tiger prowling.
+
+This sign comes from Shanghainese Sign Language.

@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Instruct
 category: Vocabulary
 dependentImages: [./assets/images-of-signs/teach-variation-1.gif]
+family: Teach
 ---
 
 Same motion as the first variation of ["teach"](./teach#variation-1),

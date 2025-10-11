@@ -1,9 +1,9 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Semester
-image: ./assets/images-of-signs/video-variation-1.gif
 category: Vocabulary
 family: Video
+dependentImages: [./assets/images-of-signs/video-variation-1.gif]
 ---
 
 Same motion as the first variation of ["video"](./video#variation-1),

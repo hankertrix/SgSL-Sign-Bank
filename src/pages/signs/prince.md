@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Prince
 image: ./assets/images-of-signs/prince.gif
 category: Vocabulary
+family: King
 ---
 
 ![Prince](@signs/prince.gif)

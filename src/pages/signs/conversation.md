@@ -2,6 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Conversation
 category: Vocabulary
+family: Talk
 dependentImages: [./assets/images-of-signs/talk.gif]
 ---
 

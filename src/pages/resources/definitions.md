@@ -45,6 +45,30 @@ in its gesture, usually the first letter of the word.
 
 A sord is the sign language equivalent of a word.
 
+## Gloss
+
+Gloss is a way of writing English to translate
+Singapore Sign Language signs to words.
+It is called glossing because it is not a full translation,
+as English does not have words to describe some signs
+in Singapore Sign Language.
+
+### Glossing syntax
+
+| Symbol                   | Example                                                                                                                                                                        | Explanation                                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Capitalised English word | MAN                                                                                                                                                                            | Signs are labelled with capitalised English words.                                                                                   |
+| fs-                      | fs-ALL                                                                                                                                                                         | "fs-" is used to represent fingerspelling.                                                                                           |
+| +                        | CLASS+ROOM                                                                                                                                                                     | A plus sign indicates a compound sign.                                                                                               |
+| GLOSS""                  | PUT"right"                                                                                                                                                                     | Information on the location of something is shown in quotes, after the gloss.                                                        |
+| \* \*                    | \*STOP\*                                                                                                                                                                       | Command. Indicates that eyes are wide open while signing the command.                                                                |
+| <u>y/n</u>               | <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;y/n</u><br>MAN HOME                                                                                       | Yes/No question. Indicates that eyebrows are frowned while signing question.                                                         |
+| <u>neg</u>               | <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;neg</u><br>NO I NOT STUDENT | Negation. Head shake while signing.                                                                                                  |
+| <u>nod</u>               | <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nod</u><br>BOY HOME                                                                                       | Affirmatives, which are indicated by nodding while signing.                                                                          |
+| <u>t</u>                 | <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t</u><br>LINGUISTICS I ENJOY                                          | Topic markers. Indicates that eyebrows are rasied while signing the topic.                                                           |
+| <u>rh</u>                | I GO HOME NOW<br><u>&nbsp;&nbsp;&nbsp;&nbsp;rh</u><br>WHY I SICK                                                                                                               | Rhetorical question, which is closely connected to "why". Indicates that eyebrows are frowned while signing the rhetorical question. |
+| <u>wh</u>                | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>&nbsp;&nbsp;&nbsp;&nbsp;rh</u><br>YOU COME HOW                        | WH-question. Indicates that eyebrows are raised while signing this question.                                                         |
+
 ## Root of signs
 
 The root of a sign is another sign or gesture that is used as the base

@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Oral
+title: Oral / Aural
 image: ./assets/images-of-signs/oral.gif
 category: Vocabulary
 ---

@@ -27,3 +27,15 @@ const description = frontmatter.description ?? `The SgSL sign for '${title}'.`;
 		<slot />
 	</div>
 </BaseLayout>
+
+<style>
+	/* Styling for the tables in Markdown */
+	:global(table, th, td) {
+		border: 1px solid black;
+		border-collapse: collapse;
+	}
+
+	:global(th, td) {
+		padding: 0.5em;
+	}
+</style>

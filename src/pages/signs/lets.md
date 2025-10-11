@@ -2,8 +2,12 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Let's
 category: Vocabulary
+family: Allow
+dependentImages: [./assets/images-of-signs/allow.gif]
 ---
 
-Make the "L" hand sign with both hands,
-palm facing each other and index finger pointing in front.
-Put your hands beside your waist and move them in front.
+Same motion as ["allow"](./allow),
+which is shown below,
+but use the "L" hand sign instead of the open palm.
+
+![Allow](@signs/allow.gif)
