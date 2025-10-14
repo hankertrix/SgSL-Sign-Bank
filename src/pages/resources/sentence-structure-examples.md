@@ -247,3 +247,66 @@ If milk cheap, I will buy.
 ## I finally found that key
 
 (Point to the key) Key, I finally found finish.
+
+## What time is it now?
+
+Now what time?
+
+## It is 3 o'clock
+
+3 o'clock afternoon.
+
+## What time does the class start?
+
+1. Class start when?
+2. When class start?
+
+## The game begins at 9pm and ends at 11pm
+
+1. Game begin 9 night, end 11 night.
+2. Game start 9 night - 11 night.
+3. Game start 9 night, finish 11 night.
+
+## I work from 8am to 6pm
+
+I work 8 morning - 6 night.
+
+## Last week I met my good friends
+
+Last week I met good friends.
+
+## Every day she goes home at 9pm
+
+Every day she go home 9 night.
+
+## When can we have dinner?
+
+We dinner when?
+
+## I have been working since last night
+
+Since last night, I work.
+
+## The school was founded in 1965
+
+Year 1965 school build.
+
+## Yesterday, we went to watch the Formula One race
+
+Yesterday, we go watch F1.
+
+## Meet you in 4 weeks' time
+
+4 weeks later meet you.
+
+## Come for a drink this coming Saturday night
+
+This Saturday night come drink.
+
+## Her husband fetched her home last Sunday afternoon
+
+Last Sunday afternoon (point right) husband fetch (point left) home.
+
+## It took me 6 days for me to finish my task
+
+6 days I finish work.
