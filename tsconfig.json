@@ -28,6 +28,9 @@
       "@icons/*": [
         "./src/assets/icons/*"
       ],
+      "@videos/*": [
+        "./src/assets/videos/*"
+      ],
       "@lib/*": [
         "./src/lib/*"
       ]

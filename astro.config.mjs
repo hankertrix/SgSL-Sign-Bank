@@ -2,6 +2,7 @@
 import { defineConfig } from "astro/config";
 import { pagefind } from "vite-plugin-pagefind";
 import sitemap from "@astrojs/sitemap";
+import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
@@ -78,11 +79,11 @@ export default defineConfig({
                 assetsDirectory: "public",
                 bundleDirectory: "pagefind",
                 buildScript: "build",
-                developStrategy: "eager",
+                developStrategy: "lazy",
             }),
         ],
     },
 
     // Generate a sitemap
-    integrations: [sitemap()],
+    integrations: [sitemap(), mdx()],
 });
