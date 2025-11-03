@@ -12,7 +12,7 @@ a combination of spoken language and signs,
 which includes sign language, voice,
 finger spelling, lipreading, amplification, writing, gesture
 and visual imagery.
-Signed Exact English is used in Total Communication.
+Signing Exact English (SEE) is used in Total Communication.
 
 Same motion as ["talk"](./talk),
 but use the "T" hand sign on one hand
