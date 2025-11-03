@@ -23,8 +23,8 @@ const { pages, urlStart = "/" }: Props = Astro.props;
 		// Create the slug
 		const slug = makeUrlFriendlyString(title);
 
-		// Get teh current url
-		const currentUrl = `${urlStart}${slug}/`;
+		// Get the current url
+		const currentUrl = `${urlStart}${slug}`;
 
 		// Get the url title
 		const urlTitle = `Go to the page called '${title}'`;
@@ -59,7 +59,7 @@ const { pages, urlStart = "/" }: Props = Astro.props;
 						<ul>
 							<Astro.self
 								pages={child}
-								urlStart={currentUrl}
+								urlStart={`${currentUrl}/`}
 							/>
 						</ul>
 					</details>
