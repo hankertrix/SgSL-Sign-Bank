@@ -154,7 +154,8 @@ Yes, me deaf. No, me hearing.
 
 ## What is your name?
 
-What your name?
+1. What your name? You.
+2. Your name what? You.
 
 ## Nice to meet you
 
@@ -310,3 +311,327 @@ Last Sunday afternoon (point right) husband fetch (point left) home.
 ## It took me 6 days for me to finish my task
 
 6 days I finish work.
+
+## How much do you have now?
+
+1. Now how much you have?
+2. Now you have how much?
+
+## I found a $10 note on the floor
+
+(Point to the floor) $10 note I find finish.
+
+## I dream of being rich
+
+I dream rich.
+
+## How much do you spend every month?
+
+1. Every month, how much you spend?
+2. Every month, you spend how much?
+
+## I aim to earn $1,000,000 before I reach 30
+
+Before 30, I aim earn $1 million.
+
+## You have to save $500 every month
+
+Every month you must save $500.
+
+## She wants to borrow $1,200 from me
+
+She want borrow 1 thousand 2 hundred dollars from me.
+
+## What?! It costs $100
+
+What?! (big sign) (Point at item) cost $100.
+
+## I have run out of money
+
+No money.
+
+## My income tax for year 2018 is high
+
+Year 2018, my work earn tax high.
+
+## It costs a bomb
+
+(Point at item) expensive.
+
+## I have to work for 20 years to pay off my loan
+
+20 years, I working pay off my loan.
+
+## The blue thick book costs $8.20
+
+(Point to book) Book, blue, thick, cost $8.20.
+
+## I give $5 to each of my two sons for lunch daily
+
+Daily lunch, both ([CL-V]) sons, I give, $5 (to one son), $5 (to the other son).
+
+## So cheap! This ice cream costs only 5 cents
+
+(Point to ice cream) ice cream cheap (exaggerated), only 5 cents.
+
+## What food do you want for lunch?
+
+Lunch what food you want?
+
+## Do you want to eat noodle soup?
+
+Noodle soup you want eat?
+
+## He wants to drink coffee with milk
+
+Boy (point to person) want drink coffee with milk.
+
+## The chicken rice is delicious
+
+Chicken rice delicious.
+
+## What is your favourite fruit?
+
+Your favourite fruit what?
+
+## Teh tarik costs $2.10
+
+Teh tarik cost $2.10.
+
+## My sister likes to eat fish soup
+
+Fish soup, my sister like eat.
+
+## Are you free tonight? Let's eat out
+
+Tonight you free? Let's eat out.
+
+## She loves home-cooked food
+
+(Point to person) Girl love home cooked food.
+
+## I dislike drinking milk
+
+Milk I dislike.
+
+## May I have a glass of cold water?
+
+Cold water please.
+
+## He doesn't know how to use chopsticks. Please pass him a fork and a spoon
+
+Chopstick (point to person) boy don't how use.
+Please pass him fork (left side) spoon (right side).
+
+## I am very full, so I can't eat any more
+
+I very full, cannot eat more.
+
+## We share the payment of all the food and drinks
+
+1. All food (left side) drink (right side) we share pay.
+2. All food (left side) drink (right side) we share cost.
+
+## She likes to eat fruits after dinner daily
+
+Daily dinner finish (point to person) girl like eat fruits.
+
+## Where do you want to go today?
+
+Today where you want go?
+
+## I cycled to Tampines Library yesterday
+
+Yesterday, Tampines Library I cycle, finish.
+
+## He walks fast
+
+(Point at person) Boy walk (do the sign fast).
+
+## He walks slowly
+
+(Point at person) Boy walk (do the sign slow).
+
+## See you at Ang Mo Kio market today
+
+Today see you AMK market.
+
+## I go Marina Bay Sands by car
+
+I drive car go Marina Bay Sands.
+
+## Where shall we meet tomorrow?
+
+Tomorrow we meet where?
+
+## She is travelling around the city by bus
+
+(Point to person) Girl travel around city bus.
+
+## The family went by MRT from Ang Mo Kio to Tampines
+
+[CL-claw] (right side) AMK, family take MRT train [CL-3]
+(move the [CL-3] from the right side to the left side)
+[CL-claw] (left side) Tampines.
+
+## Hannah will go swimming at the beach
+
+Hannah go beach swim will.
+
+## They will have lunch at McDonald's
+
+They lunch MacDonald's will.
+
+## The train was crowded
+
+Train crowd.
+
+## We go to a disco to listen to music and dance
+
+We go disco listen music (on the right side), dance (on the left side).
+
+## How can I get to the zoo from here?
+
+Here how go zoo?
+
+## Come for the meeting
+
+1. Come meeting.
+2. Meeting come.
+
+## I wanted to visit the zoo, but it was closed today
+
+Today I want visit zoo, but close.
+
+## I have a car
+
+I have car.
+
+## I need to buy a book
+
+I need buy book.
+
+## My mother is busy
+
+Mother busy.
+
+## She always works late
+
+She always work late.
+
+## Where do we meet?
+
+1. We meet where?
+2. Where we meet?
+
+## When do we submit our homework?
+
+Homework send when?
+
+## Who is the woman over there?
+
+(Point to woman) woman (squint eyebrows) who?
+
+## Are you a teacher?
+
+You teacher? You.
+
+## Is sister happy?
+
+Sister happy? You.
+
+## Have you eaten?
+
+You eat finish? (body bend forward)
+
+## Do you know who she is?
+
+You know who she (point to person)?
+
+## I flew to Kuala Lumpur as I wanted to visit my grandmother
+
+I fly Kuala Lumpur. Why? Visit grandmother.
+
+## How do I go to Hong Kong? Fly
+
+I go Hong Kong. How? Fly.
+
+## When do I go to Taiwan? Likely next week
+
+I go Taiwan. When? Next week.
+
+## I go to Japan. Why? For my brother's wedding
+
+1. I go Japan. Why? My brother wedding.
+2. I go Japan for my brother wedding.
+
+## I am not tired
+
+I (shake head) not tired.
+
+## You are not weak
+
+You weak not (shake head).
+
+## I am not happy
+
+I (shake head) not happy.
+
+## I cannot understand the presenter because he used a lot of jargon terms
+
+Presenter big/jargon word, I (shake head) not/don't.
+
+## Yes, you are right
+
+Yes (nod head). You right.
+
+## He has completed his studies
+
+He (nod head) study finish.
+
+## Yes, she is married
+
+Yes (nod head), she married (raise eyebrows).
+
+## The bus has arrived
+
+Bus arrived already (nod head once).
+
+## Sit down
+
+(Big signs) Sit down!
+
+## Shut up
+
+1. (Zip mouth with the "G" hand)
+2. (Cross two "H" signs with the palm out, and place it over the
+   other person's mouth)
+
+## Stop talking
+
+(Big signs) Stop talking!
+
+## Don't touch it
+
+Don't!
+
+## If it rained, the game will be cancelled
+
+Rain (pause), game cancel.
+
+## If it rained, I am not going for swimming
+
+Rain (pause), I not go swim.
+
+## If you are going, I will be going
+
+1. You go (pause), I go.
+2. You go (pause), I follow.
+
+## If it is still raining, I am not going out
+
+Rain continue flood (pause), I not go.
+
+[CL-3]: ./concepts#cl-3
+[CL-claw]: ./concepts#cl-3-claw-bent-curved
+[CL-V]: ./concepts#cl-v-cl-2
