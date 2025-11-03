@@ -26,6 +26,7 @@ export default defineConfig({
             directives: [
                 "default-src 'none'",
                 "img-src 'self'",
+                "media-src 'self'",
                 "font-src 'self'",
                 "connect-src 'self'",
                 "manifest-src 'self'",
