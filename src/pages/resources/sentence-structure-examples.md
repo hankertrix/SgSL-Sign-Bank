@@ -632,6 +632,58 @@ Rain (pause), I not go swim.
 
 Rain continue flood (pause), I not go.
 
+## Remember to bring your passport
+
+Remember bring passport.
+
+## Our next holiday will be Europe
+
+We ([CL-V]) next holiday Europe will.
+
+## He booked his flight ticket to Korea last December
+
+Last December, Korea, (point to person) boy book flight ticket finish.
+
+## They plan their tour to the Philippines in 2 years' time
+
+2 year time they ([CL-V]) plan go Philippines.
+
+## She wants to backpack around Asia - Malaysia, Thailand, Philippines
+
+1. (Point to person) Girl want backpack around Asia,
+   Malaysia (left side), Thailand (centre), Philippines (right side).
+2. (Point to person) Girl want backpack around Asia,
+   ([CL-3] palm facing inwards), (point to thumb) Malaysia,
+   (point to index finger) Thailand,
+   (point to middle finger) Philippines.
+
+## Tom prefers Australia to America
+
+1. Australia (left side) America (right side)
+   Tom prefer (point to the left side).
+2. ([CL-V] palm facing inwards), (point to index finger) Australia,
+   (point to middle finger) America, Tom prefer (point to the index finger).
+
+## People in North Korea look different from those in South Korea
+
+North Korea (left side), South Korea (right side),
+([CL-V] between the left side and right side), people look different.
+
+## How much do you pay for the hotel accommodation
+
+Hotel stay how much you pay?
+
+## She does not want to travel in Japan
+
+(Point to person) girl don't want travel Japan.
+
+## How do you go to Malaysia? By car, train or plane?
+
+1. How go Malaysia? ([CL-3] palm facing inwards)
+   (Point to thumb) car, (point to index finger) train,
+   (point to middle finger) plane.
+2. How go Malaysia? Car (left side), train (centre), plane (right side).
+
 [CL-3]: ./concepts#cl-3
 [CL-claw]: ./concepts#cl-3-claw-bent-curved
 [CL-V]: ./concepts#cl-v-cl-2

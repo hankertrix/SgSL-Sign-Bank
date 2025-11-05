@@ -12,3 +12,7 @@ category: Vocabulary
 ## Variation 2
 
 ![Variation 2 of daily](@signs/daily-variation-2.gif)
+
+## Variation 3
+
+![Variation 3 of daily](@signs/daily-variation-3.gif)

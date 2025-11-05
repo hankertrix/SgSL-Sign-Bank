@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Then
 image: ./assets/images-of-signs/then-variation-1.gif
 category: Vocabulary
+family: Then
 ---
 
 ## Variation 1

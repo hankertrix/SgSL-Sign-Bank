@@ -2,12 +2,12 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Terminology
 category: Vocabulary
-family: Video
-dependentImages: [./assets/images-of-signs/video-variation-1.gif]
+family: Period
+dependentImages: [./assets/images-of-signs/period-time.gif]
 ---
 
-Same motion as the first variation of ["video"](./video#variation-1),
+Same motion as ["period"](./period-time),
 which is shown below,
-but use the "T" hand sign, instead of the "V" hand sign.
+but use the "T" hand sign, instead of the "P" hand sign.
 
-![Video](@signs/video-variation-1.gif)
+![Period](@signs/period-time.gif)

@@ -1,11 +1,9 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Important
+image: ./assets/images-of-signs/important.gif
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/value.gif]
+family: Important
 ---
 
-Similar motion to ["value"](./value), which is shown below,
-but use the "I" hand sign instead of the "V" hand sign.
-
-![Value](@signs/value.gif)
+![Important](@signs/important.gif)

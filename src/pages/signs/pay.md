@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Pay
 image: ./assets/images-of-signs/pay-variation-1.gif
 category: Vocabulary
+family: Pay
 ---
 
 ## Variation 1

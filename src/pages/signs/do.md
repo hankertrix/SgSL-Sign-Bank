@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Do
+title: Do / Activity
 image: ./assets/images-of-signs/do.gif
 category: Vocabulary
 ---

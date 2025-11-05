@@ -6,3 +6,5 @@ category: Vocabulary
 ---
 
 ![Trick](@signs/trick.gif)
+
+You can also use an index finger instead of the palm.

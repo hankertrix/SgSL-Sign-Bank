@@ -6,3 +6,5 @@ category: Places
 ---
 
 ![Hospital](@signs/hospital.gif)
+
+![Hospital](@signs/hospital-sgsl-sign-bank.gif)

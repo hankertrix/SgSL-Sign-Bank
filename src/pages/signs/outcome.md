@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Outcome
 category: Vocabulary
-family: Finish
+family: Finish (variation 1)
 dependentImages: [./assets/images-of-signs/finish-variation-1.gif]
 ---
 

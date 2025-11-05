@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Intervene / Intervention
+title: Intervene / Intervention / Interrupt / Interruption
 image: ./assets/images-of-signs/intervene.gif
 category: Vocabulary
 ---

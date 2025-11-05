@@ -27,6 +27,10 @@ Exactly the same gesture as ["anticipate"](./anticipate).
 
 ## Variation 5
 
+![Variation 5 of hope](@signs/hope-variation-5.gif)
+
+## Variation 6
+
 Have both palms facing up, fingers facing forward
 and pointed 45 degrees upwards, and on the side of your body.
 One palm should be closer to your body than the other.
