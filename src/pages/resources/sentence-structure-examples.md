@@ -666,8 +666,7 @@ They ([CL-V]) plan tour Philippines 2 years later.
 
 ## People in North Korea look different from those in South Korea
 
-North Korea (left side), South Korea (right side),
-([CL-V] between the left side and right side), people look different.
+North Korea (left side), South Korea (right side), people look different.
 
 ## How much do you pay for the hotel accommodation
 
@@ -683,6 +682,26 @@ Hotel stay how much you pay?
    (Point to thumb) car, (point to index finger) train,
    (point to middle finger) plane.
 2. How go Malaysia? Car (left side), train (centre), plane (right side).
+
+## Did you manage to see the world?
+
+You manage see world?
+
+## It is our first time in Europe
+
+We ([CL-3]) first time Europe.
+
+## We had a good time in cold Australia
+
+Cold Australia we ([CL-V]) have good time.
+
+## They will never forget the snow in Korea
+
+Korea snow they ([CL-3]) never forget will.
+
+## Jane and I left Japan at 8 am
+
+8 am we ([CL-V]) Jane leave Japan.
 
 [CL-3]: ./concepts#cl-3
 [CL-claw]: ./concepts#cl-3-claw-bent-curved
