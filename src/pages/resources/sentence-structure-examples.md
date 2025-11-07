@@ -646,7 +646,7 @@ Last December, Korea, (point to person) boy book flight ticket finish.
 
 ## They plan their tour to the Philippines in 2 years' time
 
-They ([CL-V]) plan tour Philippines 2 years later.
+Now they ([CL-V]) plan tour Philippines 2 years later.
 
 ## She wants to backpack around Asia - Malaysia, Thailand, Philippines
 
