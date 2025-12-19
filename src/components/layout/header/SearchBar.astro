@@ -361,6 +361,15 @@ const EVENT_TYPES_FOR_SAFARI = ["mousedown"];
 		outline: none;
 	}
 
+	/*
+	Remove the left inner padding under macOS
+	and the magnifying glass from iOS
+	as there is already one present
+	*/
+	#search-input::-webkit-search-decoration {
+		appearance: none;
+	}
+
 	button > svg {
 		width: var(--icon-size);
 		height: var(--icon-size);
