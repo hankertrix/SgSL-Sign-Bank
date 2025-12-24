@@ -6,6 +6,8 @@ export const PAGES = {
 		Grammar: null,
 		"Sentence Structure Examples": null,
 		"Deaf Culture, Community and Language": null,
+		"Cultural Appropriation": null,
+		"Miscellaneous Resources": null,
 	},
 	Categories: null,
 	Signs: null,
