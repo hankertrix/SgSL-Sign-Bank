@@ -299,7 +299,7 @@ For example, by substituting song signing with Indian dance,
 and hence substituting Deaf people with Indian people,
 and substituting hearing people with Chinese people,
 it is essentially like Chinese people performing Indian dance
-without the including the Indian community.
+without the involving the Indian community.
 Most would agree that such a situation is completely unacceptable,
 and is a clear form of cultural appropriation.
 Thus, the same applies to hearing people song signing.
