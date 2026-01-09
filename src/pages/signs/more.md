@@ -1,7 +1,8 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: More
+image: ./assets/images-of-signs/more.gif
 category: Vocabulary
 ---
 
-Make two "O" hand signs with both hands and bring them together.
+![More](@signs/more.gif)
