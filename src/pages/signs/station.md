@@ -3,6 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Station
 image: ./assets/images-of-signs/station.gif
 category: Vocabulary
+family: Museum
 ---
 
 Same motion as ["museum"](./museum),

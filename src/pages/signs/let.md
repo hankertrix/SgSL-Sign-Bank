@@ -1,6 +1,6 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
-title: Let's
+title: Let / Let's
 category: Vocabulary
 family: Allow
 dependentImages: [./assets/images-of-signs/allow.gif]
