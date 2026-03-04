@@ -368,7 +368,7 @@ Year 2018, my work earn tax high.
 
 ## I give $5 to each of my two sons for lunch daily
 
-Daily lunch, both ([CL-V]) sons, I give, $5 (to one son), $5 (to the other son).
+Daily lunch, both ([CL-2]) sons, I give, $5 (to one son), $5 (to the other son).
 
 ## So cheap! This ice cream costs only 5 cents
 
@@ -470,9 +470,9 @@ Tomorrow we meet where?
 
 ## The family went by MRT from Ang Mo Kio to Tampines
 
-[CL-claw] (right side) AMK, family take MRT train [CL-3]
+[CL-Claw] (right side) AMK, family take MRT train [CL-3]
 (move the [CL-3] from the right side to the left side)
-[CL-claw] (left side) Tampines.
+[CL-Claw] (left side) Tampines.
 
 ## Hannah will go swimming at the beach
 
@@ -638,7 +638,7 @@ Remember bring passport.
 
 ## Our next holiday will be Europe
 
-We ([CL-V]) next holiday Europe will.
+We ([CL-2]) next holiday Europe will.
 
 ## He booked his flight ticket to Korea last December
 
@@ -646,7 +646,7 @@ Last December, Korea, (point to person) boy book flight ticket finish.
 
 ## They plan their tour to the Philippines in 2 years' time
 
-Now they ([CL-V]) plan tour Philippines 2 years later.
+Now they ([CL-2]) plan tour Philippines 2 years later.
 
 ## She wants to backpack around Asia - Malaysia, Thailand, Philippines
 
@@ -661,7 +661,7 @@ Now they ([CL-V]) plan tour Philippines 2 years later.
 
 1. Australia (left side) America (right side)
    Tom prefer (point to the left side).
-2. ([CL-V] palm facing inwards), (point to index finger) Australia,
+2. ([CL-2] palm facing inwards), (point to index finger) Australia,
    (point to middle finger) America, Tom prefer (point to the index finger).
 
 ## People in North Korea look different from those in South Korea
@@ -693,7 +693,7 @@ We ([CL-3]) first time Europe.
 
 ## We had a good time in cold Australia
 
-Cold Australia we ([CL-V]) have good time.
+Cold Australia we ([CL-2]) have good time.
 
 ## They will never forget the snow in Korea
 
@@ -701,8 +701,8 @@ Korea snow they ([CL-3]) never forget will.
 
 ## Jane and I left Japan at 8 am
 
-8 am we ([CL-V]) Jane leave Japan.
+8 am we ([CL-2]) Jane leave Japan.
 
 [CL-3]: ./concepts#cl-3
-[CL-claw]: ./concepts#cl-3-claw-bent-curved
-[CL-V]: ./concepts#cl-v-cl-2
+[CL-Claw]: ./concepts#cl-3-claw-bent-curved
+[CL-2]: ./concepts#cl-v-cl-2
