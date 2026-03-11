@@ -20,7 +20,7 @@ export default defineConfig({
     },
 
     // CSP
-    experimental: {
+    security: {
         csp: {
             algorithm: "SHA-512",
             directives: [

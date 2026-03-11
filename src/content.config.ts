@@ -1,6 +1,7 @@
 // The content configuration for the site
 
-import { defineCollection, z } from "astro:content";
+import { defineCollection } from "astro:content";
+import { z } from "astro/zod";
 import { glob } from "astro/loaders";
 
 // The collection of signs
