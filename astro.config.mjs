@@ -91,6 +91,6 @@ export default defineConfig({
         ],
     },
 
-    // Generate a sitemap
+    // Generate a sitemap and use MDX
     integrations: [sitemap(), mdx()],
 });
