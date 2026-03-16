@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: WiFi
 category: Vocabulary
 family: Candle
-dependentImages: [./assets/images-of-signs/candle.gif]
+dependentImages: ["@signs/candle.gif"]
 ---
 
 Similar motion to ["candle"](./candle),

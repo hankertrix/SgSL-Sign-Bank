@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Suppress
-image: ./assets/images-of-signs/suppress.gif
+image: "@signs/suppress.gif"
 category: Vocabulary
 ---
 

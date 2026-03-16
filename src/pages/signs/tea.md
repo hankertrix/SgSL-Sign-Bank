@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tea
-image: ./assets/images-of-signs/tea.gif
+image: "@signs/tea.gif"
 category: Food
 ---
 

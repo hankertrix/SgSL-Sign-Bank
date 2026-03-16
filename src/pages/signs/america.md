@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: America
-image: ./assets/images-of-signs/america.gif
+image: "@signs/america.gif"
 category: Places
 ---
 

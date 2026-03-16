@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Identity / Identify
-image: ./assets/images-of-signs/identity.gif
+image: "@signs/identity.gif"
 category: Vocabulary
 ---
 

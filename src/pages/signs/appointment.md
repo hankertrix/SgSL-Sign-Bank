@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Appointment
-image: ./assets/images-of-signs/appointment.gif
+image: "@signs/appointment.gif"
 category: Vocabulary
 ---
 

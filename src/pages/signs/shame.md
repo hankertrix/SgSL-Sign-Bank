@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Shame
-image: ./assets/images-of-signs/shame-variation-1.gif
+image: "@signs/shame-variation-1.gif"
 category: Vocabulary
 ---
 

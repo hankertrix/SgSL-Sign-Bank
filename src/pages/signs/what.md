@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: What
-image: ./assets/images-of-signs/what-variation-1.gif
+image: "@signs/what-variation-1.gif"
 category: Vocabulary
 ---
 

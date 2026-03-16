@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Phew
-image: ./assets/images-of-signs/merdeaf-phew.png
+image: "@signs/merdeaf-phew.png"
 category: Singlish
 ---
 

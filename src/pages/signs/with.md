@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: With
-image: ./assets/images-of-signs/with.gif
+image: "@signs/with.gif"
 category: Vocabulary
 ---
 

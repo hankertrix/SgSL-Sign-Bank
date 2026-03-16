@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Giraffe
-image: ./assets/images-of-signs/giraffe-variation-1.gif
+image: "@signs/giraffe-variation-1.gif"
 category: Vocabulary
 ---
 

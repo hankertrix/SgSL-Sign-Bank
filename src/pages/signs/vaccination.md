@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Vaccination / Vaccinate / Injection
-image: ./assets/images-of-signs/vaccination.gif
+image: "@signs/vaccination.gif"
 category: Vocabulary
 ---
 

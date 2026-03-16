@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Oppress
-image: ./assets/images-of-signs/oppress.gif
+image: "@signs/oppress.gif"
 category: Vocabulary
 ---
 

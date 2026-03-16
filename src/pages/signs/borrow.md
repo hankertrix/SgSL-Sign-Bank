@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Borrow
-image: ./assets/images-of-signs/borrow.gif
+image: "@signs/borrow.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Calm
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/quiet.gif]
+dependentImages: ["@signs/quiet.gif"]
 ---
 
 Same motion as ["quiet"](./quiet), which is shown below,

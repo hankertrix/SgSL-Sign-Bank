@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Redhill
-image: ./assets/images-of-signs/redhill.gif
+image: "@signs/redhill.gif"
 category: Places
 ---
 

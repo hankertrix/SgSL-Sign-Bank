@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Crayon
-image: ./assets/images-of-signs/crayon.gif
+image: "@signs/crayon.gif"
 category: Vocabulary
 ---
 

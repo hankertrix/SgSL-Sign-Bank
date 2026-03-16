@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Empathy
-image: ./assets/images-of-signs/empathy.gif
+image: "@signs/empathy.gif"
 category: Vocabulary
 family: Understand
 ---

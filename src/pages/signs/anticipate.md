@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Anticipate
-image: ./assets/images-of-signs/hope-variation-3.gif
+image: "@signs/hope-variation-3.gif"
 category: Vocabulary
 ---
 

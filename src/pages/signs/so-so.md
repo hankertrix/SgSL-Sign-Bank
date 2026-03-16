@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: So-so / Average
-image: ./assets/images-of-signs/so-so.gif
+image: "@signs/so-so.gif"
 category: Vocabulary
 ---
 

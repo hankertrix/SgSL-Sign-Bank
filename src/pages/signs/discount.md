@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Discount
-image: ./assets/images-of-signs/discount-variation-1.gif
+image: "@signs/discount-variation-1.gif"
 category: Vocabulary
 ---
 

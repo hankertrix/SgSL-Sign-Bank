@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cherry
-image: ./assets/images-of-signs/cherry.gif
+image: "@signs/cherry.gif"
 category: Fruits
 ---
 

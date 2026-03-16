@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Light (noun)
-image: ./assets/images-of-signs/light-noun.gif
+image: "@signs/light-noun.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Linguistics
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/interpret-variation-1.gif]
+dependentImages: ["@signs/interpret-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["interpret"](./interpret#variation-1),

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Travel visa
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/passport.gif]
+dependentImages: ["@signs/passport.gif"]
 ---
 
 Same motion as ["passport"](./passport),

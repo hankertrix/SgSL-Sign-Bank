@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Therefore / Hence / Thus
-image: ./assets/images-of-signs/therefore.gif
+image: "@signs/therefore.gif"
 category: Vocabulary
 ---
 

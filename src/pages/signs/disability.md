@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Disability / Disabilities / Disabled
-image: ./assets/images-of-signs/disability.gif
+image: "@signs/disability.gif"
 category: Vocabulary
 ---
 

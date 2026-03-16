@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Malaysia
-image: ./assets/images-of-signs/malaysia.gif
+image: "@signs/malaysia.gif"
 category: Places
 ---
 

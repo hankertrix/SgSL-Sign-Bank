@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: China
-image: ./assets/images-of-signs/china.gif
+image: "@signs/china.gif"
 category: Places
 ---
 

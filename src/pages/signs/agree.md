@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Agree
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/think.gif, ./assets/images-of-signs/same.gif]
+dependentImages: ["@signs/think.gif", "@signs/same-variation-1.gif"]
 ---
 
 Do the gesture for ["think"](./think),

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Canteen / Cafeteria
-image: ./assets/images-of-signs/canteen.gif
+image: "@signs/canteen.gif"
 category: Vocabulary
 ---
 

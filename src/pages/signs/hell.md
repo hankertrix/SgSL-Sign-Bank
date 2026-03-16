@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hell
-image: ./assets/images-of-signs/hell-variation-1.gif
+image: "@signs/hell-variation-1.gif"
 category: Vocabulary
 ---
 

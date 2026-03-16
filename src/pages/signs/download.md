@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Download
-image: ./assets/images-of-signs/download-variation-1.gif
+image: "@signs/download-variation-1.gif"
 category: Vocabulary
 ---
 

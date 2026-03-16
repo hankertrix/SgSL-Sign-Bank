@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Braille
-image: ./assets/images-of-signs/braille.gif
+image: "@signs/braille.gif"
 category: Vocabulary
 ---
 

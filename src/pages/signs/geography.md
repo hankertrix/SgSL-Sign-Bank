@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Geography
-image: ./assets/images-of-signs/geography.gif
+image: "@signs/geography.gif"
 category: Vocabulary
 family: All
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Most
-image: ./assets/images-of-signs/most.gif
+image: "@signs/most.gif"
 category: Vocabulary
 ---
 

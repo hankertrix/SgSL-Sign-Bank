@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Arrive
-image: ./assets/images-of-signs/arrive.gif
+image: "@signs/arrive.gif"
 category: Vocabulary
 ---
 

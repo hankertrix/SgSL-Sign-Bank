@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sick
-image: ./assets/images-of-signs/sick.gif
+image: "@signs/sick.gif"
 category: Vocabulary
 family: Sick
 ---

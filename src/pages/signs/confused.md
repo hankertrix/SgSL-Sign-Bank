@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Confused
-image: ./assets/images-of-signs/confused.gif
+image: "@signs/confused.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Level
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/language.gif]
+dependentImages: ["@signs/language.gif"]
 ---
 
 Similar motion to ["language"](./language),

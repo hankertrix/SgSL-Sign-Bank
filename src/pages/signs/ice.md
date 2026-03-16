@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ice
-image: ./assets/images-of-signs/ice.gif
+image: "@signs/ice.gif"
 category: Vocabulary
 ---
 

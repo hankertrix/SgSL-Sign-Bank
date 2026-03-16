@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Least
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/less.gif, ./assets/images-of-signs/most.gif]
+dependentImages: ["@signs/less.gif", "@signs/most.gif"]
 ---
 
 Do the gesture for ["less"](./less), which is the first image below

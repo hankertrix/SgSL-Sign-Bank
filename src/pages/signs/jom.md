@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jom
-image: ./assets/images-of-signs/merdeaf-jom.png
+image: "@signs/merdeaf-jom.png"
 category: Singlish
 ---
 

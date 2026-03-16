@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Notice / Recognise / Detect
-image: ./assets/images-of-signs/notice.gif
+image: "@signs/notice.gif"
 category: Vocabulary
 ---
 

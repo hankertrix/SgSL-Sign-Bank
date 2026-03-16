@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Because
-image: ./assets/images-of-signs/because.gif
+image: "@signs/because.gif"
 category: Vocabulary
 ---
 

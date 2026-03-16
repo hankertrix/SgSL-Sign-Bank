@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hall
-image: ./assets/images-of-signs/hall.gif
+image: "@signs/hall.gif"
 category: Places
 ---
 

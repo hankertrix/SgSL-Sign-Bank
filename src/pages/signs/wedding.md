@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wedding
-image: ./assets/images-of-signs/wedding-variation-1.gif
+image: "@signs/wedding-variation-1.gif"
 category: Vocabulary
 ---
 

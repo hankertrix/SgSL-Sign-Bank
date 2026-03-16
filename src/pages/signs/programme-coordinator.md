@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Programme coordinator
-image: ./assets/images-of-signs/programme-coordinator.gif
+image: "@signs/programme-coordinator.gif"
 category: Vocabulary
 ---
 

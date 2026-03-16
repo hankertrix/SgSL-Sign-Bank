@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hearing (person)
-image: ./assets/images-of-signs/hearing-person.gif
+image: "@signs/hearing-person.gif"
 category: Vocabulary
 ---
 

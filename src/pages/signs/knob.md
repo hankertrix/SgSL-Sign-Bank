@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Knob
-image: ./assets/images-of-signs/knob.gif
+image: "@signs/knob.gif"
 category: Vocabulary
 ---
 

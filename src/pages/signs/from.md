@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: From
-image: ./assets/images-of-signs/from.gif
+image: "@signs/from.gif"
 category: Vocabulary
 ---
 

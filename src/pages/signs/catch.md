@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Catch
-image: ./assets/images-of-signs/catch.gif
+image: "@signs/catch.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Park
-image: ./assets/images-of-signs/park.gif
+image: "@signs/park.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Nice
-image: ./assets/images-of-signs/nice-variation-1.gif
+image: "@signs/nice-variation-1.gif"
 category: Vocabulary
 ---
 

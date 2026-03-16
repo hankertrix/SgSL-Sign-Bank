@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fire (noun) / Flame
-image: ./assets/images-of-signs/fire-noun.gif
+image: "@signs/fire-noun.gif"
 category: Vocabulary
 ---
 

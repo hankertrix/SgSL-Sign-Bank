@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Evening
-image: ./assets/images-of-signs/evening-variation-1.gif
+image: "@signs/evening-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Offer
-image: ./assets/images-of-signs/offer.gif
+image: "@signs/offer.gif"
 category: Vocabulary
 ---
 

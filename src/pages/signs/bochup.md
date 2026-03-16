@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bochup
-image: ./assets/images-of-signs/merdeaf-bochup.png
+image: "@signs/merdeaf-bochup.png"
 category: Singlish
 ---
 

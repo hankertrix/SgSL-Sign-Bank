@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fuck
-image: ./assets/images-of-signs/fuck.gif
+image: "@signs/fuck.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Young
-image: ./assets/images-of-signs/young-variation-1.gif
+image: "@signs/young-variation-1.gif"
 category: Vocabulary
 ---
 

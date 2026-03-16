@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Book (verb)
-image: ./assets/images-of-signs/book-verb.gif
+image: "@signs/book-verb.gif"
 category: Vocabulary
 ---
 

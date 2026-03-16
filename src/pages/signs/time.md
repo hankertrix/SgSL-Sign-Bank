@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Time
-image: ./assets/images-of-signs/time.gif
+image: "@signs/time.gif"
 category: Vocabulary
 ---
 

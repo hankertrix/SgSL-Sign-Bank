@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Period (time)
-image: ./assets/images-of-signs/period-time.gif
+image: "@signs/period-time.gif"
 category: Vocabulary
 family: Period
 ---

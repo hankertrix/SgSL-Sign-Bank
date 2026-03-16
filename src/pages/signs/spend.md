@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spend
-image: ./assets/images-of-signs/spend-variation-1.gif
+image: "@signs/spend-variation-1.gif"
 category: Vocabulary
 ---
 

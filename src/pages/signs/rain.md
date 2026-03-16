@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rain
-image: ./assets/images-of-signs/rain.gif
+image: "@signs/rain.gif"
 category: Vocabulary
 ---
 

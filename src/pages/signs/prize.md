@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Prize
-image: ./assets/images-of-signs/prize.gif
+image: "@signs/prize.gif"
 category: Vocabulary
 ---
 

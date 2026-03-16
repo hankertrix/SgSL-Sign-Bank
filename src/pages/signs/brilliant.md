@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Brilliant
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/smart.gif]
+dependentImages: ["@signs/smart.gif"]
 ---
 
 Same motion as ["smart"](./smart), which is shown below,

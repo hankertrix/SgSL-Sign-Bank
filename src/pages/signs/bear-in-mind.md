@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bear in mind
-image: ./assets/images-of-signs/bear-in-mind.gif
+image: "@signs/bear-in-mind.gif"
 category: Short expressions
 ---
 

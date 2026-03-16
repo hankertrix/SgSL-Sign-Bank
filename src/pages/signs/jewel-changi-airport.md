@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jewel (Changi Airport)
-image: ./assets/images-of-signs/jewel-changi-airport-variation-1.gif
+image: "@signs/jewel-changi-airport-variation-1.gif"
 category: Places
 ---
 

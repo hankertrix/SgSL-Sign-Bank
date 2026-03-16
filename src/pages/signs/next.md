@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Next
-image: ./assets/images-of-signs/next.gif
+image: "@signs/next.gif"
 category: Vocabulary
 ---
 

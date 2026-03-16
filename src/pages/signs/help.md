@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Help
-image: ./assets/images-of-signs/help.gif
+image: "@signs/help.gif"
 category: Vocabulary
 ---
 

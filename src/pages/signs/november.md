@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: November
-image: ./assets/images-of-signs/november.gif
+image: "@signs/november.gif"
 category: Months of the year
 ---
 

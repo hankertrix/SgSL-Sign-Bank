@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dragonball
-image: ./assets/images-of-signs/dragonball.gif
+image: "@signs/dragonball.gif"
 category: Vocabulary
 ---
 

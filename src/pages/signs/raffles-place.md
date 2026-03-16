@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Raffles Place
-image: ./assets/images-of-signs/raffles-place.gif
+image: "@signs/raffles-place.gif"
 category: Places
 ---
 

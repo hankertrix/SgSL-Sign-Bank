@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Gardens by the Bay
 category: Places
-dependentImages: [./assets/images-of-signs/change.gif]
+dependentImages: ["@signs/change.gif"]
 ---
 
 ## Variation 1

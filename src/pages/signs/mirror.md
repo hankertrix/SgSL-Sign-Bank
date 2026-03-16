@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mirror
-image: ./assets/images-of-signs/mirror.gif
+image: "@signs/mirror.gif"
 category: Vocabulary
 ---
 

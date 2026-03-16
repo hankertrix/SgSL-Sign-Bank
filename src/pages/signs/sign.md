@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sign (verb)
-image: ./assets/images-of-signs/sign-verb-variation-1.gif
+image: "@signs/sign-verb-variation-1.gif"
 category: Vocabulary
 ---
 

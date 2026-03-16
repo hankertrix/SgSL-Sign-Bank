@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Touch
-image: ./assets/images-of-signs/touch.gif
+image: "@signs/touch.gif"
 category: Vocabulary
 family: Touch
 ---

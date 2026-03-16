@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Give
-image: ./assets/images-of-signs/give.gif
+image: "@signs/give.gif"
 category: Vocabulary
 ---
 

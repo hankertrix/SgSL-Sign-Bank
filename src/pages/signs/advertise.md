@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Advertise
-image: ./assets/images-of-signs/advertise.gif
+image: "@signs/advertise.gif"
 category: Vocabulary
 ---
 

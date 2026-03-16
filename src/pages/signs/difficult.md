@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Difficult
-image: ./assets/images-of-signs/difficult.gif
+image: "@signs/difficult.gif"
 category: Vocabulary
 ---
 

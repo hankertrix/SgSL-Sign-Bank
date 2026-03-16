@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Receptive
-image: ./assets/images-of-signs/receptive.gif
+image: "@signs/receptive.gif"
 category: Vocabulary
 ---
 

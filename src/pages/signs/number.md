@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Number
-image: ./assets/images-of-signs/number.gif
+image: "@signs/number.gif"
 category: Numbers
 ---
 

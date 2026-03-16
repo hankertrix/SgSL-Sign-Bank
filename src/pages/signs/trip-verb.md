@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Trip (verb)
-image: ./assets/images-of-signs/trip-verb.gif
+image: "@signs/trip-verb.gif"
 category: Vocabulary
 ---
 

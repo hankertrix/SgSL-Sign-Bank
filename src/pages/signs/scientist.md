@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Scientist
-image: ./assets/images-of-signs/scientist.gif
+image: "@signs/scientist.gif"
 category: Vocabulary
 ---
 

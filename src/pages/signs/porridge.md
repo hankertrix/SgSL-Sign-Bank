@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Porridge
-image: ./assets/images-of-signs/porridge.gif
+image: "@signs/porridge.gif"
 category: Food
 ---
 

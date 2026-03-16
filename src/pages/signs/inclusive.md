@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Inclusive
-image: ./assets/images-of-signs/inclusive.gif
+image: "@signs/inclusive.gif"
 category: Vocabulary
 ---
 

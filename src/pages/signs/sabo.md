@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sabo
-image: ./assets/images-of-signs/merdeaf-sabo.png
+image: "@signs/merdeaf-sabo.png"
 category: Singlish
 ---
 

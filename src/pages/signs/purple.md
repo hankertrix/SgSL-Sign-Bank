@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Purple
-image: ./assets/images-of-signs/purple.gif
+image: "@signs/purple.gif"
 category: Vocabulary
 ---
 

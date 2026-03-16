@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Impossible
-image: ./assets/images-of-signs/impossible.gif
+image: "@signs/impossible.gif"
 category: Vocabulary
 ---
 

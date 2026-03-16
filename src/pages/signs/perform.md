@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Perform
-image: ./assets/images-of-signs/perform.gif
+image: "@signs/perform.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: History
-image: ./assets/images-of-signs/history-variation-1.gif
+image: "@signs/history-variation-1.gif"
 category: Vocabulary
 ---
 

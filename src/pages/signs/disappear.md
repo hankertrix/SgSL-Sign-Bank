@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Disappear
-image: ./assets/images-of-signs/disappear.gif
+image: "@signs/disappear.gif"
 category: Vocabulary
 ---
 

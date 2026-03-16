@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Patience / Patient (adjective)
-image: ./assets/images-of-signs/patience.gif
+image: "@signs/patience.gif"
 category: Vocabulary
 ---
 

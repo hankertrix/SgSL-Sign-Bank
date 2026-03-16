@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Siao
-image: ./assets/images-of-signs/crazy-variation-2.gif
+image: "@signs/crazy-variation-2.gif"
 category: Singlish
 ---
 

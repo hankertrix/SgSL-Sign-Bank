@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Man
-image: ./assets/images-of-signs/man-variation-1.gif
+image: "@signs/man-variation-1.gif"
 category: Vocabulary
 ---
 

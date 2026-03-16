@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Grab (brand)
-image: ./assets/images-of-signs/grab-brand.gif
+image: "@signs/grab-brand.gif"
 category: Brands
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Smooth
-image: ./assets/images-of-signs/smooth.gif
+image: "@signs/smooth.gif"
 category: Vocabulary
 ---
 

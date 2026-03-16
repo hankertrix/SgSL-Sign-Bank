@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Evil
-image: ./assets/images-of-signs/evil.gif
+image: "@signs/evil.gif"
 category: Vocabulary
 ---
 

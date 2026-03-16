@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Invest / Investment
-image: ./assets/images-of-signs/invest.gif
+image: "@signs/invest.gif"
 category: Vocabulary
 ---
 

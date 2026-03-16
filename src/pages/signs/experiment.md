@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Experiment
 category: Vocabulary
 family: Science
-dependentImages: [./assets/images-of-signs/experiment.gif]
+dependentImages: ["@signs/experiment.gif"]
 ---
 
 Same motion as ["science"](./science),

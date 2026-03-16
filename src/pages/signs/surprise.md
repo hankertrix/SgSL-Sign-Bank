@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Surprise
-image: ./assets/images-of-signs/surprise-variation-1.gif
+image: "@signs/surprise-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Traffic jam
-image: ./assets/images-of-signs/traffic-jam.gif
+image: "@signs/traffic-jam.gif"
 category: Vocabulary
 ---
 

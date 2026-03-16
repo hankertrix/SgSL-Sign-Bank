@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Subtract / Minus
-image: ./assets/images-of-signs/subtract-variation-1.gif
+image: "@signs/subtract-variation-1.gif"
 category: Mathematical symbols
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: OK
-image: ./assets/images-of-signs/ok.gif
+image: "@signs/ok.gif"
 category: Vocabulary
 ---
 

@@ -5,7 +5,7 @@ category: Vocabulary
 family:
   variation-1: Class
   variation-2: Preach
-dependentImages: [./assets/images-of-signs/class.gif]
+dependentImages: ["@signs/class.gif"]
 ---
 
 ## Variation 1

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Raspberry
 category: Fruits
-dependentImages: [./assets/images-of-signs/berry.gif]
+dependentImages: ["@signs/berry.gif"]
 ---
 
 Do the hand sign for "R",

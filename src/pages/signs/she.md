@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: She
-image: ./assets/images-of-signs/she-variation-1.gif
+image: "@signs/she-variation-1.gif"
 category: Vocabulary
 ---
 

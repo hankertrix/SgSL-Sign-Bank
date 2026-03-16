@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Odd / Strange / Unusual / Weird
-image: ./assets/images-of-signs/odd.gif
+image: "@signs/odd.gif"
 category: Vocabulary
 ---
 

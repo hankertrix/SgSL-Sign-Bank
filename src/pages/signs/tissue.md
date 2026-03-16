@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Tissue paper
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/paper.gif]
+dependentImages: ["@signs/paper.gif"]
 ---
 
 ## Variation 1

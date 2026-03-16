@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bear (animal)
-image: ./assets/images-of-signs/bear.gif
+image: "@signs/bear-animal.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sweet
-image: ./assets/images-of-signs/sweet.gif
+image: "@signs/sweet.gif"
 category: Vocabulary
 ---
 

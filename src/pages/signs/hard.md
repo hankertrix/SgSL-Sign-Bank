@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hard
-image: ./assets/images-of-signs/hard.gif
+image: "@signs/hard.gif"
 category: Vocabulary
 ---
 

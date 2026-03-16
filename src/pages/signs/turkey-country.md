@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Turkey (country)
-image: ./assets/images-of-signs/turkey-country.gif
+image: "@signs/turkey-country.gif"
 category: Places
 ---
 

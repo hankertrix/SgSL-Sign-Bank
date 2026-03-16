@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sober
-image: ./assets/images-of-signs/sober.gif
+image: "@signs/sober.gif"
 category: Vocabulary
 ---
 

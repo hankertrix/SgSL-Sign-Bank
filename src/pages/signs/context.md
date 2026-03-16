@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Context
-image: ./assets/images-of-signs/context.gif
+image: "@signs/context.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Newton (place)
-image: ./assets/images-of-signs/newton-place.gif
+image: "@signs/newton-place.gif"
 category: Places
 ---
 

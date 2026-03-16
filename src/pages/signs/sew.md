@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sew
-image: ./assets/images-of-signs/sew.gif
+image: "@signs/sew.gif"
 category: Vocabulary
 ---
 

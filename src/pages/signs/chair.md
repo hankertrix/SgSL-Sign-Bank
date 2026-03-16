@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Chair
-image: ./assets/images-of-signs/chair.gif
+image: "@signs/chair.gif"
 category: Vocabulary
 ---
 

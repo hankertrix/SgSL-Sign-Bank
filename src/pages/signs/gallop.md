@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gallop
-image: ./assets/images-of-signs/gallop-variation-1.gif
+image: "@signs/gallop-variation-1.gif"
 category: Vocabulary
 ---
 

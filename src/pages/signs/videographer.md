@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Videographer
-image: ./assets/images-of-signs/videographer.gif
+image: "@signs/videographer.gif"
 category: Vocabulary
 ---
 

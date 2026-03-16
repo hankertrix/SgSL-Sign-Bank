@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Again
-image: ./assets/images-of-signs/again.gif
+image: "@signs/again.gif"
 category: Vocabulary
 ---
 

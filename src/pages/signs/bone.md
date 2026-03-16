@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bone
-image: ./assets/images-of-signs/bone.gif
+image: "@signs/bone.gif"
 category: Vocabulary
 ---
 

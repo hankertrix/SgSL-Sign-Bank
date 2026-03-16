@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Coach (trainer)
-image: ./assets/images-of-signs/coach-trainer.gif
+image: "@signs/coach-trainer.gif"
 category: Vocabulary
 ---
 

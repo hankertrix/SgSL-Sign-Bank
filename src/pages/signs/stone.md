@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Stone
-image: ./assets/images-of-signs/stone.gif
+image: "@signs/stone.gif"
 category: Vocabulary
 ---
 

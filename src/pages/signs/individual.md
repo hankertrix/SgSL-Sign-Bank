@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Individual
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/person-variation-1.gif]
+dependentImages: ["@signs/person-variation-1.gif"]
 ---
 
 Same motion as ["person"](./person), which is shown below,

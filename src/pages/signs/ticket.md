@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ticket
-image: ./assets/images-of-signs/ticket.gif
+image: "@signs/ticket.gif"
 category: Vocabulary
 ---
 

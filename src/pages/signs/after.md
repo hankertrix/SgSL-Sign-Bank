@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: After
-image: ./assets/images-of-signs/after-variation-1.gif
+image: "@signs/after-variation-1.gif"
 category: Vocabulary
 ---
 

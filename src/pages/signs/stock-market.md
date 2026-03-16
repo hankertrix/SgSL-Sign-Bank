@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Stock market
-image: ./assets/images-of-signs/stock-market.gif
+image: "@signs/stock-market.gif"
 category: Vocabulary
 ---
 

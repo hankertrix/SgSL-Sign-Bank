@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: 1,000,000,000,000 / Trillion
 category: Numbers
-dependentImages: [./assets/images-of-signs/million.gif]
+dependentImages: ["@signs/million.gif"]
 family: Million
 ---
 

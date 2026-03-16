@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Popiah
-image: ./assets/images-of-signs/popiah.gif
+image: "@signs/popiah.gif"
 category: Food
 ---
 

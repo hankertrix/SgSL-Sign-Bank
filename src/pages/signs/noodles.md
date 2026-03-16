@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Noodles
-image: ./assets/images-of-signs/noodles-variation-1.gif
+image: "@signs/noodles-variation-1.gif"
 category: Food
 ---
 

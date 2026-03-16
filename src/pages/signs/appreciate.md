@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Appreciate
 category: Vocabulary
 family: Personal
-dependentImages: [./assets/images-of-signs/personal.gif]
+dependentImages: ["@signs/personal.gif"]
 ---
 
 Same motion as ["personal"](./personal),

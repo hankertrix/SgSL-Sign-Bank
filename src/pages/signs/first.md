@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: First
-image: ./assets/images-of-signs/first-variation-1.gif
+image: "@signs/first-variation-1.gif"
 category: Vocabulary
 ---
 

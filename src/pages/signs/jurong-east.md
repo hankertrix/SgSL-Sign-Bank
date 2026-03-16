@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jurong East
-image: ./assets/images-of-signs/jurong-east.gif
+image: "@signs/jurong-east.gif"
 category: Places
 ---
 

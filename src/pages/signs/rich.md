@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rich / Enrich
-image: ./assets/images-of-signs/rich.gif
+image: "@signs/rich.gif"
 category: Vocabulary
 ---
 

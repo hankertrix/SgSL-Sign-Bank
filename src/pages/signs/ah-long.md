@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ah long
-image: ./assets/images-of-signs/merdeaf-ah-long.png
+image: "@signs/merdeaf-ah-long.png"
 category: Singlish
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Way
-image: ./assets/images-of-signs/way.gif
+image: "@signs/way.gif"
 category: Vocabulary
 family: Way
 ---

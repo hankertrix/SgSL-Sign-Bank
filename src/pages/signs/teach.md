@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Teach
-image: ./assets/images-of-signs/teach-variation-1.gif
+image: "@signs/teach-variation-1.gif"
 category: Vocabulary
 family: Teach
 ---

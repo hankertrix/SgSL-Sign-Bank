@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Audio
-image: ./assets/images-of-signs/audio-variation-1.gif
+image: "@signs/audio-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Proud
-image: ./assets/images-of-signs/proud.gif
+image: "@signs/proud.gif"
 category: Vocabulary
 ---
 

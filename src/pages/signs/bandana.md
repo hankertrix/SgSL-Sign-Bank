@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bandana
-image: ./assets/images-of-signs/bandana.gif
+image: "@signs/bandana.gif"
 category: Clothing
 ---
 

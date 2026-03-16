@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kidney
-image: ./assets/images-of-signs/kidney.gif
+image: "@signs/kidney.gif"
 category: Body parts
 ---
 

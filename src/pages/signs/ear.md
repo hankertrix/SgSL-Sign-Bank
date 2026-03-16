@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ear
-image: ./assets/images-of-signs/ear-variation-1.gif
+image: "@signs/ear-variation-1.gif"
 category: Body parts
 ---
 

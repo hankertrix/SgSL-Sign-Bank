@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Forever
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/for.gif, ./assets/images-of-signs/always.gif]
+dependentImages: ["@signs/for.gif", "@signs/always.gif"]
 ---
 
 Do the gesture for ["for"](./for),

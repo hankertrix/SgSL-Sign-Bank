@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Increase
-image: ./assets/images-of-signs/increase.gif
+image: "@signs/increase.gif"
 category: Vocabulary
 ---
 

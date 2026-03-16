@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bicultural
-image: ./assets/images-of-signs/bicultural.gif
+image: "@signs/bicultural.gif"
 category: Vocabulary
 ---
 

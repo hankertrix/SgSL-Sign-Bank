@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Vegetable
-image: ./assets/images-of-signs/vegetable-variation-1.gif
+image: "@signs/vegetable-variation-1.gif"
 category: Vocabulary
 ---
 

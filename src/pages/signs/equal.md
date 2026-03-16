@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Equal
-image: ./assets/images-of-signs/equal.gif
+image: "@signs/equal.gif"
 category: Mathematical symbols
 ---
 

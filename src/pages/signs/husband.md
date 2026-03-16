@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Husband
-image: ./assets/images-of-signs/husband-variation-1.gif
+image: "@signs/husband-variation-1.gif"
 category: Vocabulary
 ---
 

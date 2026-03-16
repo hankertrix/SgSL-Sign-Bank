@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Food court
-image: ./assets/images-of-signs/food-court.gif
+image: "@signs/food-court.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Denmark
-image: ./assets/images-of-signs/denmark.gif
+image: "@signs/denmark.gif"
 category: Places
 ---
 

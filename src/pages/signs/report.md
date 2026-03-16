@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Report
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/hope-variation-1.gif]
+dependentImages: ["@signs/hope-variation-1.gif"]
 ---
 
 Similar motion to the first variation of ["hope"](./hope#variation-1),

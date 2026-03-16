@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hot
-image: ./assets/images-of-signs/hot-variation-1.gif
+image: "@signs/hot-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Limit / Limited
-image: ./assets/images-of-signs/limit.gif
+image: "@signs/limit.gif"
 category: Vocabulary
 ---
 

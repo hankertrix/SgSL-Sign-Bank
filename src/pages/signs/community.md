@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Community
-image: ./assets/images-of-signs/community.gif
+image: "@signs/community.gif"
 category: Vocabulary
 ---
 

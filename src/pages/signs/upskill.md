@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Upskill
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/up.gif, ./assets/images-of-signs/skill.gif]
+dependentImages: ["@signs/up-direction.gif", "@signs/skill.gif"]
 ---
 
 Do the gesture for ["up"](./up-direction),

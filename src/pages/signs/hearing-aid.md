@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hearing aid
-image: ./assets/images-of-signs/hearing-aid.gif
+image: "@signs/hearing-aid.gif"
 category: Vocabulary
 ---
 

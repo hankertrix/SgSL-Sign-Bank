@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Secretary
-image: ./assets/images-of-signs/secretary.gif
+image: "@signs/secretary.gif"
 category: Vocabulary
 ---
 

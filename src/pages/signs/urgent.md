@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Urgent
 category: Vocabulary
 family: Emergency
-dependentImages: [./assets/images-of-signs/emergency.gif]
+dependentImages: ["@signs/emergency.gif"]
 ---
 
 Same motion as ["emergency"](./emergency), which is shown below,

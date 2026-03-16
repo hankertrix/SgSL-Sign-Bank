@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Animal
-image: ./assets/images-of-signs/animal.gif
+image: "@signs/animal.gif"
 category: Vocabulary
 ---
 

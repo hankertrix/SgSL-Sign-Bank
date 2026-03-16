@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Better
-image: ./assets/images-of-signs/better-variation-1.gif
+image: "@signs/better-variation-1.gif"
 category: Vocabulary
 ---
 

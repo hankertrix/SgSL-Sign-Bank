@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Standard
-image: ./assets/images-of-signs/standard.gif
+image: "@signs/standard.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Counsellor
-image: ./assets/images-of-signs/counsellor.gif
+image: "@signs/counsellor.gif"
 category: Vocabulary
 ---
 

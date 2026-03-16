@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fly
-image: ./assets/images-of-signs/fly-variation-1.gif
+image: "@signs/fly-variation-1.gif"
 category: Vocabulary
 ---
 

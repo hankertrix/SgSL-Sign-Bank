@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Join
-image: ./assets/images-of-signs/join.gif
+image: "@signs/join.gif"
 category: Vocabulary
 ---
 

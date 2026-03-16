@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hungry
-image: ./assets/images-of-signs/hungry.gif
+image: "@signs/hungry.gif"
 category: Vocabulary
 ---
 

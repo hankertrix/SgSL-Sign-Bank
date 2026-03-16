@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Lack
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/cannot-variation-1.gif]
+dependentImages: ["@signs/cannot-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["cannot"](./cannot#variation-1),

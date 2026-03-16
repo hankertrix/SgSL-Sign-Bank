@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Disco / Discotheque
-image: ./assets/images-of-signs/disco.gif
+image: "@signs/disco.gif"
 category: Vocabulary
 ---
 

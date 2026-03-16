@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Drug
-image: ./assets/images-of-signs/drug.gif
+image: "@signs/drug.gif"
 category: Vocabulary
 ---
 

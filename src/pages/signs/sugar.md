@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sugar
-image: ./assets/images-of-signs/sugar.gif
+image: "@signs/sugar.gif"
 category: Food
 ---
 

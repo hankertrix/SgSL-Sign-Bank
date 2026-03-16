@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Perfect
-image: ./assets/images-of-signs/perfect-variation-1.gif
+image: "@signs/perfect-variation-1.gif"
 category: Vocabulary
 ---
 

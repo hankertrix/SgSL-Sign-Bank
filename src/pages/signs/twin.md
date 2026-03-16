@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Twin
-image: ./assets/images-of-signs/twin.gif
+image: "@signs/twin.gif"
 category: Vocabulary
 ---
 

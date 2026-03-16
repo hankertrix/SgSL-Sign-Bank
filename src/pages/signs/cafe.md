@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Café / Canteen
-image: ./assets/images-of-signs/cafe.gif
+image: "@signs/cafe.gif"
 category: Vocabulary
 family: Restaurant
 ---

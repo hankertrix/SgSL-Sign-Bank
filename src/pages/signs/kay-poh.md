@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kay poh
-image: ./assets/images-of-signs/kay-poh-variation-1.gif
+image: "@signs/kay-poh-variation-1.gif"
 category: Singlish
 ---
 

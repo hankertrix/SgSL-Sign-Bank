@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Boat
-image: ./assets/images-of-signs/boat.gif
+image: "@signs/boat.gif"
 category: Vocabulary
 ---
 

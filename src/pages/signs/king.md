@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: King
-image: ./assets/images-of-signs/king.gif
+image: "@signs/king.gif"
 category: Vocabulary
 ---
 

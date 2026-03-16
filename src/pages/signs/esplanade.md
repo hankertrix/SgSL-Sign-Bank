@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Esplanade
-image: ./assets/images-of-signs/esplanade.gif
+image: "@signs/esplanade.gif"
 category: Places
 ---
 

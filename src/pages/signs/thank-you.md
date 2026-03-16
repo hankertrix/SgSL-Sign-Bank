@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Thank you
-image: ./assets/images-of-signs/thankkyou.gif
+image: "@signs/thank-you.gif"
 category: Vocabulary
 ---
 

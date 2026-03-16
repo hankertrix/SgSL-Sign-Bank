@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bukit Batok
-image: ./assets/images-of-signs/bukit-batok.gif
+image: "@signs/bukit-batok.gif"
 category: Places
 ---
 

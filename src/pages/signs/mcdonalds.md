@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: McDonald's
-image: ./assets/images-of-signs/mcdonalds.gif
+image: "@signs/mcdonalds.gif"
 category: Brands
 ---
 

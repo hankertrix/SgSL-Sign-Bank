@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Never
-image: ./assets/images-of-signs/never.gif
+image: "@signs/never.gif"
 category: Vocabulary
 ---
 

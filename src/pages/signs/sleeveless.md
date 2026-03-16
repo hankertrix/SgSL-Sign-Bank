@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sleeveless
-image: ./assets/images-of-signs/sleeveless.gif
+image: "@signs/sleeveless.gif"
 category: Vocabulary
 ---
 

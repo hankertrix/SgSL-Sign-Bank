@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Preach
-image: ./assets/images-of-signs/preach.gif
+image: "@signs/preach.gif"
 category: Vocabulary
 family: Preach
 ---

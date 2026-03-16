@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Save
-image: ./assets/images-of-signs/save.gif
+image: "@signs/save.gif"
 category: Vocabulary
 ---
 

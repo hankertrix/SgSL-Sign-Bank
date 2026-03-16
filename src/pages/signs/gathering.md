@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gathering
-image: ./assets/images-of-signs/gathering.gif
+image: "@signs/gathering.gif"
 category: Vocabulary
 ---
 

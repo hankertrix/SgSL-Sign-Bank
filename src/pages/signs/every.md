@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Every
-image: ./assets/images-of-signs/every.gif
+image: "@signs/every.gif"
 category: Vocabulary
 ---
 

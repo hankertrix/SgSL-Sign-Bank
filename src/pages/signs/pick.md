@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pick
-image: ./assets/images-of-signs/pick.gif
+image: "@signs/pick.gif"
 category: Vocabulary
 ---
 

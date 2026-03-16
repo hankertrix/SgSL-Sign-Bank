@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Where
-image: ./assets/images-of-signs/where.gif
+image: "@signs/where.gif"
 category: Vocabulary
 ---
 

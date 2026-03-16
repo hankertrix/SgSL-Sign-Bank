@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Elderly
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/old.gif]
+dependentImages: ["@signs/old.gif"]
 ---
 
 Same motion as ["old"](./old), which is shown below,

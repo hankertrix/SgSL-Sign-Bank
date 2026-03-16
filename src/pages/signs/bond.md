@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bond
-image: ./assets/images-of-signs/bond.gif
+image: "@signs/bond.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Reflect (light)
-image: ./assets/images-of-signs/reflect-light-variation-1.gif
+image: "@signs/reflect-light-variation-1.gif"
 category: Vocabulary
 ---
 

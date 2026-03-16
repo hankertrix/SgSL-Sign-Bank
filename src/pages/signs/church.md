@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Church
-image: ./assets/images-of-signs/church.gif
+image: "@signs/church.gif"
 category: Places
 ---
 

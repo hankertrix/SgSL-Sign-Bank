@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Culture
-image: ./assets/images-of-signs/culture.gif
+image: "@signs/culture.gif"
 category: Vocabulary
 family: Culture
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: River
-image: ./assets/images-of-signs/river-variation-1.gif
+image: "@signs/river-variation-1.gif"
 category: Vocabulary
 ---
 

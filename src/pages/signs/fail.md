@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fail
-image: ./assets/images-of-signs/fail.gif
+image: "@signs/fail.gif"
 category: Vocabulary
 ---
 

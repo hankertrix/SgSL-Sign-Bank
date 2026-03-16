@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Anywhere
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/where.gif]
+dependentImages: ["@signs/where.gif"]
 ---
 
 Do the gesture for ["any"](./any),

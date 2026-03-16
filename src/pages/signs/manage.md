@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Manage
-image: ./assets/images-of-signs/manage-variation-1.gif
+image: "@signs/manage-variation-1.gif"
 category: Vocabulary
 ---
 

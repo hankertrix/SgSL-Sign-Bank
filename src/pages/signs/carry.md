@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Carry
-image: ./assets/images-of-signs/carry.gif
+image: "@signs/carry.gif"
 category: Vocabulary
 ---
 

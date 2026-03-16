@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Common
-image: ./assets/images-of-signs/common.gif
+image: "@signs/common.gif"
 category: Vocabulary
 ---
 

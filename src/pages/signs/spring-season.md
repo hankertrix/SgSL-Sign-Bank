@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spring (season)
-image: ./assets/images-of-signs/spring-season.gif
+image: "@signs/spring-season.gif"
 category: Vocabulary
 ---
 

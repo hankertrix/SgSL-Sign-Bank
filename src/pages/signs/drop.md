@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Drop
-image: ./assets/images-of-signs/drop.gif
+image: "@signs/drop.gif"
 category: Vocabulary
 ---
 

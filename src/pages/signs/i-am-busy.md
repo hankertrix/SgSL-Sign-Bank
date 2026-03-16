@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: I am busy / I'm busy
-image: ./assets/images-of-signs/i-am-busy.gif
+image: "@signs/i-am-busy.gif"
 category: Short expressions
 ---
 

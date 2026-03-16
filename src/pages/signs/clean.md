@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Clean
-image: ./assets/images-of-signs/clean.gif
+image: "@signs/clean.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: New York
-image: ./assets/images-of-signs/new-york-variation-1.gif
+image: "@signs/new-york-variation-1.gif"
 category: Places
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dollar
-image: ./assets/images-of-signs/dollar.gif
+image: "@signs/dollar.gif"
 category: Vocabulary
 ---
 

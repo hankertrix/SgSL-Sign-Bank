@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lavender (place)
-image: ./assets/images-of-signs/lavender-place.gif
+image: "@signs/lavender-place.gif"
 category: Places
 ---
 

@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Sofa
 category: Vocabulary
 family: Bench
-dependentImages: [./assets/images-of-signs/bench.gif]
+dependentImages: ["@signs/bench.gif"]
 ---
 
 Same motion as ["bench"](./bench),

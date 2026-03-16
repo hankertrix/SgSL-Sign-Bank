@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dumpling
-image: ./assets/images-of-signs/dumpling.gif
+image: "@signs/dumpling.gif"
 category: Food
 ---
 

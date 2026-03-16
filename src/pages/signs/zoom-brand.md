@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Zoom (brand)
-image: ./assets/images-of-signs/zoom-brand.gif
+image: "@signs/zoom-brand.gif"
 category: Vocabulary
 ---
 

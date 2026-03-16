@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Fine (noun)
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/fine-noun-asl.gif]
+dependentImages: ["@signs/fine-noun-asl.gif"]
 ---
 
 Same motion as the American Sign Language (ASL) gesture for "fine" shown below,

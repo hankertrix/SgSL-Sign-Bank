@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Deduct
-image: ./assets/images-of-signs/deduct.gif
+image: "@signs/deduct.gif"
 category: Vocabulary
 ---
 

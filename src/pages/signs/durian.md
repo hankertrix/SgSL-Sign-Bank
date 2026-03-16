@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Durian
-image: ./assets/images-of-signs/durian.gif
+image: "@signs/durian.gif"
 category: Fruits
 ---
 

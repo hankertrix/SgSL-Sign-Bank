@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Stadium
-image: ./assets/images-of-signs/stadium.gif
+image: "@signs/stadium.gif"
 category: Places
 ---
 

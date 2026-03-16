@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hire / Recruit
-image: ./assets/images-of-signs/hire.gif
+image: "@signs/hire.gif"
 category: Vocabulary
 ---
 

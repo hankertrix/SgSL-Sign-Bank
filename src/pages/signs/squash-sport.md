@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Squash (sport)
 category: Sports
-dependentImages: [./assets/images-of-signs/tennis.gif]
+dependentImages: ["@signs/tennis.gif"]
 ---
 
 Same motion as ["tennis"](./tennis), which is shown below,

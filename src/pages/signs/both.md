@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Both
-image: ./assets/images-of-signs/both-variation-1.gif
+image: "@signs/both-variation-1.gif"
 category: Vocabulary
 ---
 

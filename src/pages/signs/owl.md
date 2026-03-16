@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Owl
-image: ./assets/images-of-signs/owl.gif
+image: "@signs/owl.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Who
-image: ./assets/images-of-signs/who-variation-1.gif
+image: "@signs/who-variation-1.gif"
 category: Vocabulary
 ---
 

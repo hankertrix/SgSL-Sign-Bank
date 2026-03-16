@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jia you
-image: ./assets/images-of-signs/alt-merdeaf-jia-you.gif
+image: "@signs/alt-merdeaf-jia-you.gif"
 category: Singlish
 ---
 

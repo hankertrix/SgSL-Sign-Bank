@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bus
-image: ./assets/images-of-signs/bus.gif
+image: "@signs/bus.gif"
 category: Vocabulary
 ---
 

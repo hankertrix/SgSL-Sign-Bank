@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: World
-image: ./assets/images-of-signs/world.gif
+image: "@signs/world.gif"
 category: Vocabulary
 family: All
 ---

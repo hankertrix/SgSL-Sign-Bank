@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Floor
-image: ./assets/images-of-signs/floor.gif
+image: "@signs/floor.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Obstacle
-image: ./assets/images-of-signs/obstacle.gif
+image: "@signs/obstacle.gif"
 category: Vocabulary
 ---
 

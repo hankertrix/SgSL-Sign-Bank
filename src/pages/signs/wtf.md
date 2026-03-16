@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: WTF / What the fuck / WTH / What the hell / What the heck
-image: ./assets/images-of-signs/wtf.gif
+image: "@signs/wtf.gif"
 category: Short expressions
 ---
 

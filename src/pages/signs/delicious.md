@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Delicious
-image: ./assets/images-of-signs/delicious-variation-1.gif
+image: "@signs/delicious-variation-1.gif"
 category: Vocabulary
 ---
 

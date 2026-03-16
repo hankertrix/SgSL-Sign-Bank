@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Satay
-image: ./assets/images-of-signs/satay.gif
+image: "@signs/satay.gif"
 category: Food
 ---
 

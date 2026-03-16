@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Uncle
-image: ./assets/images-of-signs/uncle.gif
+image: "@signs/uncle.gif"
 category: Vocabulary
 ---
 

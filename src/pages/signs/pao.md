@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pao
-image: ./assets/images-of-signs/pao.gif
+image: "@signs/pao.gif"
 category: Food
 ---
 

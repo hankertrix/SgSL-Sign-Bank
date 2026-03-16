@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sad
-image: ./assets/images-of-signs/sad.gif
+image: "@signs/sad.gif"
 category: Vocabulary
 ---
 

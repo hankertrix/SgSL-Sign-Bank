@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fire (verb)
-image: ./assets/images-of-signs/fire-verb.gif
+image: "@signs/fire-verb.gif"
 category: Vocabulary
 ---
 

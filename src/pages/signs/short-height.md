@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Short (height)
-image: ./assets/images-of-signs/short-height.gif
+image: "@signs/short-height.gif"
 category: Vocabulary
 ---
 

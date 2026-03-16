@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hari Raya Puasa
-image: ./assets/images-of-signs/hari-raya-puasa-variation-1.gif
+image: "@signs/hari-raya-puasa-variation-1.gif"
 category: Vocabulary
 ---
 

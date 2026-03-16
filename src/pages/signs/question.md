@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Question
-image: ./assets/images-of-signs/question.gif
+image: "@signs/question.gif"
 category: Vocabulary
 ---
 

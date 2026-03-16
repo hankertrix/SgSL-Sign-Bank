@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tattoo
-image: ./assets/images-of-signs/tattoo.gif
+image: "@signs/tattoo.gif"
 category: Vocabulary
 ---
 

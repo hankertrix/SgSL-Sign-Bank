@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Door
-image: ./assets/images-of-signs/door-variation-1.gif
+image: "@signs/door-variation-1.gif"
 category: Vocabulary
 ---
 

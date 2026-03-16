@@ -2,11 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Sexy
 category: Vocabulary
-dependentImages:
-  [
-    ./assets/images-of-signs/face.gif,
-    ./assets/images-of-signs/sex-variation-1.gif,
-  ]
+dependentImages: ["@signs/face.gif", "@signs/sex-variation-1.gif"]
 ---
 
 Do the gesture for ["face"](./face),

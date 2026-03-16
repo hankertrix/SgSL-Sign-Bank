@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Vietnam
-image: ./assets/images-of-signs/vietnam-north-variation.gif
+image: "@signs/vietnam-north-variation.gif"
 category: Places
 ---
 

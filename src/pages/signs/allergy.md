@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Allergy
-image: ./assets/images-of-signs/allergy-variation-1.gif
+image: "@signs/allergy-variation-1.gif"
 category: Vocabulary
 ---
 

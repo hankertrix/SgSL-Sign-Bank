@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Marsiling
-image: ./assets/images-of-signs/marsiling.gif
+image: "@signs/marsiling.gif"
 category: Places
 ---
 

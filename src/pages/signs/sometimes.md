@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sometimes
-image: ./assets/images-of-signs/sometimes.gif
+image: "@signs/sometimes.gif"
 category: Vocabulary
 ---
 

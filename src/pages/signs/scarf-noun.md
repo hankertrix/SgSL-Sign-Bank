@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Scarf (noun)
-image: ./assets/images-of-signs/scarf-noun-variation-1.gif
+image: "@signs/scarf-noun-variation-1.gif"
 category: Vocabulary
 ---
 

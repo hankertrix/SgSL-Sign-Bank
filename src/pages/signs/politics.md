@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Politics
-image: ./assets/images-of-signs/politics.gif
+image: "@signs/politics.gif"
 category: Vocabulary
 family: Government
 ---

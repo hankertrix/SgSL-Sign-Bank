@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Irony
-image: ./assets/images-of-signs/irony.gif
+image: "@signs/irony.gif"
 category: Vocabulary
 ---
 

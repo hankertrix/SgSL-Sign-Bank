@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Like
-image: ./assets/images-of-signs/like-variation-1.gif
+image: "@signs/like-variation-1.gif"
 category: Vocabulary
 ---
 

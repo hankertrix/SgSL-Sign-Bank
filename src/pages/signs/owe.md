@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Owe
-image: ./assets/images-of-signs/owe.gif
+image: "@signs/owe.gif"
 category: Vocabulary
 ---
 

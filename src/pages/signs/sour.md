@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sour
-image: ./assets/images-of-signs/sour-variation-1.gif
+image: "@signs/sour-variation-1.gif"
 category: Vocabulary
 family: Serious
 ---

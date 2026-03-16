@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Work
-image: ./assets/images-of-signs/work-variation-1.gif
+image: "@signs/work-variation-1.gif"
 category: Vocabulary
 ---
 

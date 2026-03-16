@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Past
-image: ./assets/images-of-signs/past.gif
+image: "@signs/past.gif"
 category: Vocabulary
 ---
 

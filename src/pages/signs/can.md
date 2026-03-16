@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Can / Able
-image: ./assets/images-of-signs/can-variation-1.gif
+image: "@signs/can-variation-1.gif"
 category: Vocabulary
 ---
 

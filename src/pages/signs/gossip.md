@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gossip
-image: ./assets/images-of-signs/gossip.gif
+image: "@signs/gossip.gif"
 category: Vocabulary
 ---
 

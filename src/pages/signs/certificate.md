@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Certificate
-image: ./assets/images-of-signs/certificate.gif
+image: "@signs/certificate.gif"
 category: Vocabulary
 ---
 

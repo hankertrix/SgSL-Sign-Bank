@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hide
-image: ./assets/images-of-signs/hide.gif
+image: "@signs/hide.gif"
 category: Vocabulary
 ---
 

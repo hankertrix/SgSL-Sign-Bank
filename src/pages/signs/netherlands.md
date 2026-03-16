@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Netherlands / Holland / Dutch
-image: ./assets/images-of-signs/netherlands.gif
+image: "@signs/netherlands.gif"
 category: Places
 ---
 

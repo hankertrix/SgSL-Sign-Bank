@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Damage
-image: ./assets/images-of-signs/damage-variation-1.gif
+image: "@signs/damage-variation-1.gif"
 category: Vocabulary
 ---
 

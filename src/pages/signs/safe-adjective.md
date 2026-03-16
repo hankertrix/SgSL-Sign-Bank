@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Safe (adjective)
-image: ./assets/images-of-signs/safe-adjective-variation-1.gif
+image: "@signs/safe-adjective-variation-1.gif"
 category: Vocabulary
 ---
 

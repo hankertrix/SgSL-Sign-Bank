@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hong Kong
-image: ./assets/images-of-signs/hong-kong.gif
+image: "@signs/hong-kong.gif"
 category: Places
 ---
 

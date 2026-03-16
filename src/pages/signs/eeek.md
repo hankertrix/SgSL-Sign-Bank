@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Eeek
-image: ./assets/images-of-signs/merdeaf-eeek.png
+image: "@signs/merdeaf-eeek.png"
 category: Singlish
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dim sum
-image: ./assets/images-of-signs/dim-sum.gif
+image: "@signs/dim-sum.gif"
 category: Food
 ---
 

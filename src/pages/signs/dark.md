@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dark
-image: ./assets/images-of-signs/dark-variation-1.gif
+image: "@signs/dark-variation-1.gif"
 category: Vocabulary
 ---
 

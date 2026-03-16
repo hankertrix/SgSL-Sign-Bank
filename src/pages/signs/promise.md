@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Promise / Swear / Pledge
-image: ./assets/images-of-signs/promise-variation-1.gif
+image: "@signs/promise-variation-1.gif"
 category: Vocabulary
 ---
 

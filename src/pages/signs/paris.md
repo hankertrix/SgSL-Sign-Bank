@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Paris
-image: ./assets/images-of-signs/paris.gif
+image: "@signs/paris.gif"
 category: Places
 ---
 

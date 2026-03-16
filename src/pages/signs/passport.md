@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Passport
-image: ./assets/images-of-signs/passport.gif
+image: "@signs/passport.gif"
 category: Vocabulary
 ---
 

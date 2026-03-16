@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hang
-image: ./assets/images-of-signs/hang-variation-1.gif
+image: "@signs/hang-variation-1.gif"
 category: Vocabulary
 ---
 

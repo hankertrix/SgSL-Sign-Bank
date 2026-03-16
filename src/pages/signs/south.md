@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: South
-image: ./assets/images-of-signs/south.gif
+image: "@signs/south.gif"
 category: Vocabulary
 ---
 

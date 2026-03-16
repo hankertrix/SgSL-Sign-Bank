@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Hakka
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/experience.gif]
+dependentImages: ["@signs/experience.gif"]
 ---
 
 Same motion as ["experience"](./experience),

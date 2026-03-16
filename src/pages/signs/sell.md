@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sell
-image: ./assets/images-of-signs/sell-variation-1.gif
+image: "@signs/sell-variation-1.gif"
 category: Vocabulary
 ---
 

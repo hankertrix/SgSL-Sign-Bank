@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cell phone
-image: ./assets/images-of-signs/cell-phone-variation-1.gif
+image: "@signs/cell-phone-variation-1.gif"
 category: Vocabulary
 ---
 

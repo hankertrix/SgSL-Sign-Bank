@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: No one
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/no.gif, ./assets/images-of-signs/1.gif]
+dependentImages: ["@signs/no.gif", "@signs/1.gif"]
 ---
 
 Do the gesture for ["no"](./no), which is the first image below

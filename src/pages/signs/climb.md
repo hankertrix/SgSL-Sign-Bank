@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Climb
-image: ./assets/images-of-signs/climb-variation-1.gif
+image: "@signs/climb-variation-1.gif"
 category: Vocabulary
 ---
 

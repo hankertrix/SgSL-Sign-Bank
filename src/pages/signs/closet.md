@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Closet
-image: ./assets/images-of-signs/closet.gif
+image: "@signs/closet.gif"
 category: Vocabulary
 ---
 

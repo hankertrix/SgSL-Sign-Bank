@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Expect
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/think.gif, ./assets/images-of-signs/anticipate.gif]
+dependentImages: ["@signs/think.gif", "@signs/hope-variation-3.gif"]
 ---
 
 Do the gesture for ["think"](./think),

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Die / Death
-image: ./assets/images-of-signs/die-variation-1.gif
+image: "@signs/die-variation-1.gif"
 category: Vocabulary
 ---
 

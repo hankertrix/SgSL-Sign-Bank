@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gate
-image: ./assets/images-of-signs/gate.gif
+image: "@signs/gate.gif"
 category: Vocabulary
 ---
 

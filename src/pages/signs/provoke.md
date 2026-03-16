@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Provoke
-image: ./assets/images-of-signs/provoke.gif
+image: "@signs/provoke.gif"
 category: Vocabulary
 ---
 

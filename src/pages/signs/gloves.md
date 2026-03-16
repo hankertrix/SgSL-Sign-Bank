@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gloves
-image: ./assets/images-of-signs/gloves.gif
+image: "@signs/gloves.gif"
 category: Clothing
 ---
 

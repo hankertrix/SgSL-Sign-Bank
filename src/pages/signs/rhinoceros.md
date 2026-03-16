@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rhinoceros / Rhino
-image: ./assets/images-of-signs/rhinoceros-variation-1.gif
+image: "@signs/rhinoceros-variation-1.gif"
 category: Vocabulary
 ---
 

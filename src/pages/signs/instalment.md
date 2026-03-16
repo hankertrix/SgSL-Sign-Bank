@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Instalment
-image: ./assets/images-of-signs/instalment.gif
+image: "@signs/instalment.gif"
 category: Vocabulary
 ---
 

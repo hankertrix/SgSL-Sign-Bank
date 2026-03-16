@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Train (noun)
-image: ./assets/images-of-signs/train-noun.gif
+image: "@signs/train-noun.gif"
 category: Vocabulary
 ---
 

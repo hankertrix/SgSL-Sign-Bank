@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Policeman
-image: ./assets/images-of-signs/policeman.gif
+image: "@signs/policeman.gif"
 category: Vocabulary
 ---
 

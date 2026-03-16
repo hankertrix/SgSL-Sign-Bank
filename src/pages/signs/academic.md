@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Academic
-image: ./assets/images-of-signs/academic-variation-1.gif
+image: "@signs/academic-variation-1.gif"
 category: Vocabulary
 ---
 

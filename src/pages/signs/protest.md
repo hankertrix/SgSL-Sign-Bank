@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Protest / Rebel
-image: ./assets/images-of-signs/protest.gif
+image: "@signs/protest.gif"
 category: Vocabulary
 ---
 

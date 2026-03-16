@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Send
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/after-variation-1.gif]
+dependentImages: ["@signs/after-variation-1.gif"]
 ---
 
 Similar motion to the first variation of ["after"](./after#variation-1),

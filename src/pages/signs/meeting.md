@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Meeting
-image: ./assets/images-of-signs/meeting.gif
+image: "@signs/meeting.gif"
 category: Vocabulary
 ---
 

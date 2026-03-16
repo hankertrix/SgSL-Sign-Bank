@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Faint
-image: ./assets/images-of-signs/merdeaf-faint.png
+image: "@signs/merdeaf-faint.png"
 category: Vocabulary
 ---
 

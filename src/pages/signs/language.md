@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Language
-image: ./assets/images-of-signs/language.gif
+image: "@signs/language.gif"
 category: Vocabulary
 family: Language
 ---

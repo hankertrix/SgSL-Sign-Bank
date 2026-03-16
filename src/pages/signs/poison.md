@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Poison
-image: ./assets/images-of-signs/poison.gif
+image: "@signs/poison.gif"
 category: Vocabulary
 ---
 

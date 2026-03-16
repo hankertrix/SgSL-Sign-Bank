@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Assistive technology
-image: ./assets/images-of-signs/assistive-technology.gif
+image: "@signs/assistive-technology.gif"
 category: Vocabulary
 ---
 

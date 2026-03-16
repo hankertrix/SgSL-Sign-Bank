@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Include / Involve
-image: ./assets/images-of-signs/include.gif
+image: "@signs/include.gif"
 category: Vocabulary
 ---
 

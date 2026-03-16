@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Extreme
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/very.gif]
+dependentImages: ["@signs/very.gif"]
 ---
 
 Same motion as ["very"](./very),

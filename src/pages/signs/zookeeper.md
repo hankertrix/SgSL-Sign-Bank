@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Zookeeper
-image: ./assets/images-of-signs/zookeeper.gif
+image: "@signs/zookeeper.gif"
 category: Vocabulary
 ---
 

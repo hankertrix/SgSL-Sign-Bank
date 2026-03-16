@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Keep
-image: ./assets/images-of-signs/keep.gif
+image: "@signs/keep.gif"
 category: Vocabulary
 ---
 

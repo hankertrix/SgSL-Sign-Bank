@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sit
-image: ./assets/images-of-signs/sit.gif
+image: "@signs/sit.gif"
 category: Vocabulary
 ---
 

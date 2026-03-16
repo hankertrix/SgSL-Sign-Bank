@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Know
-image: ./assets/images-of-signs/know.gif
+image: "@signs/know.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Live
-image: ./assets/images-of-signs/live.gif
+image: "@signs/live.gif"
 category: Vocabulary
 ---
 

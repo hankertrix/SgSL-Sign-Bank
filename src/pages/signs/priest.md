@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Priest
-image: ./assets/images-of-signs/priest.gif
+image: "@signs/priest.gif"
 category: Vocabulary
 ---
 

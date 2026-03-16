@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: End
 category: Vocabulary
 family: Finish (variation 1)
-dependentImages: [./assets/images-of-signs/finish-variation-1.gif]
+dependentImages: ["@signs/finish-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["finish"](./finish#variation-1),

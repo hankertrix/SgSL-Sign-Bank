@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Chick / Chicken
-image: ./assets/images-of-signs/chick.gif
+image: "@signs/chick.gif"
 category: Vocabulary
 ---
 

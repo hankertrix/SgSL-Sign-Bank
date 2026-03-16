@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mix / Mixture
-image: ./assets/images-of-signs/mix.gif
+image: "@signs/mix.gif"
 category: Vocabulary
 ---
 

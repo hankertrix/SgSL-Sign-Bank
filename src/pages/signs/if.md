@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: If
-image: ./assets/images-of-signs/if-variation-1.gif
+image: "@signs/if-variation-1.gif"
 category: Vocabulary
 ---
 

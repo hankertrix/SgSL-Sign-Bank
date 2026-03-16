@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Snow
-image: ./assets/images-of-signs/snow-variation-1.gif
+image: "@signs/snow-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Underwear
-image: ./assets/images-of-signs/underwear-variation-1.gif
+image: "@signs/underwear-variation-1.gif"
 category: Clothing
 ---
 

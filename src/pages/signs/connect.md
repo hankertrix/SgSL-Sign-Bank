@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Connect
-image: ./assets/images-of-signs/connect.gif
+image: "@signs/connect.gif"
 category: Vocabulary
 ---
 

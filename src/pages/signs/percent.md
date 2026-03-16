@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Percent / Percentage
-image: ./assets/images-of-signs/percent.gif
+image: "@signs/percent.gif"
 category: Mathematical symbols
 ---
 

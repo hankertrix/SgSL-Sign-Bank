@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dining room
-image: ./assets/images-of-signs/dining-room.gif
+image: "@signs/dining-room.gif"
 category: Vocabulary
 ---
 

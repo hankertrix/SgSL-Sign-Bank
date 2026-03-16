@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Enjoy
-image: ./assets/images-of-signs/enjoy-variation-1.gif
+image: "@signs/enjoy-variation-1.gif"
 category: Vocabulary
 ---
 

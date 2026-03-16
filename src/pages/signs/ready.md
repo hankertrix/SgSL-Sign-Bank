@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ready
-image: ./assets/images-of-signs/ready-variation-1.gif
+image: "@signs/ready-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Shelves
-image: ./assets/images-of-signs/shelves.gif
+image: "@signs/shelves.gif"
 category: Vocabulary
 ---
 

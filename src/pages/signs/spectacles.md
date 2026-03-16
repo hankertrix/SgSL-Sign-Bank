@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spectacles / Glasses
-image: ./assets/images-of-signs/spectacles-variation-1.gif
+image: "@signs/spectacles-variation-1.gif"
 category: Vocabulary
 ---
 

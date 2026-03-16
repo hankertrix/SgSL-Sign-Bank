@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: West
-image: ./assets/images-of-signs/west.gif
+image: "@signs/west.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Move
-image: ./assets/images-of-signs/move.gif
+image: "@signs/move.gif"
 category: Vocabulary
 ---
 

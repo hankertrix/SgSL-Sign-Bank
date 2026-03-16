@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sembawang
-image: ./assets/images-of-signs/sembawang.gif
+image: "@signs/sembawang.gif"
 category: Places
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bargain
-image: ./assets/images-of-signs/bargain.gif
+image: "@signs/bargain.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Look
-image: ./assets/images-of-signs/look-variation-1.gif
+image: "@signs/look-variation-1.gif"
 category: Vocabulary
 ---
 

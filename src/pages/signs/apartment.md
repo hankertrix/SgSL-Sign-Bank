@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Apartment
-image: ./assets/images-of-signs/apartment.gif
+image: "@signs/apartment.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Effective / Efficient
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/advise.gif]
+dependentImages: ["@signs/advise.gif"]
 ---
 
 Same motion as ["advise"](./advise),

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fill
-image: ./assets/images-of-signs/fill.gif
+image: "@signs/fill.gif"
 category: Vocabulary
 ---
 

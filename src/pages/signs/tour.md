@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tour
-image: ./assets/images-of-signs/tour-variation-1.gif
+image: "@signs/tour-variation-1.gif"
 category: Vocabulary
 ---
 

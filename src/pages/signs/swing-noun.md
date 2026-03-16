@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Swing (noun)
-image: ./assets/images-of-signs/swing-noun.gif
+image: "@signs/swing-noun.gif"
 category: Vocabulary
 ---
 

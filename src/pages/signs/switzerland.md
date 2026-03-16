@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Switzerland
-image: ./assets/images-of-signs/switzerland.gif
+image: "@signs/switzerland.gif"
 category: Places
 ---
 

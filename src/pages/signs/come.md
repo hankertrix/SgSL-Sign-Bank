@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Come
-image: ./assets/images-of-signs/come.gif
+image: "@signs/come.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Oh no! / Oh my!
-image: ./assets/images-of-signs/oh-no.gif
+image: "@signs/oh-no.gif"
 category: Short expressions
 ---
 

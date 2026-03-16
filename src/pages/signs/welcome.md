@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Welcome
-image: ./assets/images-of-signs/welcome.gif
+image: "@signs/welcome.gif"
 category: Vocabulary
 ---
 

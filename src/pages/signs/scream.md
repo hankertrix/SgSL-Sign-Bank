@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Scream / Yell
-image: ./assets/images-of-signs/scream-variation-1.gif
+image: "@signs/scream-variation-1.gif"
 category: Vocabulary
 ---
 

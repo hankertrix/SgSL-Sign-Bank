@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Clear (adjective) / Obvious
-image: ./assets/images-of-signs/clear-adjective-variation-1.gif
+image: "@signs/clear-adjective-variation-1.gif"
 category: Vocabulary
 ---
 

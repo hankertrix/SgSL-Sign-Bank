@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Form
-image: ./assets/images-of-signs/form-variation-1.gif
+image: "@signs/form-variation-1.gif"
 category: Vocabulary
 family:
   variation-1: Shape

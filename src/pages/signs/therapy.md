@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Therapy
 category: Vocabulary
 family: Help
-dependentImages: [./assets/images-of-signs/help.gif]
+dependentImages: ["@signs/help.gif"]
 ---
 
 Same motion as ["help"](./help),

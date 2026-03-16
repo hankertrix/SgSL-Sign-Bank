@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ugly
-image: ./assets/images-of-signs/ugly.gif
+image: "@signs/ugly.gif"
 category: Vocabulary
 ---
 

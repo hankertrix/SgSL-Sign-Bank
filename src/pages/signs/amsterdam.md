@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Amsterdam
-image: ./assets/images-of-signs/amsterdam.gif
+image: "@signs/amsterdam.gif"
 category: Places
 ---
 

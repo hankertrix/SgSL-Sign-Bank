@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Through
-image: ./assets/images-of-signs/through.gif
+image: "@signs/through.gif"
 category: Vocabulary
 ---
 

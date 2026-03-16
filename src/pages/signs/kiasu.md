@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kiasu
-image: ./assets/images-of-signs/merdeaf-kiasu.png
+image: "@signs/merdeaf-kiasu.png"
 category: Singlish
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Survive
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/live.gif]
+dependentImages: ["@signs/live.gif"]
 ---
 
 Similar motion as ["live"](./live), which is shown below,

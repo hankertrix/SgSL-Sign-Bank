@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lesbian
-image: ./assets/images-of-signs/lesbian.gif
+image: "@signs/lesbian.gif"
 category: Vocabulary
 ---
 

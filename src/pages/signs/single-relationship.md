@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Single (relationship) / Lonely
-image: ./assets/images-of-signs/single-relationship.gif
+image: "@signs/single-relationship.gif"
 category: Vocabulary
 ---
 

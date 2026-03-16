@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: association
-image: ./assets/images-of-signs/association.gif
+image: "@signs/association.gif"
 category: Vocabulary
 family:
   variation-1: Mix

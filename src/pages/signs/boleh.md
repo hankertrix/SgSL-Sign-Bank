@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Boleh
-image: ./assets/images-of-signs/merdeaf-boleh.png
+image: "@signs/merdeaf-boleh.png"
 category: Singlish
 ---
 

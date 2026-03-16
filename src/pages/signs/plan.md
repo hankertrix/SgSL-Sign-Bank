@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Plan
-image: ./assets/images-of-signs/plan.gif
+image: "@signs/plan.gif"
 category: Vocabulary
 ---
 

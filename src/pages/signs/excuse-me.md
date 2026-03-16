@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Excuse me
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/nice-variation-1.gif]
+dependentImages: ["@signs/nice-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["nice"](./nice#variation-1),

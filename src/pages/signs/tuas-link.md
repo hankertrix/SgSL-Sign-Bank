@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tuas Link
-image: ./assets/images-of-signs/tuas-link.gif
+image: "@signs/tuas-link.gif"
 category: Places
 ---
 

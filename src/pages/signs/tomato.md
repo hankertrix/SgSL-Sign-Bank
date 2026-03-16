@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tomato
-image: ./assets/images-of-signs/tomato.gif
+image: "@signs/tomato.gif"
 category: Vocabulary
 ---
 

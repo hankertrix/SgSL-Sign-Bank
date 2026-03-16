@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Medical allergy
-image: ./assets/images-of-signs/medical-allergy.gif
+image: "@signs/medical-allergy.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Collapse / Break down
-image: ./assets/images-of-signs/collapse.gif
+image: "@signs/collapse.gif"
 category: Vocabulary
 ---
 

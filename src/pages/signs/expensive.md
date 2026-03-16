@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Expensive
-image: ./assets/images-of-signs/expensive-variation-1.gif
+image: "@signs/expensive-variation-1.gif"
 category: Vocabulary
 ---
 

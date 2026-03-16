@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tall
-image: ./assets/images-of-signs/tall-variation-1.gif
+image: "@signs/tall-variation-1.gif"
 category: Vocabulary
 ---
 

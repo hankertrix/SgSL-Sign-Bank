@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Unique
-image: ./assets/images-of-signs/unique.gif
+image: "@signs/unique.gif"
 category: Vocabulary
 family: Special
 ---

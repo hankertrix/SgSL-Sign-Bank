@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Misunderstand
-image: ./assets/images-of-signs/misunderstand.gif
+image: "@signs/misunderstand.gif"
 category: Vocabulary
 ---
 

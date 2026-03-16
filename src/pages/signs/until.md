@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Until
-image: ./assets/images-of-signs/until.gif
+image: "@signs/until.gif"
 category: Vocabulary
 ---
 

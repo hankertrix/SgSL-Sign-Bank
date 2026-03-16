@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mild
-image: ./assets/images-of-signs/light-weight-variation-3.gif
+image: "@signs/light-weight-variation-3.gif"
 category: Vocabulary
 ---
 

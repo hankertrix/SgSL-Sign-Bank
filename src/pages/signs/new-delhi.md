@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: New Delhi
-image: ./assets/images-of-signs/new-delhi.gif
+image: "@signs/new-delhi.gif"
 category: Places
 ---
 

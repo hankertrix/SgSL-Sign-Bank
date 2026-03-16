@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Shiok / So shiok / Shiok ah
-image: ./assets/images-of-signs/shiok.gif
+image: "@signs/shiok.gif"
 category: Singlish
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bad
-image: ./assets/images-of-signs/bad-variation-1.gif
+image: "@signs/bad-variation-1.gif"
 category: Vocabulary
 ---
 

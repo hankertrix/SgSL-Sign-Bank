@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Inform
-image: ./assets/images-of-signs/inform.gif
+image: "@signs/inform.gif"
 category: Vocabulary
 ---
 

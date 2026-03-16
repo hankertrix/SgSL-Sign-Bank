@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Embarrassed
-image: ./assets/images-of-signs/embarrassed.gif
+image: "@signs/embarrassed.gif"
 category: Vocabulary
 ---
 

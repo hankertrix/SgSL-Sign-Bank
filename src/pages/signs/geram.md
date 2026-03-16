@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Geram
-image: ./assets/images-of-signs/merdeaf-geram.png
+image: "@signs/merdeaf-geram.png"
 category: Singlish
 ---
 

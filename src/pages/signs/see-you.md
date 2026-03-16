@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: See you
-image: ./assets/images-of-signs/merdeaf-see-you.png
+image: "@signs/merdeaf-see-you.png"
 category: Short expressions
 ---
 

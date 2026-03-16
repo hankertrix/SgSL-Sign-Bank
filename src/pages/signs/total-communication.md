@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Total Communication
-image: ./assets/images-of-signs/total-communication.gif
+image: "@signs/total-communication.gif"
 category: Vocabulary
 family: Talk
 ---

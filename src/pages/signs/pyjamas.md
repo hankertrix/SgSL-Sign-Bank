@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pyjamas
-image: ./assets/images-of-signs/pyjamas.gif
+image: "@signs/pyjamas.gif"
 category: Clothing
 ---
 

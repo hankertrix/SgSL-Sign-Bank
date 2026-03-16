@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: National
-image: ./assets/images-of-signs/national.gif
+image: "@signs/national.gif"
 category: Vocabulary
 ---
 

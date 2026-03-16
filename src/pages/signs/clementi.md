@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Clementi
-image: ./assets/images-of-signs/clementi.gif
+image: "@signs/clementi.gif"
 category: Places
 ---
 

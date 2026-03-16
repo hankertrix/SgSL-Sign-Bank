@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gold
-image: ./assets/images-of-signs/gold.gif
+image: "@signs/gold.gif"
 category: Vocabulary
 ---
 

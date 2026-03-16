@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: T-shirt
-image: ./assets/images-of-signs/t-shirt-variation-1.gif
+image: "@signs/t-shirt-variation-1.gif"
 category: Vocabulary
 ---
 

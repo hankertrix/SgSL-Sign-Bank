@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Deaf / Deafblind
-image: ./assets/images-of-signs/deaf-variation-1.gif
+image: "@signs/deaf-variation-1.gif"
 category: Vocabulary
 ---
 

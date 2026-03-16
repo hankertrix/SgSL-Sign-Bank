@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Pink
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/red-variation-1.gif]
+dependentImages: ["@signs/red-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["red"](./red#variation-1),

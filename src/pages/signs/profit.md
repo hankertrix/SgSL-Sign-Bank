@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Profit
-image: ./assets/images-of-signs/profit.gif
+image: "@signs/profit.gif"
 category: Vocabulary
 ---
 

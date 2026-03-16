@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spaghetti
-image: ./assets/images-of-signs/spaghetti.gif
+image: "@signs/spaghetti.gif"
 category: Food
 ---
 

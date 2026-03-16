@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Goosebumps
-image: ./assets/images-of-signs/goosebumps-variation-1.gif
+image: "@signs/goosebumps-variation-1.gif"
 category: Vocabulary
 ---
 

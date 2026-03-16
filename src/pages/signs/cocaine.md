@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cocaine / Coke (drug)
-image: ./assets/images-of-signs/cocaine.gif
+image: "@signs/cocaine.gif"
 category: Vocabulary
 ---
 

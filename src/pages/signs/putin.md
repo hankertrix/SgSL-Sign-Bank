@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Putin
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/king.gif]
+dependentImages: ["@signs/king.gif"]
 ---
 
 Same motion as ["King"](./king),

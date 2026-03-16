@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Paiseh
-image: ./assets/images-of-signs/paiseh.gif
+image: "@signs/paiseh.gif"
 category: Singlish
 ---
 

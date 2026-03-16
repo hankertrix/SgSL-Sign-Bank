@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Malu
-image: ./assets/images-of-signs/merdeaf-malu.png
+image: "@signs/merdeaf-malu.png"
 category: Singlish
 ---
 

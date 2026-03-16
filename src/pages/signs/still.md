@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Still
-image: ./assets/images-of-signs/still.gif
+image: "@signs/still.gif"
 category: Vocabulary
 ---
 

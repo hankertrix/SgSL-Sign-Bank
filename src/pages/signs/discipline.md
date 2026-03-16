@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Discipline
-image: ./assets/images-of-signs/discipline.gif
+image: "@signs/discipline.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Summer
-image: ./assets/images-of-signs/summer.gif
+image: "@signs/summer.gif"
 category: Vocabulary
 ---
 

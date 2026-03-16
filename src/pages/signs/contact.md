@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Contact
-image: ./assets/images-of-signs/contact.gif
+image: "@signs/contact.gif"
 category: Vocabulary
 family: Touch
 ---

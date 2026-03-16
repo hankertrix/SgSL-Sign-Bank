@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sushi
-image: ./assets/images-of-signs/sushi.gif
+image: "@signs/sushi.gif"
 category: Food
 ---
 

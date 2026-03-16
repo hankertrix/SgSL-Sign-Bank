@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cognitive
-image: ./assets/images-of-signs/cognitive.gif
+image: "@signs/cognitive.gif"
 category: Vocabulary
 ---
 

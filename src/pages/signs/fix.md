@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fix
-image: ./assets/images-of-signs/fix.gif
+image: "@signs/fix.gif"
 category: Vocabulary
 ---
 

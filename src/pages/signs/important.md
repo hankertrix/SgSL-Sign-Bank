@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Important
-image: ./assets/images-of-signs/important.gif
+image: "@signs/important.gif"
 category: Vocabulary
 family: Important
 ---

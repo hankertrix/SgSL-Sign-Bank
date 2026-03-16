@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Urine
-image: ./assets/images-of-signs/urine.gif
+image: "@signs/urine.gif"
 category: Vocabulary
 family: Toilet
 ---

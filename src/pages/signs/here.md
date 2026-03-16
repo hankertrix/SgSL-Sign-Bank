@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Here
-image: ./assets/images-of-signs/here-variation-1.gif
+image: "@signs/here-variation-1.gif"
 category: Places
 ---
 

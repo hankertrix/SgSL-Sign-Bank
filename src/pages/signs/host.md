@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Host
 category: Vocabulary
 family: Welcome
-dependentImages: [./assets/images-of-signs/welcome.gif]
+dependentImages: ["@signs/welcome.gif"]
 ---
 
 Same gesture as ["welcome"](./welcome),

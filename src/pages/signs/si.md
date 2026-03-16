@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Si / Jia lat
-image: ./assets/images-of-signs/merdeaf-si.png
+image: "@signs/merdeaf-si.png"
 category: Singlish
 ---
 

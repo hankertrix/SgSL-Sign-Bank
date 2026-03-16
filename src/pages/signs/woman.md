@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Woman
-image: ./assets/images-of-signs/woman.gif
+image: "@signs/woman.gif"
 category: Vocabulary
 ---
 

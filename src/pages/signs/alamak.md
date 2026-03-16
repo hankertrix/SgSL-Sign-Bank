@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Alamak
-image: ./assets/images-of-signs/alamak.gif
+image: "@signs/alamak.gif"
 category: Singlish
 ---
 

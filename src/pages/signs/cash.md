@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cash
-image: ./assets/images-of-signs/cash.gif
+image: "@signs/cash.gif"
 category: Vocabulary
 ---
 

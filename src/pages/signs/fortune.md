@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fortune
-image: ./assets/images-of-signs/fortune.gif
+image: "@signs/fortune.gif"
 category: Vocabulary
 ---
 

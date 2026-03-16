@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Window blinds
-image: ./assets/images-of-signs/window-blinds.gif
+image: "@signs/window-blinds.gif"
 category: Vocabulary
 ---
 

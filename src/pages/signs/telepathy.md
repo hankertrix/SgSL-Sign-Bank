@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Telepathy
-image: ./assets/images-of-signs/telepathy.gif
+image: "@signs/telepathy.gif"
 category: Vocabulary
 family: Understand
 ---

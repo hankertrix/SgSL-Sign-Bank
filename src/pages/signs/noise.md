@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Noise
-image: ./assets/images-of-signs/noise-variation-1.gif
+image: "@signs/noise-variation-1.gif"
 category: Vocabulary
 ---
 

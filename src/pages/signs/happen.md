@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Happen
-image: ./assets/images-of-signs/happen.gif
+image: "@signs/happen.gif"
 category: Vocabulary
 ---
 

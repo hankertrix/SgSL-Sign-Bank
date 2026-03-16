@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rooster
-image: ./assets/images-of-signs/rooster-variation-1.gif
+image: "@signs/rooster-variation-1.gif"
 category: Vocabulary
 ---
 

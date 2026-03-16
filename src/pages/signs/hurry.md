@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hurry
-image: ./assets/images-of-signs/hurry.gif
+image: "@signs/hurry.gif"
 category: Vocabulary
 ---
 

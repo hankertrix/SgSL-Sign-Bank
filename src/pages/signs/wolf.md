@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wolf
-image: ./assets/images-of-signs/wolf.gif
+image: "@signs/wolf.gif"
 category: Vocabulary
 ---
 

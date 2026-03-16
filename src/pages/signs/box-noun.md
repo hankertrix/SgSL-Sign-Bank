@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Box (noun)
-image: ./assets/images-of-signs/box-noun.gif
+image: "@signs/box-noun.gif"
 category: Vocabulary
 ---
 

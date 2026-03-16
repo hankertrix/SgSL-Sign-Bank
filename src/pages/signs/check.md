@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Check
-image: ./assets/images-of-signs/check.gif
+image: "@signs/check.gif"
 category: Vocabulary
 ---
 

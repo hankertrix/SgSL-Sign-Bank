@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Muak
-image: ./assets/images-of-signs/merdeaf-muak.png
+image: "@signs/merdeaf-muak.png"
 category: Singlish
 ---
 

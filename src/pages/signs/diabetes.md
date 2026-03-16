@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Diabetes
-image: ./assets/images-of-signs/diabetes-variation-1.gif
+image: "@signs/diabetes-variation-1.gif"
 category: Vocabulary
 ---
 

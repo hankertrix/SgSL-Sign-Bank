@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Respond
-image: ./assets/images-of-signs/respond.gif
+image: "@signs/respond.gif"
 category: Vocabulary
 ---
 

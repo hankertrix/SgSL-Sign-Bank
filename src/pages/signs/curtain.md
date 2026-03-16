@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Curtain
-image: ./assets/images-of-signs/curtain-variation-1.gif
+image: "@signs/curtain-variation-1.gif"
 category: Vocabulary
 ---
 

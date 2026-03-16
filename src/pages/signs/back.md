@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Back
-image: ./assets/images-of-signs/back.gif
+image: "@signs/back.gif"
 category: Vocabulary
 ---
 

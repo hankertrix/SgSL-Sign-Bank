@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Grandmother
-image: ./assets/images-of-signs/grandmother.gif
+image: "@signs/grandmother.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Budget
-image: ./assets/images-of-signs/budget.gif
+image: "@signs/budget.gif"
 category: Vocabulary
 ---
 

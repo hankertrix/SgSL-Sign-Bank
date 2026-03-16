@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Coconut
-image: ./assets/images-of-signs/coconut.gif
+image: "@signs/coconut.gif"
 category: Vocabulary
 ---
 

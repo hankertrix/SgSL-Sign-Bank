@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Scotland
-image: ./assets/images-of-signs/scotland.gif
+image: "@signs/scotland.gif"
 category: Places
 ---
 

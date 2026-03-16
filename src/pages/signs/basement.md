@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Basement
-image: ./assets/images-of-signs/basement.gif
+image: "@signs/basement.gif"
 category: Vocabulary
 ---
 

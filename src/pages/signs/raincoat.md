@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Raincoat
-image: ./assets/images-of-signs/raincoat.gif
+image: "@signs/raincoat.gif"
 category: Clothing
 ---
 

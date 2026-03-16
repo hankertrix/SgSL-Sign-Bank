@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Elephant
-image: ./assets/images-of-signs/elephant-variation-1.gif
+image: "@signs/elephant-variation-1.gif"
 category: Vocabulary
 ---
 

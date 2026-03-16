@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Not yet
-image: ./assets/images-of-signs/not-yet.gif
+image: "@signs/not-yet.gif"
 category: Vocabulary
 ---
 

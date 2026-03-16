@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Design
-image: ./assets/images-of-signs/design.gif
+image: "@signs/design.gif"
 category: Vocabulary
 family: Draw
 ---

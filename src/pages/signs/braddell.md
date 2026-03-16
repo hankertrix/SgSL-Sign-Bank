@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Braddell
-image: ./assets/images-of-signs/braddell.gif
+image: "@signs/braddell.gif"
 category: Places
 ---
 

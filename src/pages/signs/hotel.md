@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hotel
-image: ./assets/images-of-signs/hotel-variation-1.gif
+image: "@signs/hotel-variation-1.gif"
 category: Vocabulary
 ---
 

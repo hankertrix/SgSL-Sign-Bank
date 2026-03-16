@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Eurasian
-image: ./assets/images-of-signs/eurasian.gif
+image: "@signs/eurasian.gif"
 category: Vocabulary
 ---
 

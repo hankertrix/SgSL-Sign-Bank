@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tak tahan
-image: ./assets/images-of-signs/merdeaf-tak-tahan.png
+image: "@signs/merdeaf-tak-tahan.png"
 category: Singlish
 ---
 

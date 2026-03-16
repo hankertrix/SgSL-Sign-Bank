@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gamble
-image: ./assets/images-of-signs/gamble.gif
+image: "@signs/gamble.gif"
 category: Vocabulary
 ---
 

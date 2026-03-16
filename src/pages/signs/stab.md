@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Stab
-image: ./assets/images-of-signs/stab-variation-1.gif
+image: "@signs/stab-variation-1.gif"
 category: Vocabulary
 ---
 

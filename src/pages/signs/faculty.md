@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Faculty
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/we-variation-1.gif]
+dependentImages: ["@signs/we-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["we"](./we#variation-1),

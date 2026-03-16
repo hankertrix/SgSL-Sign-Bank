@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Accurate
-image: ./assets/images-of-signs/accurate.gif
+image: "@signs/accurate.gif"
 category: Vocabulary
 ---
 

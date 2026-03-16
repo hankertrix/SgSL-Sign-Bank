@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Correct / Right
-image: ./assets/images-of-signs/correct.gif
+image: "@signs/correct.gif"
 category: Vocabulary
 family: Correct
 ---

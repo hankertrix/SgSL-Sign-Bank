@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Desk
-image: ./assets/images-of-signs/desk.gif
+image: "@signs/desk.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Horse
-image: ./assets/images-of-signs/horse-variation-1.gif
+image: "@signs/horse-variation-1.gif"
 category: Vocabulary
 ---
 

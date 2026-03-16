@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Shower
-image: ./assets/images-of-signs/shower.gif
+image: "@signs/shower.gif"
 category: Vocabulary
 ---
 

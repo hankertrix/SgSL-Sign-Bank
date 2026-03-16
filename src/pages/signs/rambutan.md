@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rambutan
-image: ./assets/images-of-signs/rambutan.gif
+image: "@signs/rambutan.gif"
 category: Fruits
 ---
 

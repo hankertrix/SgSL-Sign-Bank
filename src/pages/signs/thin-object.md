@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Thin (object)
-image: ./assets/images-of-signs/thin-object-variation-1.gif
+image: "@signs/thin-object-variation-1.gif"
 category: Vocabulary
 ---
 

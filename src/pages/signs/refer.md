@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Refer / Reference / Relay
-image: ./assets/images-of-signs/refer.gif
+image: "@signs/refer.gif"
 category: Vocabulary
 ---
 

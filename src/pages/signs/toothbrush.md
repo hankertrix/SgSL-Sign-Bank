@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Toothbrush
-image: ./assets/images-of-signs/toothbrush.gif
+image: "@signs/toothbrush.gif"
 category: Vocabulary
 ---
 

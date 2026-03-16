@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Serious / Severe
-image: ./assets/images-of-signs/serious.gif
+image: "@signs/serious.gif"
 category: Vocabulary
 family: Serious
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Centre
-image: ./assets/images-of-signs/centre.gif
+image: "@signs/centre.gif"
 category: Vocabulary
 family: Middle
 ---

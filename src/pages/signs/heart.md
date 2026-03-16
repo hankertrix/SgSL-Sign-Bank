@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Heart
-image: ./assets/images-of-signs/heart-variation-1.gif
+image: "@signs/heart-variation-1.gif"
 category: Body parts
 ---
 

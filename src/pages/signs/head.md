@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Head
-image: ./assets/images-of-signs/head.gif
+image: "@signs/head.gif"
 category: Vocabulary
 ---
 

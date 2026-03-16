@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Fault
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/volunteer.gif]
+dependentImages: ["@signs/volunteer.gif"]
 ---
 
 Similar to ["volunteer"](./volunteer), which is shown below,

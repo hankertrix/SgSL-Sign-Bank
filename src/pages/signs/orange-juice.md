@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Orange juice
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/orange-fruit.gif]
+dependentImages: ["@signs/orange-fruit.gif"]
 ---
 
 Do the gesture for the first variation of ["orange"](./orange#variation-1),

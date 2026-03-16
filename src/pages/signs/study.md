@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Study
-image: ./assets/images-of-signs/study.gif
+image: "@signs/study.gif"
 category: Vocabulary
 ---
 

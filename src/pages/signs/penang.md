@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Penang
-image: ./assets/images-of-signs/penang.gif
+image: "@signs/penang.gif"
 category: Places
 ---
 

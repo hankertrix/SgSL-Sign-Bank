@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Laboratory / Lab
-image: ./assets/images-of-signs/laboratory.gif
+image: "@signs/laboratory.gif"
 category: Vocabulary
 family: Science
 ---

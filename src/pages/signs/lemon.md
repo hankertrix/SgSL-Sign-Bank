@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lemon / Lemonade
-image: ./assets/images-of-signs/lemon-variation-1.gif
+image: "@signs/lemon-variation-1.gif"
 category: Fruits
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Visit
-image: ./assets/images-of-signs/visit.gif
+image: "@signs/visit.gif"
 category: Vocabulary
 ---
 

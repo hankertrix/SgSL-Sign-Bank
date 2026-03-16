@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sign (document)
-image: ./assets/images-of-signs/sign-document.gif
+image: "@signs/sign-document.gif"
 category: Vocabulary
 ---
 

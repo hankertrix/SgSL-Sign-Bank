@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Block / Barrier
-image: ./assets/images-of-signs/block.gif
+image: "@signs/block.gif"
 category: Vocabulary
 ---
 

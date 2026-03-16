@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Thailand
-image: ./assets/images-of-signs/thailand.gif
+image: "@signs/thailand.gif"
 category: Places
 ---
 

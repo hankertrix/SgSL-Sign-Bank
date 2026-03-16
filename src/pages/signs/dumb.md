@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dumb / Fool
-image: ./assets/images-of-signs/dumb.gif
+image: "@signs/dumb.gif"
 category: Vocabulary
 ---
 

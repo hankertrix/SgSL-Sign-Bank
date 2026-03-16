@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Between
-image: ./assets/images-of-signs/between.gif
+image: "@signs/between.gif"
 category: Vocabulary
 ---
 

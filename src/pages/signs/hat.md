@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hat
-image: ./assets/images-of-signs/hat.gif
+image: "@signs/hat.gif"
 category: Vocabulary
 ---
 

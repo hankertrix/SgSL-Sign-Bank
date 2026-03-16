@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Quarrel
-image: ./assets/images-of-signs/quarrel-variation-1.gif
+image: "@signs/quarrel-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Social work
-image: ./assets/images-of-signs/social-work.gif
+image: "@signs/social-work.gif"
 category: Vocabulary
 family: Lesson
 ---

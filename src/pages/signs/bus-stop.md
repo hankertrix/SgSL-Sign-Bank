@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bus stop
-image: ./assets/images-of-signs/bus-stop.gif
+image: "@signs/bus-stop.gif"
 category: Vocabulary
 ---
 

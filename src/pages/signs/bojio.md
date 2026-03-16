@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bojio
-image: ./assets/images-of-signs/alt-merdeaf-bojio.gif
+image: "@signs/alt-merdeaf-bojio.gif"
 category: Singlish
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Airport
-image: ./assets/images-of-signs/airport-variation-1.gif
+image: "@signs/airport-variation-1.gif"
 category: Vocabulary
 ---
 

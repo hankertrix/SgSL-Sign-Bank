@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Brown
-image: ./assets/images-of-signs/brown.gif
+image: "@signs/brown.gif"
 category: Vocabulary
 ---
 

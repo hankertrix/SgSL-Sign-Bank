@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cousin (male)
-image: ./assets/images-of-signs/cousin-male-variation-1.gif
+image: "@signs/cousin-male-variation-1.gif"
 category: Vocabulary
 ---
 

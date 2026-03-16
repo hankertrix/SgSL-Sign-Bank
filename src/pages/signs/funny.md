@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Funny
-image: ./assets/images-of-signs/funny-variation-1.gif
+image: "@signs/funny-variation-1.gif"
 category: Vocabulary
 ---
 

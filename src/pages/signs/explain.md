@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Explain
-image: ./assets/images-of-signs/explain.gif
+image: "@signs/explain.gif"
 category: Vocabulary
 ---
 

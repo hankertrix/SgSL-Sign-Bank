@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Love letter (food)
-image: ./assets/images-of-signs/love-letter-food.gif
+image: "@signs/love-letter-food.gif"
 category: Food
 ---
 

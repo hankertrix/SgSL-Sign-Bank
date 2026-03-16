@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Later
-image: ./assets/images-of-signs/later-variation-1.gif
+image: "@signs/later-variation-1.gif"
 category: Vocabulary
 ---
 

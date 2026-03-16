@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bored
-image: ./assets/images-of-signs/bored.gif
+image: "@signs/bored.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Smile
-image: ./assets/images-of-signs/smile-variation-1.gif
+image: "@signs/smile-variation-1.gif"
 category: Vocabulary
 ---
 

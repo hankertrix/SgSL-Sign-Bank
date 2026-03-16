@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: People
-image: ./assets/images-of-signs/people.gif
+image: "@signs/people.gif"
 category: Vocabulary
 ---
 

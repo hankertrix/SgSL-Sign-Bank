@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Angry
-image: ./assets/images-of-signs/angry.gif
+image: "@signs/angry.gif"
 category: Vocabulary
 family: Angry
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Researcher
-image: ./assets/images-of-signs/researcher-variation-1.gif
+image: "@signs/researcher-variation-1.gif"
 category: Vocabulary
 ---
 

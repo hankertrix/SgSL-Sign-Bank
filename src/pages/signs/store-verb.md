@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Store (verb)
-image: ./assets/images-of-signs/store-verb.gif
+image: "@signs/store-verb.gif"
 category: Vocabulary
 ---
 

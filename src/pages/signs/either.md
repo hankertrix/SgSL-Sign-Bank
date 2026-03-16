@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Either
 category: Vocabulary
 family: Then
-dependentImages: [./assets/images-of-signs/then-variation-1.gif]
+dependentImages: ["@signs/then-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["then"](./then#variation-1),

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bluff
-image: ./assets/images-of-signs/merdeaf-bluff.png
+image: "@signs/merdeaf-bluff.png"
 category: Vocabulary
 ---
 

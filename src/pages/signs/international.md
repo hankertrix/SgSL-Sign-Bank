@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: International
-image: ./assets/images-of-signs/international.gif
+image: "@signs/international.gif"
 category: Vocabulary
 family: All
 ---

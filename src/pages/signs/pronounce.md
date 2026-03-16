@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Pronounce
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/sign-language-variation-1.gif]
+dependentImages: ["@signs/sign-language-variation-1.gif"]
 ---
 
 Same motion as ["sign language"](./sign-language-variation-1),

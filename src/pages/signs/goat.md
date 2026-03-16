@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Goat / Mutton
-image: ./assets/images-of-signs/goat.gif
+image: "@signs/goat.gif"
 category: Vocabulary
 ---
 

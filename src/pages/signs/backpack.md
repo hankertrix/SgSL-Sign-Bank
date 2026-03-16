@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Backpack
-image: ./assets/images-of-signs/backpack.gif
+image: "@signs/backpack.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lead (verb) / Guide
-image: ./assets/images-of-signs/lead-verb.gif
+image: "@signs/lead-verb.gif"
 category: Vocabulary
 ---
 

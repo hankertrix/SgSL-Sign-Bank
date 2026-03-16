@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Condominium
-image: ./assets/images-of-signs/condominium-variation-1.gif
+image: "@signs/condominium-variation-1.gif"
 category: Vocabulary
 ---
 

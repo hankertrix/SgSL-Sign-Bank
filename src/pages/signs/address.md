@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Address
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/live.gif]
+dependentImages: ["@signs/live.gif"]
 ---
 
 Same motion as ["live"](./live), which is shown below,

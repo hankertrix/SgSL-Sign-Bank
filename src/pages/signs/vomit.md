@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Vomit
-image: ./assets/images-of-signs/vomit-variation-1.gif
+image: "@signs/vomit-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Checkup
-image: ./assets/images-of-signs/checkup-variation-1.gif
+image: "@signs/checkup-variation-1.gif"
 category: Vocabulary
 ---
 

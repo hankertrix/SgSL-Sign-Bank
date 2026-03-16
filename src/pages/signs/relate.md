@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Relate
-image: ./assets/images-of-signs/relate.gif
+image: "@signs/relate.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Manager (job)
-image: ./assets/images-of-signs/manager-job.gif
+image: "@signs/manager-job.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Yio Chu Kang
-image: ./assets/images-of-signs/yio-chu-kang.gif
+image: "@signs/yio-chu-kang.gif"
 category: Places
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Exit
-image: ./assets/images-of-signs/exit.gif
+image: "@signs/exit.gif"
 category: Vocabulary
 ---
 

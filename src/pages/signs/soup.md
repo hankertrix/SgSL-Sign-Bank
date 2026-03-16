@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Soup
-image: ./assets/images-of-signs/soup.gif
+image: "@signs/soup.gif"
 category: Food
 ---
 

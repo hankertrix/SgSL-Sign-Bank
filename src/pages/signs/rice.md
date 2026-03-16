@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rice
-image: ./assets/images-of-signs/rice.gif
+image: "@signs/rice.gif"
 category: Food
 ---
 

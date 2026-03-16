@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Normal
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/home.gif]
+dependentImages: ["@signs/home.gif"]
 ---
 
 Same motion as ["home"](./home), which is shown below,

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: South America
-image: ./assets/images-of-signs/south-america-variation-1.gif
+image: "@signs/south-america-variation-1.gif"
 category: Vocabulary
 ---
 

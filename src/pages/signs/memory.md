@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Memory
 category: Vocabulary
 family: Emphasise
-dependentImages: [./assets/images-of-signs/emphasise.gif]
+dependentImages: ["@signs/emphasise.gif"]
 ---
 
 Same motion as ["emphasise"](./emphasise), which is shown below,

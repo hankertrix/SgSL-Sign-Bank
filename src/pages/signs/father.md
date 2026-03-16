@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Father
-image: ./assets/images-of-signs/father.gif
+image: "@signs/father.gif"
 category: Vocabulary
 ---
 

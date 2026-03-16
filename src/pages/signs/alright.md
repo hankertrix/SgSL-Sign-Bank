@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Alright
-image: ./assets/images-of-signs/alright-variation-1.gif
+image: "@signs/alright-variation-1.gif"
 category: Vocabulary
 ---
 

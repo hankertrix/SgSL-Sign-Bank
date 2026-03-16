@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Tan
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/brown.gif]
+dependentImages: ["@signs/brown.gif"]
 ---
 
 Same motion as ["brown"](./brown),

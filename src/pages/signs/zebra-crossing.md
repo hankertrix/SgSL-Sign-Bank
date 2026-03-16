@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Zebra crossing
-image: ./assets/images-of-signs/zebra-crossing.gif
+image: "@signs/zebra-crossing.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Distort / Mangle
-image: ./assets/images-of-signs/distort.gif
+image: "@signs/distort.gif"
 category: Vocabulary
 ---
 

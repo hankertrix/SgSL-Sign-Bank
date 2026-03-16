@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fox
-image: ./assets/images-of-signs/fox.gif
+image: "@signs/fox.gif"
 category: Vocabulary
 ---
 

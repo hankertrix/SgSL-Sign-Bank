@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mount
-image: ./assets/images-of-signs/mount.gif
+image: "@signs/mount.gif"
 category: Vocabulary
 ---
 

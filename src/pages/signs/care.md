@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Care
-image: ./assets/images-of-signs/care.gif
+image: "@signs/care.gif"
 category: Vocabulary
 ---
 

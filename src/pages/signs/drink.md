@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Drink
-image: ./assets/images-of-signs/drink-variation-1.gif
+image: "@signs/drink-variation-1.gif"
 category: Vocabulary
 ---
 

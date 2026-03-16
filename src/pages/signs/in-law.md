@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: In-law
-image: ./assets/images-of-signs/in-law.gif
+image: "@signs/in-law.gif"
 category: Vocabulary
 ---
 

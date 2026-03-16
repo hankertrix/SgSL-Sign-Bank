@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Client
-image: ./assets/images-of-signs/client.gif
+image: "@signs/client.gif"
 category: Vocabulary
 ---
 

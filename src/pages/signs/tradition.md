@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tradition
-image: ./assets/images-of-signs/tradition-variation-1.gif
+image: "@signs/tradition-variation-1.gif"
 category: Vocabulary
 ---
 

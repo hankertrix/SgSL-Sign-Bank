@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Peach
-image: ./assets/images-of-signs/peach.gif
+image: "@signs/peach.gif"
 category: Fruits
 ---
 

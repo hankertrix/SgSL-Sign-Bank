@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Prove / Proof
-image: ./assets/images-of-signs/prove.gif
+image: "@signs/prove.gif"
 category: Vocabulary
 ---
 

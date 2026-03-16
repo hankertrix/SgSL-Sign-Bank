@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Clown
-image: ./assets/images-of-signs/clown-variation-1.gif
+image: "@signs/clown-variation-1.gif"
 category: Vocabulary
 ---
 

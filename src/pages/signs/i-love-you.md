@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: I love you / ILY
-image: ./assets/images-of-signs/i-love-you.gif
+image: "@signs/i-love-you.gif"
 category: Vocabulary
 ---
 

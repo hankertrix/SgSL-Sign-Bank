@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mention
-image: ./assets/images-of-signs/mention.gif
+image: "@signs/mention.gif"
 category: Vocabulary
 ---
 

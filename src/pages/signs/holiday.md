@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Holiday
-image: ./assets/images-of-signs/holiday-variation-1.gif
+image: "@signs/holiday-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Carrot
-image: ./assets/images-of-signs/carrot.gif
+image: "@signs/carrot.gif"
 category: Food
 ---
 

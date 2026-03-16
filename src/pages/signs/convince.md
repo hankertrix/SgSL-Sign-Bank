@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Convince
-image: ./assets/images-of-signs/convince.gif
+image: "@signs/convince.gif"
 category: Vocabulary
 ---
 

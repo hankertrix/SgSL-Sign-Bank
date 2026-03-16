@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Moon
-image: ./assets/images-of-signs/moon-variation-1.gif
+image: "@signs/moon-variation-1.gif"
 category: Vocabulary
 ---
 

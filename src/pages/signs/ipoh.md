@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ipoh
-image: ./assets/images-of-signs/ipoh.gif
+image: "@signs/ipoh.gif"
 category: Places
 ---
 

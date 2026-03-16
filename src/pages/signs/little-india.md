@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Little India
-image: ./assets/images-of-signs/little-india.gif
+image: "@signs/little-india.gif"
 category: Places
 ---
 

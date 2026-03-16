@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Raffles
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/table.gif]
+dependentImages: ["@signs/table.gif"]
 ---
 
 Do the gesture for ["table"](./table), which is shown below,

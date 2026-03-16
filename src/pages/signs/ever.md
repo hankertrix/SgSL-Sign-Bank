@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ever
-image: ./assets/images-of-signs/always.gif
+image: "@signs/always.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Insurance
-image: ./assets/images-of-signs/insurance.gif
+image: "@signs/insurance.gif"
 category: Vocabulary
 ---
 

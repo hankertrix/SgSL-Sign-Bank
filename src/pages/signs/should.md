@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Should / Shall
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/need.gif]
+dependentImages: ["@signs/need.gif"]
 ---
 
 Same motion as ["need"](./need), which is shown below,

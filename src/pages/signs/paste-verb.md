@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Paste (verb)
-image: ./assets/images-of-signs/paste-verb.gif
+image: "@signs/paste-verb.gif"
 category: Vocabulary
 ---
 

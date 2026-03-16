@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Kind
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/year.gif]
+dependentImages: ["@signs/year.gif"]
 ---
 
 Same motion as ["year"](./year), which is shown below,

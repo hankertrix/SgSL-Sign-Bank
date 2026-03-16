@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kneel / Protestant (Christian denomination)
-image: ./assets/images-of-signs/kneel.gif
+image: "@signs/kneel.gif"
 category: Vocabulary
 ---
 

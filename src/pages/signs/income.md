@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Income / Salary / Wages
-image: ./assets/images-of-signs/income.gif
+image: "@signs/income.gif"
 category: Vocabulary
 ---
 

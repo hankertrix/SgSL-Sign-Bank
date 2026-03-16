@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Acquire
-image: ./assets/images-of-signs/acquire.gif
+image: "@signs/acquire.gif"
 category: Vocabulary
 ---
 

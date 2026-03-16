@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Elf
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/fairy.gif]
+dependentImages: ["@signs/fairy.gif"]
 ---
 
 Same motion as ["fairy"](./fairy),

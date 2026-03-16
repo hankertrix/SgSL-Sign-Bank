@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fat
-image: ./assets/images-of-signs/fat-variation-1.gif
+image: "@signs/fat-variation-1.gif"
 category: Vocabulary
 ---
 

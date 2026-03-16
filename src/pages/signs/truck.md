@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Truck
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/bus.gif]
+dependentImages: ["@signs/bus.gif"]
 ---
 
 Same motion as ["bus"](./bus), which is shown below,

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Programmer
-image: ./assets/images-of-signs/programmer.gif
+image: "@signs/programmer.gif"
 category: Vocabulary
 ---
 

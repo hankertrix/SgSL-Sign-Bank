@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Apply / Application
-image: ./assets/images-of-signs/apply.gif
+image: "@signs/apply.gif"
 category: Vocabulary
 ---
 

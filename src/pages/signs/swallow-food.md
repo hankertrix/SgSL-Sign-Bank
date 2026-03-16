@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Swallow (food)
-image: ./assets/images-of-signs/swallow-food.gif
+image: "@signs/swallow-food.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bank
-image: ./assets/images-of-signs/bank.gif
+image: "@signs/bank.gif"
 category: Places
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Noun
-image: ./assets/images-of-signs/noun.gif
+image: "@signs/noun.gif"
 category: Vocabulary
 ---
 

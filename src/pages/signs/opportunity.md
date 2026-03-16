@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Opportunity
-image: ./assets/images-of-signs/opportunity.gif
+image: "@signs/opportunity.gif"
 category: Vocabulary
 family: Allow
 ---

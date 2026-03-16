@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hippopotamus / Hippo
-image: ./assets/images-of-signs/hippopotamus.gif
+image: "@signs/hippopotamus.gif"
 category: Vocabulary
 ---
 

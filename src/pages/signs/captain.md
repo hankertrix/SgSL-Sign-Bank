@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Captain
-image: ./assets/images-of-signs/captain.gif
+image: "@signs/captain.gif"
 category: Vocabulary
 ---
 

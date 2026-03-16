@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Crazy
-image: ./assets/images-of-signs/crazy-variation-1.gif
+image: "@signs/crazy-variation-1.gif"
 category: Vocabulary
 ---
 

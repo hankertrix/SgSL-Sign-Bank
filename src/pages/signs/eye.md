@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Eye
-image: ./assets/images-of-signs/eye.gif
+image: "@signs/eye.gif"
 category: Body parts
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Interpreter
-image: ./assets/images-of-signs/interpreter.gif
+image: "@signs/interpreter.gif"
 category: Vocabulary
 ---
 

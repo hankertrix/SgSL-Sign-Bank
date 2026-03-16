@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Off
-image: ./assets/images-of-signs/off.gif
+image: "@signs/off.gif"
 category: Vocabulary
 ---
 

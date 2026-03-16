@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Throw
-image: ./assets/images-of-signs/throw-variation-1.gif
+image: "@signs/throw-variation-1.gif"
 category: Vocabulary
 ---
 

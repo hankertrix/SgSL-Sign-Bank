@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cap
-image: ./assets/images-of-signs/cap.gif
+image: "@signs/cap.gif"
 category: Clothing
 ---
 

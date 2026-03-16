@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bake
-image: ./assets/images-of-signs/bake.gif
+image: "@signs/bake.gif"
 category: Vocabulary
 ---
 

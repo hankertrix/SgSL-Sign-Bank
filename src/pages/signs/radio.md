@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Radio
 category: Vocabulary
 family: Hear
-dependentImages: [./assets/images-of-signs/hear-variation-2.gif]
+dependentImages: ["@signs/hear-variation-2.gif"]
 ---
 
 Same motion as the second variation of ["hear"](./hear#variation-2),

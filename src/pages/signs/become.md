@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Become
-image: ./assets/images-of-signs/become.gif
+image: "@signs/become.gif"
 category: Vocabulary
 ---
 

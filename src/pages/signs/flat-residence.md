@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Flat (residence)
-image: ./assets/images-of-signs/flat-residence.gif
+image: "@signs/flat-residence.gif"
 category: Vocabulary
 ---
 

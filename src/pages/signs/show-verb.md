@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Show (verb)
-image: ./assets/images-of-signs/show-verb-variation-1.gif
+image: "@signs/show-verb-variation-1.gif"
 category: Vocabulary
 ---
 

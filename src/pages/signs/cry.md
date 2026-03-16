@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cry
-image: ./assets/images-of-signs/cry.gif
+image: "@signs/cry.gif"
 category: Vocabulary
 ---
 

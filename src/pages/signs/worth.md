@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Worth
-image: ./assets/images-of-signs/worth-variation-1.gif
+image: "@signs/worth-variation-1.gif"
 category: Vocabulary
 family: Important
 ---

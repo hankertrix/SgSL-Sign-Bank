@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Money
-image: ./assets/images-of-signs/money-variation-1.gif
+image: "@signs/money-variation-1.gif"
 category: Vocabulary
 family: Money
 ---

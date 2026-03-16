@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Intermission / Break (noun)
-image: ./assets/images-of-signs/intermission.gif
+image: "@signs/intermission.gif"
 category: Vocabulary
 ---
 

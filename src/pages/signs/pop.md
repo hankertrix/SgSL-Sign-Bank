@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pop (music)
-image: ./assets/images-of-signs/sing-variation-2.gif
+image: "@signs/sing-variation-2.gif"
 category: Vocabulary
 ---
 

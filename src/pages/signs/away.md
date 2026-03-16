@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Away
-image: ./assets/images-of-signs/away.gif
+image: "@signs/away.gif"
 category: Vocabulary
 ---
 

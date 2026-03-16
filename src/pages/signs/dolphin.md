@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dolphin
-image: ./assets/images-of-signs/dolphin-variation-1.gif
+image: "@signs/dolphin-variation-1.gif"
 category: Vocabulary
 ---
 

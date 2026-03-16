@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Alcohol
-image: ./assets/images-of-signs/alcohol.gif
+image: "@signs/alcohol.gif"
 category: Food
 ---
 

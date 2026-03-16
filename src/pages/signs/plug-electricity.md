@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Plug (electricity)
-image: ./assets/images-of-signs/plug-electricity.gif
+image: "@signs/plug-electricity.gif"
 category: Vocabulary
 ---
 

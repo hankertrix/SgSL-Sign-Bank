@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Let / Let's
 category: Vocabulary
 family: Allow
-dependentImages: [./assets/images-of-signs/allow.gif]
+dependentImages: ["@signs/allow.gif"]
 ---
 
 Same motion as ["allow"](./allow),

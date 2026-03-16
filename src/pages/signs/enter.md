@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Enter
-image: ./assets/images-of-signs/enter-variation-1.gif
+image: "@signs/enter-variation-1.gif"
 category: Vocabulary
 ---
 

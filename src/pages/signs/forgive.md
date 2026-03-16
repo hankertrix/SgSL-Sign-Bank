@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Forgive / Pardon
-image: ./assets/images-of-signs/forgive.gif
+image: "@signs/forgive.gif"
 category: Vocabulary
 ---
 

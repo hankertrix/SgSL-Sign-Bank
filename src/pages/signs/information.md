@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Information / Knowledge
-image: ./assets/images-of-signs/information.gif
+image: "@signs/information.gif"
 category: Vocabulary
 ---
 

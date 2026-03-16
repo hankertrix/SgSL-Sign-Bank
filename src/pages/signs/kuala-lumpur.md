@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kuala Lumpur
-image: ./assets/images-of-signs/kuala-lumpur.gif
+image: "@signs/kuala-lumpur.gif"
 category: Places
 ---
 

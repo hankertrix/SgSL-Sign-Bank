@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Policewoman
-image: ./assets/images-of-signs/policewoman.gif
+image: "@signs/policewoman.gif"
 category: Vocabulary
 ---
 

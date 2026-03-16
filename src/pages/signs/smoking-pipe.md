@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Smoking pipe
-image: ./assets/images-of-signs/smoking-pipe.gif
+image: "@signs/smoking-pipe.gif"
 category: Vocabulary
 ---
 

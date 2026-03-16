@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Caregiver
-image: ./assets/images-of-signs/caregiver.gif
+image: "@signs/caregiver.gif"
 category: Vocabulary
 ---
 

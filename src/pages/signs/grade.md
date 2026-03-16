@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Grade
-image: ./assets/images-of-signs/grade.gif
+image: "@signs/grade.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Brunei
-image: ./assets/images-of-signs/brunei-variation-1.gif
+image: "@signs/brunei-variation-1.gif"
 category: Places
 ---
 

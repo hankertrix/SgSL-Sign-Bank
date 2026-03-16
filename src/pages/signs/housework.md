@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Housework
-image: ./assets/images-of-signs/housework.gif
+image: "@signs/housework.gif"
 category: Vocabulary
 ---
 

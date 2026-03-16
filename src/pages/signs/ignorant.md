@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ignorant
-image: ./assets/images-of-signs/ignorant-variation-1.gif
+image: "@signs/ignorant-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Relatives (noun)
-image: ./assets/images-of-signs/relatives-noun.gif
+image: "@signs/relatives-noun.gif"
 category: Vocabulary
 ---
 

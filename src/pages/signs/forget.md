@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Forget
-image: ./assets/images-of-signs/forget.gif
+image: "@signs/forget.gif"
 category: Vocabulary
 ---
 

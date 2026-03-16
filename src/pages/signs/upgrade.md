@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Upgrade
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/up.gif, ./assets/images-of-signs/grade.gif]
+dependentImages: ["@signs/up-direction.gif", "@signs/grade.gif"]
 ---
 
 Do the gesture for ["up"](./up-direction),

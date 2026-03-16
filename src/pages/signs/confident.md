@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Confident
-image: ./assets/images-of-signs/confident.gif
+image: "@signs/confident.gif"
 category: Vocabulary
 ---
 

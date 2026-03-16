@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mountain
-image: ./assets/images-of-signs/mountain.gif
+image: "@signs/mountain.gif"
 category: Vocabulary
 ---
 

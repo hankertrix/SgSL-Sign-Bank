@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Makan
-image: ./assets/images-of-signs/merdeaf-makan.png
+image: "@signs/merdeaf-makan.png"
 category: Singlish
 ---
 

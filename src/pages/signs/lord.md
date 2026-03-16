@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lord
-image: ./assets/images-of-signs/lord.gif
+image: "@signs/lord.gif"
 category: Vocabulary
 family: King
 ---

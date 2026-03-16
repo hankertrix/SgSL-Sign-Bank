@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Resource
-image: ./assets/images-of-signs/resource.gif
+image: "@signs/resource.gif"
 category: Vocabulary
 family: Thing
 ---

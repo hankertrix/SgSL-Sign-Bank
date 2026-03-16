@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Good
-image: ./assets/images-of-signs/good-variation-1.gif
+image: "@signs/good-variation-1.gif"
 category: Vocabulary
 ---
 

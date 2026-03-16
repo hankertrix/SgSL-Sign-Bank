@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Paint / Painting
-image: ./assets/images-of-signs/paint.gif
+image: "@signs/paint.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: War
-image: ./assets/images-of-signs/war-variation-1.gif
+image: "@signs/war-variation-1.gif"
 category: Vocabulary
 ---
 

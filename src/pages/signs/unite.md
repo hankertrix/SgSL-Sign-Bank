@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Unite
-image: ./assets/images-of-signs/unite.gif
+image: "@signs/unite.gif"
 category: Vocabulary
 ---
 

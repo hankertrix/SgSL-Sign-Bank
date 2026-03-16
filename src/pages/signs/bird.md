@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bird
-image: ./assets/images-of-signs/bird-variation-1.gif
+image: "@signs/bird-variation-1.gif"
 category: Vocabulary
 ---
 

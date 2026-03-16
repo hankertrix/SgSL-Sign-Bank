@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Bully
 category: Vocabulary
 family: Senior
-dependentImages: [./assets/images-of-signs/senior.gif]
+dependentImages: ["@signs/senior.gif"]
 ---
 
 ## Variation 1

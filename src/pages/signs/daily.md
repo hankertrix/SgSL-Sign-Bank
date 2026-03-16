@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Daily
-image: ./assets/images-of-signs/daily-variation-1.gif
+image: "@signs/daily-variation-1.gif"
 category: Vocabulary
 ---
 

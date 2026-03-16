@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pizza
-image: ./assets/images-of-signs/pizza.gif
+image: "@signs/pizza.gif"
 category: Food
 ---
 

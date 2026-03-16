@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jiak zhua
-image: ./assets/images-of-signs/merdeaf-jiak-zhua.png
+image: "@signs/merdeaf-jiak-zhua.png"
 category: Singlish
 ---
 

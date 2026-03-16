@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Actor (job) / Actress (job)
-image: ./assets/images-of-signs/actor-job.gif
+image: "@signs/actor-job.gif"
 category: Vocabulary
 ---
 

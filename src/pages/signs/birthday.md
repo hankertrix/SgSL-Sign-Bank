@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Birthday
-image: ./assets/images-of-signs/birthday-variation-1.gif
+image: "@signs/birthday-variation-1.gif"
 category: Vocabulary
 ---
 

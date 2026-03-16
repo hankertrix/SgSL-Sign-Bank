@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Basketball
-image: ./assets/images-of-signs/basketball.gif
+image: "@signs/basketball.gif"
 category: Sports
 ---
 

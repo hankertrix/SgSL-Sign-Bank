@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tampines
-image: ./assets/images-of-signs/tampines.gif
+image: "@signs/tampines.gif"
 category: Places
 ---
 

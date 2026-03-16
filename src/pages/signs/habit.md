@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Habit
-image: ./assets/images-of-signs/habit.gif
+image: "@signs/habit.gif"
 category: Vocabulary
 ---
 

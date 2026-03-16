@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Moral / Morals / Morality
-image: ./assets/images-of-signs/moral.gif
+image: "@signs/moral.gif"
 category: Vocabulary
 ---
 

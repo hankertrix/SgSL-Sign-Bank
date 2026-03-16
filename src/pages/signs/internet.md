@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Internet / Online / Network
-image: ./assets/images-of-signs/internet-variation-1.gif
+image: "@signs/internet-variation-1.gif"
 category: Vocabulary
 family: Touch
 ---

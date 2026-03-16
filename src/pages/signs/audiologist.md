@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Audiologist
-image: ./assets/images-of-signs/audiologist.gif
+image: "@signs/audiologist.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Oil
-image: ./assets/images-of-signs/oil.gif
+image: "@signs/oil.gif"
 category: Vocabulary
 ---
 

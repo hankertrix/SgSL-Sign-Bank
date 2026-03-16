@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Event
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/happen.gif]
+dependentImages: ["@signs/happen.gif"]
 ---
 
 Same motion as ["happen"](./happen), which is shown below,

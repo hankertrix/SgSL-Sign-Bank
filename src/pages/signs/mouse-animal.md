@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mouse (animal)
-image: ./assets/images-of-signs/mouse-animal-variation-1.gif
+image: "@signs/mouse-animal-variation-1.gif"
 category: Vocabulary
 ---
 

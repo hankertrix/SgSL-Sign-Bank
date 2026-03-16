@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Contribute
-image: ./assets/images-of-signs/contribute.gif
+image: "@signs/contribute.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Watermelon
-image: ./assets/images-of-signs/watermelon.gif
+image: "@signs/watermelon.gif"
 category: Fruits
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dustbin
-image: ./assets/images-of-signs/dustbin-variation-1.gif
+image: "@signs/dustbin-variation-1.gif"
 category: Vocabulary
 ---
 

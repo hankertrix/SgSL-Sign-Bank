@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Philippines
-image: ./assets/images-of-signs/philippines.gif
+image: "@signs/philippines.gif"
 category: Places
 family: Island
 ---

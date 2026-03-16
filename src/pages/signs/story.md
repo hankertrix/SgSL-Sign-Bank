@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Story / Novel
-image: ./assets/images-of-signs/story-variation-1.gif
+image: "@signs/story-variation-1.gif"
 category: Vocabulary
 ---
 

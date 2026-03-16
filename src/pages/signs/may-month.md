@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: May (month)
-image: ./assets/images-of-signs/may-month.gif
+image: "@signs/may-month.gif"
 category: Months of the year
 ---
 

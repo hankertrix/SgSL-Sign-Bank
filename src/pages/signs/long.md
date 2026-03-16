@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Long
-image: ./assets/images-of-signs/long-variation-1.gif
+image: "@signs/long-variation-1.gif"
 category: Vocabulary
 ---
 

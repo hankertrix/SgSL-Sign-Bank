@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Blueberry
 category: Fruits
-dependentImages:
-  [./assets/images-of-signs/blue.gif, ./assets/images-of-signs/berry.gif]
+dependentImages: ["@signs/blue.gif", "@signs/berry.gif"]
 ---
 
 Do the gesture for ["blue"](./blue),

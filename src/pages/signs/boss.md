@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Boss
-image: ./assets/images-of-signs/boss.gif
+image: "@signs/boss.gif"
 category: Vocabulary
 ---
 

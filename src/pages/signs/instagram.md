@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Instagram
-image: ./assets/images-of-signs/instagram.gif
+image: "@signs/instagram.gif"
 category: Brands
 ---
 

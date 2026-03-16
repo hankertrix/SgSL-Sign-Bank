@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pervert
-image: ./assets/images-of-signs/pervert.gif
+image: "@signs/pervert.gif"
 category: Vocabulary
 family: Sick
 ---

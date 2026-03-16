@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Date (time)
-image: ./assets/images-of-signs/date-time.gif
+image: "@signs/date-time.gif"
 category: Vocabulary
 ---
 

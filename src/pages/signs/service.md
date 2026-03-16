@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Service
-image: ./assets/images-of-signs/service-variation-1.gif
+image: "@signs/service-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Less
-image: ./assets/images-of-signs/less.gif
+image: "@signs/less.gif"
 category: Vocabulary
 ---
 

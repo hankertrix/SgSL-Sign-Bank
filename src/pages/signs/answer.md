@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Answer
-image: ./assets/images-of-signs/answer.gif
+image: "@signs/answer.gif"
 category: Vocabulary
 family: Answer
 ---

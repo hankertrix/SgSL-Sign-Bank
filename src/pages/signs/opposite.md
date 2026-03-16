@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Opposite
-image: ./assets/images-of-signs/opposite.gif
+image: "@signs/opposite.gif"
 category: Vocabulary
 ---
 

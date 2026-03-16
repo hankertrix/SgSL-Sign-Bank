@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Window
-image: ./assets/images-of-signs/window.gif
+image: "@signs/window.gif"
 category: Vocabulary
 ---
 

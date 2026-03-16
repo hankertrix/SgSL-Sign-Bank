@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Beautiful
-image: ./assets/images-of-signs/beautiful.gif
+image: "@signs/beautiful.gif"
 category: Vocabulary
 ---
 

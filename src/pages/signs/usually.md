@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Usually
-image: ./assets/images-of-signs/usually.gif
+image: "@signs/usually.gif"
 category: Vocabulary
 ---
 

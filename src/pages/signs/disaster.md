@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Disaster / Crisis
-image: ./assets/images-of-signs/disaster.gif
+image: "@signs/disaster.gif"
 category: Vocabulary
 ---
 

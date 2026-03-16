@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Yishun
-image: ./assets/images-of-signs/yishun.gif
+image: "@signs/yishun.gif"
 category: Places
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Volunteer
-image: ./assets/images-of-signs/volunteer.gif
+image: "@signs/volunteer.gif"
 category: Vocabulary
 ---
 

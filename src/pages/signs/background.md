@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Background
-image: ./assets/images-of-signs/background-variation-1.gif
+image: "@signs/background-variation-1.gif"
 category: Vocabulary
 ---
 

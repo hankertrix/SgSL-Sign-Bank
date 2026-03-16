@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Smoke (cigarette)
-image: ./assets/images-of-signs/smoke-cigarette.gif
+image: "@signs/smoke-cigarette.gif"
 category: Vocabulary
 ---
 

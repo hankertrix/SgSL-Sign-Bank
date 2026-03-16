@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Parents
-image: ./assets/images-of-signs/parents-variation-1.gif
+image: "@signs/parents-variation-1.gif"
 category: Vocabulary
 ---
 

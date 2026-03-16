@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Eldest
-image: ./assets/images-of-signs/eldest.gif
+image: "@signs/eldest.gif"
 category: Vocabulary
 ---
 

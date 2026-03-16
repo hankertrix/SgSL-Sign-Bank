@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Respect
-image: ./assets/images-of-signs/respect-variation-1.gif
+image: "@signs/respect-variation-1.gif"
 category: Vocabulary
 ---
 

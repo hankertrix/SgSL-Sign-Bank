@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Express
-image: ./assets/images-of-signs/express.gif
+image: "@signs/express.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sian
-image: ./assets/images-of-signs/merdeaf-sian.png
+image: "@signs/merdeaf-sian.png"
 category: Singlish
 ---
 

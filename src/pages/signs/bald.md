@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bald
-image: ./assets/images-of-signs/bald.gif
+image: "@signs/bald.gif"
 category: Vocabulary
 ---
 

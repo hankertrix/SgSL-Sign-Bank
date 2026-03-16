@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Mosque
 category: Places
-dependentImages: [./assets/images-of-signs/church.gif]
+dependentImages: ["@signs/church.gif"]
 ---
 
 Same motion as ["church"](./church), which is shown below,

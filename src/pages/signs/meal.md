@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Meal
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/supper.gif]
+dependentImages: ["@signs/supper.gif"]
 ---
 
 Same motion as ["supper"](./supper), which is shown below,

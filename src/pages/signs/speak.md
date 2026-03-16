@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Speak
-image: ./assets/images-of-signs/speak-variation-1.gif
+image: "@signs/speak-variation-1.gif"
 category: Vocabulary
 ---
 

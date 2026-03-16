@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Run
-image: ./assets/images-of-signs/run-variation-1.gif
+image: "@signs/run-variation-1.gif"
 category: Vocabulary
 ---
 

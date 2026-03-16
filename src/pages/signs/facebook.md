@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Facebook
-image: ./assets/images-of-signs/facebook-variation-1.gif
+image: "@signs/facebook-variation-1.gif"
 category: Brands
 ---
 

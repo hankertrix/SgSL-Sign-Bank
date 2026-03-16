@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Eat
-image: ./assets/images-of-signs/eat-variation-1.gif
+image: "@signs/eat-variation-1.gif"
 category: Vocabulary
 ---
 

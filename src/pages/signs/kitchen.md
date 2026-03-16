@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kitchen
-image: ./assets/images-of-signs/kitchen-variation-1.gif
+image: "@signs/kitchen-variation-1.gif"
 category: Vocabulary
 ---
 

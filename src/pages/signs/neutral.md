@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Neutral
-image: ./assets/images-of-signs/neutral.gif
+image: "@signs/neutral.gif"
 category: Vocabulary
 ---
 

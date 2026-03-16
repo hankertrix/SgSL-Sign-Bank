@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Leave (verb) / Left
-image: ./assets/images-of-signs/leave-verb-variation-1.gif
+image: "@signs/leave-verb-variation-1.gif"
 category: Vocabulary
 ---
 

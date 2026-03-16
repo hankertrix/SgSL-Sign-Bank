@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bedok
-image: ./assets/images-of-signs/bedok.gif
+image: "@signs/bedok.gif"
 category: Places
 ---
 

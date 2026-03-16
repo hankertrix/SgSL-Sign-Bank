@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Don't want
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/do-not.gif, ./assets/images-of-signs/want.gif]
+dependentImages: ["@signs/do-not.gif", "@signs/want.gif"]
 ---
 
 ## Variation 1

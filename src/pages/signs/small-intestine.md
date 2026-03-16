@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Small intestine
-image: ./assets/images-of-signs/small-intestine-variation-1.gif
+image: "@signs/small-intestine-variation-1.gif"
 category: Body parts
 ---
 

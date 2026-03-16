@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Soccer / Football
-image: ./assets/images-of-signs/soccer.gif
+image: "@signs/soccer.gif"
 category: Vocabulary
 ---
 

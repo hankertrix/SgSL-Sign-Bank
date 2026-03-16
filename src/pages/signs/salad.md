@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Salad
-image: ./assets/images-of-signs/salad.gif
+image: "@signs/salad.gif"
 category: Food
 ---
 

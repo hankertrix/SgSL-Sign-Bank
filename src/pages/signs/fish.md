@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fish
-image: ./assets/images-of-signs/fish.gif
+image: "@signs/fish.gif"
 category: Vocabulary
 ---
 

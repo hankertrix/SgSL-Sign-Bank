@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mouth
-image: ./assets/images-of-signs/mouth.gif
+image: "@signs/mouth.gif"
 category: Vocabulary
 ---
 

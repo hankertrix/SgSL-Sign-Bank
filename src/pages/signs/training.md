@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Training / Train (verb)
-image: ./assets/images-of-signs/training.gif
+image: "@signs/training.gif"
 category: Vocabulary
 ---
 

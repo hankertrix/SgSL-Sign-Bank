@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Think
-image: ./assets/images-of-signs/think.gif
+image: "@signs/think.gif"
 category: Vocabulary
 ---
 

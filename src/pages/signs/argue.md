@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Argue
-image: ./assets/images-of-signs/argue.gif
+image: "@signs/argue.gif"
 category: Vocabulary
 ---
 

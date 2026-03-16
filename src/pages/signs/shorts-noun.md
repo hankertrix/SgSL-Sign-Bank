@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Shorts (noun) / Boxers
-image: ./assets/images-of-signs/shorts-noun-variation-1.gif
+image: "@signs/shorts-noun-variation-1.gif"
 category: Clothing
 ---
 

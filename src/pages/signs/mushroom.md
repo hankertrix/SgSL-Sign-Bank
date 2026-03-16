@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mushroom
-image: ./assets/images-of-signs/mushroom.gif
+image: "@signs/mushroom.gif"
 category: Vocabulary
 ---
 

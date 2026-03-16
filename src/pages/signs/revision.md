@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Revision
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/change.gif]
+dependentImages: ["@signs/change.gif"]
 ---
 
 Same motion as ["change"](./change), which is shown below,

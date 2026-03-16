@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Skill / Proficiency / Competency
-image: ./assets/images-of-signs/skill.gif
+image: "@signs/skill.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Universe / Universal
-image: ./assets/images-of-signs/universe.gif
+image: "@signs/universe.gif"
 category: Vocabulary
 family: All
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Carpet / Mat
-image: ./assets/images-of-signs/carpet.gif
+image: "@signs/carpet.gif"
 category: Vocabulary
 ---
 

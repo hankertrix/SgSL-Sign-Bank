@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Want
-image: ./assets/images-of-signs/want.gif
+image: "@signs/want.gif"
 category: Vocabulary
 ---
 

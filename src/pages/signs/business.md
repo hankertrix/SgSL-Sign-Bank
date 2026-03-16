@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Business
-image: ./assets/images-of-signs/business-variation-1.gif
+image: "@signs/business-variation-1.gif"
 category: Vocabulary
 ---
 

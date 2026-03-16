@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Lane
 category: Vocabulary
 family: Way
-dependentImages: [./assets/images-of-signs/lane.gif]
+dependentImages: ["@signs/way.gif"]
 ---
 
 Same motion as ["way"](./way),

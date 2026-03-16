@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Captioning
-image: ./assets/images-of-signs/captioning-variation-1.gif
+image: "@signs/captioning-variation-1.gif"
 category: Vocabulary
 ---
 

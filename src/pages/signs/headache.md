@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Headache
-image: ./assets/images-of-signs/headache-variation-1.gif
+image: "@signs/headache-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Decimal point
-image: ./assets/images-of-signs/full-stop.gif
+image: "@signs/full-stop.gif"
 category: Mathematical symbols
 ---
 

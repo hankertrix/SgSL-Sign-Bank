@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Just
-image: ./assets/images-of-signs/just.gif
+image: "@signs/just.gif"
 category: Vocabulary
 ---
 

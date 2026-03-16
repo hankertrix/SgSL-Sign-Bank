@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Devil
-image: ./assets/images-of-signs/devil.gif
+image: "@signs/devil.gif"
 category: Vocabulary
 ---
 

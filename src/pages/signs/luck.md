@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Luck / Lucky
-image: ./assets/images-of-signs/luck.gif
+image: "@signs/luck.gif"
 category: Vocabulary
 ---
 

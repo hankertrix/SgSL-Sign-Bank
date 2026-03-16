@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Section
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/part.gif]
+dependentImages: ["@signs/part.gif"]
 ---
 
 Same motion as ["part"](./part),

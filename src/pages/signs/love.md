@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Love
-image: ./assets/images-of-signs/love.gif
+image: "@signs/love.gif"
 category: Vocabulary
 ---
 

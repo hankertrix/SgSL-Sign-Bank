@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ang moh
-image: ./assets/images-of-signs/merdeaf-ang-moh.png
+image: "@signs/merdeaf-ang-moh.png"
 category: Singlish
 ---
 

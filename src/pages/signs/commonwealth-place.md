@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Commonwealth (place)
-image: ./assets/images-of-signs/commonwealth-place.gif
+image: "@signs/commonwealth-place.gif"
 category: Places
 ---
 

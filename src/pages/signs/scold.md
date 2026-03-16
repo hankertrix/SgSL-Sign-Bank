@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Scold
-image: ./assets/images-of-signs/scold.gif
+image: "@signs/scold.gif"
 category: Vocabulary
 ---
 

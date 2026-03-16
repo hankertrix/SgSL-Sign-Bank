@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spirit / Ghost
-image: ./assets/images-of-signs/spirit.gif
+image: "@signs/spirit.gif"
 category: Vocabulary
 ---
 

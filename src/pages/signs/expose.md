@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Expose
-image: ./assets/images-of-signs/expose-variation-1.gif
+image: "@signs/expose-variation-1.gif"
 category: Vocabulary
 ---
 

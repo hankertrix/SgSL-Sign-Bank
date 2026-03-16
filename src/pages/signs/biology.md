@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Biology / Biological
-image: ./assets/images-of-signs/biology.gif
+image: "@signs/biology.gif"
 category: Vocabulary
 family: Science
 ---

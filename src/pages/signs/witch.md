@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Witch
-image: ./assets/images-of-signs/witch.gif
+image: "@signs/witch.gif"
 category: Vocabulary
 ---
 

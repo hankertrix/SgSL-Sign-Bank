@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Very
-image: ./assets/images-of-signs/very.gif
+image: "@signs/very.gif"
 category: Vocabulary
 ---
 

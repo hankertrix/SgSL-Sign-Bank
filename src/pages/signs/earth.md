@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Earth
-image: ./assets/images-of-signs/earth-variation-1.gif
+image: "@signs/earth-variation-1.gif"
 category: Places
 ---
 

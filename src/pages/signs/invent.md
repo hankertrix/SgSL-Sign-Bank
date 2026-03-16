@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Invent
-image: ./assets/images-of-signs/invent-variation-1.gif
+image: "@signs/invent-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Offend / Offense / Offensive / Insult / Affront
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/offend-asl.gif]
+dependentImages: ["@signs/offend-asl.gif"]
 ---
 
 ## Variation 1

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Red packet
-image: ./assets/images-of-signs/red-packet.gif
+image: "@signs/red-packet.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Coffee
-image: ./assets/images-of-signs/coffee.gif
+image: "@signs/coffee.gif"
 category: Food
 ---
 

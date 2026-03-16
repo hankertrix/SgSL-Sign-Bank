@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sense
-image: ./assets/images-of-signs/sense-variation-1.gif
+image: "@signs/sense-variation-1.gif"
 category: Vocabulary
 family: Touch
 ---

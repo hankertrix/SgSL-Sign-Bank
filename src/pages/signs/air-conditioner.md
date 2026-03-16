@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Air conditioner
-image: ./assets/images-of-signs/air-conditioner.gif
+image: "@signs/air-conditioner.gif"
 category: Vocabulary
 ---
 

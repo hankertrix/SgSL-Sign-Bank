@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tonight
-image: ./assets/images-of-signs/tonight.gif
+image: "@signs/tonight.gif"
 category: Vocabulary
 ---
 

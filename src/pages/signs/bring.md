@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bring
-image: ./assets/images-of-signs/bring.gif
+image: "@signs/bring.gif"
 category: Vocabulary
 ---
 

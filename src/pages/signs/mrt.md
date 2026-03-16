@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: MRT / Mass Rapid Transit
-image: ./assets/images-of-signs/mrt-variation-1.gif
+image: "@signs/mrt-variation-1.gif"
 category: Vocabulary
 ---
 

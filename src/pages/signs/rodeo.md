@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rodeo
-image: ./assets/images-of-signs/rodeo.gif
+image: "@signs/rodeo.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Noon
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/afternoon.gif]
+dependentImages: ["@signs/afternoon.gif"]
 ---
 
 Similar to ["afternoon"](./afternoon), which is shown below,

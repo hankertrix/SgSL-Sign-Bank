@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Potato
-image: ./assets/images-of-signs/potato.gif
+image: "@signs/potato.gif"
 category: Food
 ---
 

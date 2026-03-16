@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Close (adjective)
-image: ./assets/images-of-signs/close-adjective.gif
+image: "@signs/close-adjective-variation-1.gif"
 category: Vocabulary
 ---
 

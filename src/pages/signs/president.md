@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: President
-image: ./assets/images-of-signs/president.gif
+image: "@signs/president.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Early
-image: ./assets/images-of-signs/early-variation-1.gif
+image: "@signs/early-variation-1.gif"
 category: Vocabulary
 ---
 

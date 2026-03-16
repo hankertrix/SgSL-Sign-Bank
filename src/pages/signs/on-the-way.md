@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: On the way
-image: ./assets/images-of-signs/merdeaf-on-the-way.png
+image: "@signs/merdeaf-on-the-way.png"
 category: Short expressions
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mask
-image: ./assets/images-of-signs/mask.gif
+image: "@signs/mask.gif"
 category: Vocabulary
 ---
 

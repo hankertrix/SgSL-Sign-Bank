@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Empower
-image: ./assets/images-of-signs/empower.gif
+image: "@signs/empower.gif"
 category: Vocabulary
 ---
 

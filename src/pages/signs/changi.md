@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Changi
-image: ./assets/images-of-signs/changi.gif
+image: "@signs/changi.gif"
 category: Places
 ---
 

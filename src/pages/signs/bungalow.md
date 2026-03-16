@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bungalow
-image: ./assets/images-of-signs/bungalow.gif
+image: "@signs/bungalow.gif"
 category: Vocabulary
 ---
 

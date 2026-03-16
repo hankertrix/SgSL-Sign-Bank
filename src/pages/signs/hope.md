@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hope
-image: ./assets/images-of-signs/hope-variation-1.gif
+image: "@signs/hope-variation-1.gif"
 category: Vocabulary
 ---
 

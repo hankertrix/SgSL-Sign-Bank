@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Road
-image: ./assets/images-of-signs/road-variation-1.gif
+image: "@signs/road-variation-1.gif"
 category: Vocabulary
 family: Way
 ---

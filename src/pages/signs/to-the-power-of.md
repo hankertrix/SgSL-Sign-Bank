@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: To the power of
-image: ./assets/images-of-signs/to-the-power-of.gif
+image: "@signs/to-the-power-of.gif"
 category: Mathematical symbols
 ---
 

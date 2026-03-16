@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cheap
-image: ./assets/images-of-signs/cheap.gif
+image: "@signs/cheap.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Large intestine
-image: ./assets/images-of-signs/large-intestine-variation-1.gif
+image: "@signs/large-intestine-variation-1.gif"
 category: Body parts
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tree
-image: ./assets/images-of-signs/tree.gif
+image: "@signs/tree.gif"
 category: Vocabulary
 ---
 

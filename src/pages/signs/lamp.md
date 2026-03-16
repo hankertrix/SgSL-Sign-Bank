@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lamp
-image: ./assets/images-of-signs/lamp.gif
+image: "@signs/lamp.gif"
 category: Vocabulary
 ---
 

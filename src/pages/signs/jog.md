@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jog
-image: ./assets/images-of-signs/jog.gif
+image: "@signs/jog.gif"
 category: Vocabulary
 ---
 

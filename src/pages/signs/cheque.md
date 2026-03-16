@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cheque
-image: ./assets/images-of-signs/cheque.gif
+image: "@signs/cheque.gif"
 category: Vocabulary
 ---
 

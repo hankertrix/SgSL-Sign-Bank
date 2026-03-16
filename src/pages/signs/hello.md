@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hello
-image: ./assets/images-of-signs/hello.gif
+image: "@signs/hello.gif"
 category: Greetings
 ---
 

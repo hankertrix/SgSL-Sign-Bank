@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Partner
-image: ./assets/images-of-signs/partner.gif
+image: "@signs/partner.gif"
 category: Vocabulary
 ---
 

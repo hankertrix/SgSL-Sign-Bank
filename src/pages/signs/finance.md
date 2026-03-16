@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Finance
-image: ./assets/images-of-signs/finance.gif
+image: "@signs/finance.gif"
 category: Vocabulary
 ---
 

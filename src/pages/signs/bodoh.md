@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bodoh
-image: ./assets/images-of-signs/merdeaf-bodoh.png
+image: "@signs/merdeaf-bodoh.png"
 category: Singlish
 ---
 

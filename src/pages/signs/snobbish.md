@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Snobbish
-image: ./assets/images-of-signs/snobbish.gif
+image: "@signs/snobbish.gif"
 category: Vocabulary
 ---
 

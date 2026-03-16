@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kiss
-image: ./assets/images-of-signs/kiss-variation-1.gif
+image: "@signs/kiss-variation-1.gif"
 category: Vocabulary
 ---
 

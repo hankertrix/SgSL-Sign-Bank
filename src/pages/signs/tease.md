@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tease
-image: ./assets/images-of-signs/tease.gif
+image: "@signs/tease.gif"
 category: Vocabulary
 ---
 

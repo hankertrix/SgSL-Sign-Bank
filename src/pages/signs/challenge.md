@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Challenge
-image: ./assets/images-of-signs/challenge.gif
+image: "@signs/challenge.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Access / Accessibility
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/enter-variation-1.gif]
+dependentImages: ["@signs/enter-variation-1.gif"]
 ---
 
 Same motion as ["enter"](./enter),

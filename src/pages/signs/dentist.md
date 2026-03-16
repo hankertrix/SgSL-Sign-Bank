@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dentist
-image: ./assets/images-of-signs/dentist-variation-1.gif
+image: "@signs/dentist-variation-1.gif"
 category: Vocabulary
 ---
 

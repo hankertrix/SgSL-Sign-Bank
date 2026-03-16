@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: School (noun)
-image: ./assets/images-of-signs/school-noun-variation-1.gif
+image: "@signs/school-noun-variation-1.gif"
 category: Vocabulary
 family: School
 ---

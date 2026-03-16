@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Casino
-image: ./assets/images-of-signs/casino.gif
+image: "@signs/casino.gif"
 category: Places
 ---
 

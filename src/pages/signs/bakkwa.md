@@ -2,11 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Bakkwa / Bak kwa
 category: Food
-dependentImages:
-  [
-    ./assets/images-of-signs/red-variation-1.gif,
-    ./assets/images-of-signs/pork.gif,
-  ]
+dependentImages: ["@signs/red-variation-1.gif", "@signs/pig.gif"]
 ---
 
 Do the gesture for the first variation of ["red"](./red#variation-1),

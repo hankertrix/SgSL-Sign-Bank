@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Taste
-image: ./assets/images-of-signs/taste-variation-1.gif
+image: "@signs/taste-variation-1.gif"
 category: Vocabulary
 ---
 

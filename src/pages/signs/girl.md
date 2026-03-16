@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Girl
-image: ./assets/images-of-signs/girl.gif
+image: "@signs/girl.gif"
 category: Vocabulary
 ---
 

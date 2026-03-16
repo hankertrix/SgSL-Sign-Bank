@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Crab
-image: ./assets/images-of-signs/crab.gif
+image: "@signs/crab.gif"
 category: Food
 ---
 

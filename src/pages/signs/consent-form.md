@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Consent form
-image: ./assets/images-of-signs/consent-form.gif
+image: "@signs/consent-form.gif"
 category: Vocabulary
 ---
 

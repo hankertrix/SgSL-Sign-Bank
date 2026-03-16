@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Doctor
-image: ./assets/images-of-signs/doctor.gif
+image: "@signs/doctor.gif"
 category: Vocabulary
 ---
 

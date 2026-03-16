@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Add / Plus
-image: ./assets/images-of-signs/add-variation-1.gif
+image: "@signs/add-variation-1.gif"
 category: Mathematical symbols
 ---
 

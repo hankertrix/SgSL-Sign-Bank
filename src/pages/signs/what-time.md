@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: What time?
-image: ./assets/images-of-signs/what-time.gif
+image: "@signs/what-time.gif"
 category: Simple questions
 ---
 

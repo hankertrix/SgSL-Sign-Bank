@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cold
-image: ./assets/images-of-signs/cold-variation-1.gif
+image: "@signs/cold-variation-1.gif"
 category: Vocabulary
 ---
 

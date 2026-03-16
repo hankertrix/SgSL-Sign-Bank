@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dhoby Ghaut
-image: ./assets/images-of-signs/dhoby-ghaut.gif
+image: "@signs/dhoby-ghaut.gif"
 category: Places
 ---
 

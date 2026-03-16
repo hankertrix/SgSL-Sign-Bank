@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wow
-image: ./assets/images-of-signs/wow-variation-1.gif
+image: "@signs/especially-variation-2.gif"
 category: Vocabulary
 ---
 

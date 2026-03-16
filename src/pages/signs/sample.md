@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sample
-image: ./assets/images-of-signs/sample.gif
+image: "@signs/sample.gif"
 category: Vocabulary
 ---
 

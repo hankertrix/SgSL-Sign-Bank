@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Weightlifting
-image: ./assets/images-of-signs/weightlifting-variation-1.gif
+image: "@signs/weightlifting-variation-1.gif"
 category: Sports
 ---
 

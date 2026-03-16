@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Paper
-image: ./assets/images-of-signs/paper.gif
+image: "@signs/paper.gif"
 category: Vocabulary
 ---
 

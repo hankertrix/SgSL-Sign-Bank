@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tuesday
-image: ./assets/images-of-signs/tuesday.gif
+image: "@signs/tuesday.gif"
 category: Days of the week
 ---
 

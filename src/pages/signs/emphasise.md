@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Emphasise
-image: ./assets/images-of-signs/emphasise.gif
+image: "@signs/emphasise.gif"
 category: Vocabulary
 family: Emphasise
 ---

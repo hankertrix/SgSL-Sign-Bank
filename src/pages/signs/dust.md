@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dust
-image: ./assets/images-of-signs/dust.gif
+image: "@signs/dust.gif"
 category: Vocabulary
 ---
 

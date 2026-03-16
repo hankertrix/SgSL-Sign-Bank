@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Eunos
-image: ./assets/images-of-signs/eunos.gif
+image: "@signs/eunos.gif"
 category: Places
 ---
 

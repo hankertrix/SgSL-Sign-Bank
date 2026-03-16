@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Teh tarik
-image: ./assets/images-of-signs/teh-tarik.gif
+image: "@signs/teh-tarik.gif"
 category: Food
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Overnight
-image: ./assets/images-of-signs/overnight-variation-1.gif
+image: "@signs/overnight-variation-1.gif"
 category: Vocabulary
 ---
 

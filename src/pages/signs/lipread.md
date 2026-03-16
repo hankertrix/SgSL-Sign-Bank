@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lipread
-image: ./assets/images-of-signs/lipread.gif
+image: "@signs/lipread.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Refrigerate
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/winter-variation-1.gif]
+dependentImages: ["@signs/winter-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["winter"](./winter#variation-1),

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Simei
-image: ./assets/images-of-signs/simei.gif
+image: "@signs/simei.gif"
 category: Places
 ---
 

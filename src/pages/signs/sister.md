@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sister
-image: ./assets/images-of-signs/sister.gif
+image: "@signs/sister.gif"
 category: Vocabulary
 ---
 

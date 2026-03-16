@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Another / Other
-image: ./assets/images-of-signs/another.gif
+image: "@signs/another.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Make
-image: ./assets/images-of-signs/make.gif
+image: "@signs/make.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Leaf
-image: ./assets/images-of-signs/leaf.gif
+image: "@signs/leaf.gif"
 category: Vocabulary
 ---
 

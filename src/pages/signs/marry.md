@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Marry / Marriage / Married
-image: ./assets/images-of-signs/marry.gif
+image: "@signs/marry.gif"
 category: Vocabulary
 ---
 

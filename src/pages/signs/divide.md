@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Divide
-image: ./assets/images-of-signs/divide.gif
+image: "@signs/divide.gif"
 category: Mathematical symbols
 ---
 

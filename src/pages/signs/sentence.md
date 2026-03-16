@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sentence
-image: ./assets/images-of-signs/sentence.gif
+image: "@signs/sentence.gif"
 category: Vocabulary
 family: Language
 ---

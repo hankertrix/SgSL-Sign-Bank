@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Crowd
-image: ./assets/images-of-signs/crowd.gif
+image: "@signs/crowd.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Nephew
-image: ./assets/images-of-signs/nephew-variation-1.gif
+image: "@signs/nephew-variation-1.gif"
 category: Vocabulary
 ---
 

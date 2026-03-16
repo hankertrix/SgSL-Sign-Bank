@@ -2,11 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Blackberry
 category: Fruits
-dependentImages:
-  [
-    ./assets/images-of-signs/black-variation-1.gif,
-    ./assets/images-of-signs/berry.gif,
-  ]
+dependentImages: ["@signs/black-variation-1.gif", "@signs/berry.gif"]
 ---
 
 Do the gesture for the first variation of

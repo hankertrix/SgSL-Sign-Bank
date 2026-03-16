@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Season
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/never.gif]
+dependentImages: ["@signs/never.gif"]
 ---
 
 Same motion as ["never"](./never), which is shown below,

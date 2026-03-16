@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Develop / Development
-image: ./assets/images-of-signs/develop-variation-1.gif
+image: "@signs/develop-variation-1.gif"
 category: Vocabulary
 ---
 

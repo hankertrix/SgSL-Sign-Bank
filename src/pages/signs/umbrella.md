@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Umbrella
-image: ./assets/images-of-signs/umbrella.gif
+image: "@signs/umbrella.gif"
 category: Vocabulary
 ---
 

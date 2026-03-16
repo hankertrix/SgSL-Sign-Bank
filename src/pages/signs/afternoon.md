@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Afternoon
-image: ./assets/images-of-signs/afternoon.gif
+image: "@signs/afternoon.gif"
 category: Vocabulary
 ---
 

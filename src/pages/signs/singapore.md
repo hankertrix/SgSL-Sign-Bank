@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Singapore
-image: ./assets/images-of-signs/singapore-variation-1.gif
+image: "@signs/singapore-variation-1.gif"
 category: Places
 family: Island
 ---

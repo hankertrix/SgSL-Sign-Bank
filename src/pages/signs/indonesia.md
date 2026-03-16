@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Indonesia
-image: ./assets/images-of-signs/indonesia.gif
+image: "@signs/indonesia.gif"
 category: Places
 ---
 

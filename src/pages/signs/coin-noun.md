@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Coin (noun)
-image: ./assets/images-of-signs/coin-noun.gif
+image: "@signs/coin-noun.gif"
 category: Vocabulary
 ---
 

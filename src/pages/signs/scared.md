@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Scared
-image: ./assets/images-of-signs/scared-variation-1.gif
+image: "@signs/scared-variation-1.gif"
 category: Vocabulary
 ---
 

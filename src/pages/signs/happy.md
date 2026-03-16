@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Happy
-image: ./assets/images-of-signs/happy-variation-1.gif
+image: "@signs/happy-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Gorilla
-image: ./assets/images-of-signs/gorilla.gif
+image: "@signs/gorilla.gif"
 category: Vocabulary
 ---
 

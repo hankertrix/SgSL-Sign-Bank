@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Primary
-image: ./assets/images-of-signs/primary.gif
+image: "@signs/primary.gif"
 category: Vocabulary
 ---
 

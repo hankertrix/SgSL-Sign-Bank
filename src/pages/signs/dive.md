@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dive
-image: ./assets/images-of-signs/dive-variation-1.gif
+image: "@signs/dive-variation-1.gif"
 category: Vocabulary
 ---
 

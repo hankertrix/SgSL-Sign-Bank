@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Craft
-image: ./assets/images-of-signs/craft.gif
+image: "@signs/craft.gif"
 category: Vocabulary
 family: Draw
 ---

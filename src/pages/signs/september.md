@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: September
-image: ./assets/images-of-signs/september.gif
+image: "@signs/september.gif"
 category: Months of the year
 ---
 

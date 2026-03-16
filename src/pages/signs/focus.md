@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Focus
-image: ./assets/images-of-signs/focus.gif
+image: "@signs/focus.gif"
 category: Vocabulary
 ---
 

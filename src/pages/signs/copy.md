@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Copy
-image: ./assets/images-of-signs/copy.gif
+image: "@signs/copy.gif"
 category: Vocabulary
 ---
 

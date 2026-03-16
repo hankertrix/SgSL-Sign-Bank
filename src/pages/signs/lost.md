@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lost (lost something) / Lose (as in lose something) / Loss
-image: ./assets/images-of-signs/lost-variation-1.gif
+image: "@signs/lost-variation-1.gif"
 category: Vocabulary
 ---
 

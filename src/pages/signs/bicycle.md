@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bicycle / Bike
-image: ./assets/images-of-signs/bicycle-variation-1.gif
+image: "@signs/bicycle-variation-1.gif"
 category: Vocabulary
 ---
 

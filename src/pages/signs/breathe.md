@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Breathe
-image: ./assets/images-of-signs/breathe.gif
+image: "@signs/breathe.gif"
 category: Vocabulary
 ---
 

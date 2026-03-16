@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: No
-image: ./assets/images-of-signs/no.gif
+image: "@signs/no.gif"
 category: Vocabulary
 ---
 

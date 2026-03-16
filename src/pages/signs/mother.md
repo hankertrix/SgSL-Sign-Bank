@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mother
-image: ./assets/images-of-signs/mother.gif
+image: "@signs/mother.gif"
 category: Vocabulary
 ---
 

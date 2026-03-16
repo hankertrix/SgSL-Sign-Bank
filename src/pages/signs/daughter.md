@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Daughter
-image: ./assets/images-of-signs/daughter.gif
+image: "@signs/daughter.gif"
 category: Vocabulary
 ---
 

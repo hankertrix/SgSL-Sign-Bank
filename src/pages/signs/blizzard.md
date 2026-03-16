@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Blizzard
-image: ./assets/images-of-signs/blizzard.gif
+image: "@signs/blizzard.gif"
 category: Vocabulary
 ---
 

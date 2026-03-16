@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Consider
-image: ./assets/images-of-signs/consider.gif
+image: "@signs/consider.gif"
 category: Vocabulary
 ---
 

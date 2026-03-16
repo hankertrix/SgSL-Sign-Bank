@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Deepavali
-image: ./assets/images-of-signs/deepavali-variation-1.gif
+image: "@signs/deepavali-variation-1.gif"
 category: Vocabulary
 ---
 

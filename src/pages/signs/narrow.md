@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Narrow
-image: ./assets/images-of-signs/narrow-variation-1.gif
+image: "@signs/narrow-variation-1.gif"
 category: Vocabulary
 ---
 

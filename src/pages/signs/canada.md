@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Canada
-image: ./assets/images-of-signs/canada.gif
+image: "@signs/canada.gif"
 category: Places
 ---
 

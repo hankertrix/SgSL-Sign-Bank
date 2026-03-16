@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Swimming pool
-image: ./assets/images-of-signs/swimming-pool.gif
+image: "@signs/swimming-pool.gif"
 category: Vocabulary
 ---
 

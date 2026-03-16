@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Once
-image: ./assets/images-of-signs/once.gif
+image: "@signs/once.gif"
 category: Vocabulary
 ---
 

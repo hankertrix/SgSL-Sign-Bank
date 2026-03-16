@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Stupid
-image: ./assets/images-of-signs/stupid.gif
+image: "@signs/stupid.gif"
 category: Vocabulary
 ---
 

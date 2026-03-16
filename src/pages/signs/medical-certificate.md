@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Medical certificate
-image: ./assets/images-of-signs/medical-certificate.gif
+image: "@signs/medical-certificate.gif"
 category: Vocabulary
 ---
 

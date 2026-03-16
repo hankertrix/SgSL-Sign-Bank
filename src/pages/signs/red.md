@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Red
-image: ./assets/images-of-signs/red-variation-1.gif
+image: "@signs/red-variation-1.gif"
 category: Vocabulary
 ---
 

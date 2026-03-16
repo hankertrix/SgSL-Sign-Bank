@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Interesting
-image: ./assets/images-of-signs/interesting.gif
+image: "@signs/interesting.gif"
 category: Vocabulary
 ---
 

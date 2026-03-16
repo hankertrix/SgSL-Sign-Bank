@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Frankly
-image: ./assets/images-of-signs/frankly.gif
+image: "@signs/frankly.gif"
 category: Vocabulary
 ---
 

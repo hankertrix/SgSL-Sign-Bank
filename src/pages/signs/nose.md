@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Nose
-image: ./assets/images-of-signs/nose.gif
+image: "@signs/nose.gif"
 category: Body parts
 ---
 

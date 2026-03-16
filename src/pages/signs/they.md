@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: They / Them
-image: ./assets/images-of-signs/they.gif
+image: "@signs/they.gif"
 category: Vocabulary
 ---
 

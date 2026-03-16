@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: You tiao
-image: ./assets/images-of-signs/you-tiao.gif
+image: "@signs/you-tiao.gif"
 category: Food
 ---
 

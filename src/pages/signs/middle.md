@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Middle
-image: ./assets/images-of-signs/middle-variation-1.gif
+image: "@signs/middle-variation-1.gif"
 category: Vocabulary
 family: Middle
 ---

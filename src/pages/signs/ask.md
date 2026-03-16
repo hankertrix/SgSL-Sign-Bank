@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ask
-image: ./assets/images-of-signs/ask-variation-1.gif
+image: "@signs/ask-variation-1.gif"
 category: Vocabulary
 ---
 

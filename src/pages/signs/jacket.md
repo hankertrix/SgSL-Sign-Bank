@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jacket
-image: ./assets/images-of-signs/jacket.gif
+image: "@signs/jacket.gif"
 category: Clothing
 ---
 

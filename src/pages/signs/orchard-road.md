@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Orchard Road
-image: ./assets/images-of-signs/orchard-place.gif
+image: "@signs/orchard-place.gif"
 category: Places
 ---
 

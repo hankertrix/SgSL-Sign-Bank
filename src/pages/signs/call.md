@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Call / Called
-image: ./assets/images-of-signs/call-variation-1.gif
+image: "@signs/call-variation-1.gif"
 category: Vocabulary
 ---
 

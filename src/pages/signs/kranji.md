@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kranji
-image: ./assets/images-of-signs/kranji.gif
+image: "@signs/kranji.gif"
 category: Places
 ---
 

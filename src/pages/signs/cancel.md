@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cancel
-image: ./assets/images-of-signs/cancel.gif
+image: "@signs/cancel.gif"
 category: Vocabulary
 ---
 

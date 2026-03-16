@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Teochew
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/i-love-you.gif]
+dependentImages: ["@signs/i-love-you.gif"]
 ---
 
 ## Variation 1

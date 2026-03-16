@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fight
-image: ./assets/images-of-signs/fight.gif
+image: "@signs/fight.gif"
 category: Vocabulary
 ---
 

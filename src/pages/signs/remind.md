@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Remind
 category: Vocabulary
 family: Idea
-dependentImages: [./assets/images-of-signs/idea.gif]
+dependentImages: ["@signs/idea.gif"]
 ---
 
 Same motion as ["idea"](./idea),

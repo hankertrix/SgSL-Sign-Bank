@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Remember
-image: ./assets/images-of-signs/remember.gif
+image: "@signs/remember.gif"
 category: Vocabulary
 ---
 

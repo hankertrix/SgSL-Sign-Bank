@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Joo Koon
-image: ./assets/images-of-signs/joo-koon.gif
+image: "@signs/joo-koon.gif"
 category: Places
 ---
 

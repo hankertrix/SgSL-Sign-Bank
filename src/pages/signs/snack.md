@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Snack
-image: ./assets/images-of-signs/snack-variation-1.gif
+image: "@signs/snack-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: He
-image: ./assets/images-of-signs/he-variation-1.gif
+image: "@signs/he-variation-1.gif"
 category: Vocabulary
 ---
 

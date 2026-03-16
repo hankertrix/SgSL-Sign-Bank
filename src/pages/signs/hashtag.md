@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: "Hashtag / #"
-image: ./assets/images-of-signs/hashtag.gif
+image: "@signs/hashtag.gif"
 category: Symbols
 ---
 

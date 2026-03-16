@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Merlion
-image: ./assets/images-of-signs/lion.gif
+image: "@signs/lion.gif"
 category: Vocabulary
 ---
 

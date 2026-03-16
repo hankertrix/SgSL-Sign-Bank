@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Town
-image: ./assets/images-of-signs/town-variation-1.gif
+image: "@signs/town-variation-1.gif"
 category: Places
 ---
 

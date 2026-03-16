@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Down (direction)
-image: ./assets/images-of-signs/down-direction.gif
+image: "@signs/down-direction.gif"
 category: Vocabulary
 ---
 

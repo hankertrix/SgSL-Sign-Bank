@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Now
-image: ./assets/images-of-signs/now-variation-1.gif
+image: "@signs/now-variation-1.gif"
 category: Vocabulary
 ---
 

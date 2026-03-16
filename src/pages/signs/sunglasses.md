@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sunglasses
-image: ./assets/images-of-signs/sunglasses.gif
+image: "@signs/sunglasses.gif"
 category: Vocabulary
 ---
 

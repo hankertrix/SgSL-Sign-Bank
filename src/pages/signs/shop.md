@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Shop
-image: ./assets/images-of-signs/shop.gif
+image: "@signs/shop.gif"
 category: Vocabulary
 ---
 

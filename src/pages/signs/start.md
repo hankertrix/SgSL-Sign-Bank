@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Start
-image: ./assets/images-of-signs/start.gif
+image: "@signs/start.gif"
 category: Vocabulary
 ---
 

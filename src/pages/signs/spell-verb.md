@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spell (verb) / Finger spell
-image: ./assets/images-of-signs/spell-verb.gif
+image: "@signs/spell-verb.gif"
 category: Vocabulary
 ---
 

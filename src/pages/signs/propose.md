@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Propose / Recommend
-image: ./assets/images-of-signs/propose.gif
+image: "@signs/propose.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Path
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/way.gif]
+dependentImages: ["@signs/way.gif"]
 ---
 
 Same motion as ["way"](./way), which is shown below,

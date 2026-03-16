@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sun
-image: ./assets/images-of-signs/sun-variation-1.gif
+image: "@signs/sun-variation-1.gif"
 category: Vocabulary
 ---
 

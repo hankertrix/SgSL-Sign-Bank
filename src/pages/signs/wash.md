@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wash
-image: ./assets/images-of-signs/wash.gif
+image: "@signs/wash.gif"
 category: Vocabulary
 ---
 

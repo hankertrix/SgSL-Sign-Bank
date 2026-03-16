@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lawyer
-image: ./assets/images-of-signs/lawyer.gif
+image: "@signs/lawyer.gif"
 category: Vocabulary
 family: Law
 ---

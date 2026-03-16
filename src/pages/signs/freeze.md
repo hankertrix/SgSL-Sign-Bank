@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Freeze
-image: ./assets/images-of-signs/freeze.gif
+image: "@signs/freeze.gif"
 category: Vocabulary
 ---
 

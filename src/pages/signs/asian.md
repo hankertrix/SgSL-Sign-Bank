@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Asian
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/eurasian.gif]
+dependentImages: ["@signs/eurasian.gif"]
 ---
 
 Same motion as ["Eurasian"](./eurasian), which is shown below,

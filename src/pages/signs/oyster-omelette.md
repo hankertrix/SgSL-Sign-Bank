@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Oyster omelette
 category: Food
-dependentImages: [./assets/images-of-signs/egg-variation-1.gif]
+dependentImages: ["@signs/egg-variation-1.gif"]
 ---
 
 Do the gesture for ["oyster"](./oyster),

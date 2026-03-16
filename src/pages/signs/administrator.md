@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Administrator / Admin
-image: ./assets/images-of-signs/administrator.gif
+image: "@signs/administrator.gif"
 category: Vocabulary
 ---
 

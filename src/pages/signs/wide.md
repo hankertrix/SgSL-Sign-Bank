@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wide
-image: ./assets/images-of-signs/wide.gif
+image: "@signs/wide.gif"
 category: Vocabulary
 ---
 

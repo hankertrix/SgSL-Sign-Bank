@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cheese
-image: ./assets/images-of-signs/cheese-variation-1.gif
+image: "@signs/cheese-variation-1.gif"
 category: Food
 ---
 

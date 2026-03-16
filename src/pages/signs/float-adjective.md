@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Float (adjective)
-image: ./assets/images-of-signs/float-adjective-variation-1.gif
+image: "@signs/float-adjective-variation-1.gif"
 category: Vocabulary
 ---
 

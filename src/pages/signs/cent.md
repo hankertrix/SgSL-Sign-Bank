@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cent
-image: ./assets/images-of-signs/cent.gif
+image: "@signs/cent.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Seldom
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/once.gif]
+dependentImages: ["@signs/once.gif"]
 ---
 
 Exactly the same gesture as ["once"](./once),

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Awake / Wake up / Woke up
-image: ./assets/images-of-signs/awake-variation-1.gif
+image: "@signs/awake-variation-1.gif"
 category: Vocabulary
 ---
 

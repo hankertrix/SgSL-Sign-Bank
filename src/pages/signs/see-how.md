@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: See how
-image: ./assets/images-of-signs/see-how.gif
+image: "@signs/see-how.gif"
 category: Short expressions
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Manufacture
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/make.gif]
+dependentImages: ["@signs/make.gif"]
 ---
 
 Same motion as ["make"](./make), which is shown below,

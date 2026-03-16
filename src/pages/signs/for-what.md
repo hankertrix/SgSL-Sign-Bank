@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: For what? (What for?)
-image: ./assets/images-of-signs/merdeaf-for-what.png
+image: "@signs/merdeaf-for-what.png"
 category: Singlish
 ---
 

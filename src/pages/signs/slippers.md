@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Slippers / Slides
-image: ./assets/images-of-signs/slippers-variation-1.gif
+image: "@signs/slippers-variation-1.gif"
 category: Clothing
 ---
 

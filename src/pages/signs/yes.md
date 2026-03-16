@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Yes
-image: ./assets/images-of-signs/yes-variation-1.gif
+image: "@signs/yes-variation-1.gif"
 category: Vocabulary
 ---
 

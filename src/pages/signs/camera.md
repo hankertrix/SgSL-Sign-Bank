@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Camera
-image: ./assets/images-of-signs/camera.gif
+image: "@signs/camera.gif"
 category: Vocabulary
 ---
 

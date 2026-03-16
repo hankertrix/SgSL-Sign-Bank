@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jam
-image: ./assets/images-of-signs/jam.gif
+image: "@signs/jam.gif"
 category: Vocabulary
 ---
 

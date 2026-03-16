@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Microphone / Mic / Karaoke
-image: ./assets/images-of-signs/microphone-variation-1.gif
+image: "@signs/microphone-variation-1.gif"
 category: Vocabulary
 ---
 

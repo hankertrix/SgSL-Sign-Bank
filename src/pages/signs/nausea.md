@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Nausea / Nauseous
-image: ./assets/images-of-signs/nausea-variation-1.gif
+image: "@signs/nausea-variation-1.gif"
 category: Vocabulary
 ---
 

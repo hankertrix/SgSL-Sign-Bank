@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Prefer
-image: ./assets/images-of-signs/prefer.gif
+image: "@signs/prefer.gif"
 category: Vocabulary
 ---
 

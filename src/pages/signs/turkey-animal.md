@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Turkey (animal)
-image: ./assets/images-of-signs/turkey-animal.gif
+image: "@signs/turkey-animal.gif"
 category: Food
 ---
 

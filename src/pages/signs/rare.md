@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Rare
 category: Vocabulary
 family: Pay
-dependentImages: [./assets/images-of-signs/pay-variation-1.gif]
+dependentImages: ["@signs/pay-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["pay"](./pay#variation-1),

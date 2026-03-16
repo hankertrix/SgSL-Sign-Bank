@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Success / Succeed
-image: ./assets/images-of-signs/success-variation-1.gif
+image: "@signs/success-variation-1.gif"
 category: Vocabulary
 ---
 

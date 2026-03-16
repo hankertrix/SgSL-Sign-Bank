@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Apple
-image: ./assets/images-of-signs/apple-variation-1.gif
+image: "@signs/apple-variation-1.gif"
 category: Vocabulary
 ---
 

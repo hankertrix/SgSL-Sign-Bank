@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Relax lah
-image: ./assets/images-of-signs/merdeaf-relax-lah.png
+image: "@signs/merdeaf-relax-lah.png"
 category: Singlish
 ---
 

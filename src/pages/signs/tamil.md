@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tamil
-image: ./assets/images-of-signs/tamil.gif
+image: "@signs/tamil.gif"
 category: Vocabulary
 family: India
 ---

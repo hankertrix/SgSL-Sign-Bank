@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Library
-image: ./assets/images-of-signs/library.gif
+image: "@signs/library.gif"
 category: Places
 ---
 

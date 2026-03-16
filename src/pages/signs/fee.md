@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fee
-image: ./assets/images-of-signs/fee.gif
+image: "@signs/fee.gif"
 category: Vocabulary
 ---
 

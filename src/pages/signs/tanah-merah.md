@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tanah Merah
-image: ./assets/images-of-signs/tanah-merah.gif
+image: "@signs/tanah-merah.gif"
 category: Places
 ---
 

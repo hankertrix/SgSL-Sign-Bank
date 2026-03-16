@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Badminton
-image: ./assets/images-of-signs/badminton.gif
+image: "@signs/badminton.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Buy
-image: ./assets/images-of-signs/buy-variation-1.gif
+image: "@signs/buy-variation-1.gif"
 category: Vocabulary
 family: Money
 ---

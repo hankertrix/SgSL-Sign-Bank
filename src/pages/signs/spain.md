@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spain
-image: ./assets/images-of-signs/spain.gif
+image: "@signs/spain.gif"
 category: Places
 ---
 

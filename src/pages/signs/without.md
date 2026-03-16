@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Without
-image: ./assets/images-of-signs/without.gif
+image: "@signs/without.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sports
-image: ./assets/images-of-signs/sports.gif
+image: "@signs/sports.gif"
 category: Vocabulary
 ---
 

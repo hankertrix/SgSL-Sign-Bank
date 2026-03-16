@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tired
-image: ./assets/images-of-signs/tired.gif
+image: "@signs/tired.gif"
 category: Vocabulary
 ---
 

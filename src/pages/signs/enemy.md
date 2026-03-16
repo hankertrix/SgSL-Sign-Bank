@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Enemy
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/opposite.gif]
+dependentImages: ["@signs/opposite.gif"]
 ---
 
 Same motion as ["opposite"](./opposite),

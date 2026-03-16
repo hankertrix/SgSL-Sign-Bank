@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lend
-image: ./assets/images-of-signs/lend.gif
+image: "@signs/lend.gif"
 category: Vocabulary
 ---
 

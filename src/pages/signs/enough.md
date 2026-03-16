@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Enough
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/full-variation-1.gif]
+dependentImages: ["@signs/full-variation-1.gif"]
 ---
 
 Similar motion to the first variation of ["full"](./full#variation-1),

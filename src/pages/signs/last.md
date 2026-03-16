@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Last
-image: ./assets/images-of-signs/last-variation-1.gif
+image: "@signs/last-variation-1.gif"
 category: Vocabulary
 ---
 

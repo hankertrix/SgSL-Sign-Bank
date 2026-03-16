@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Car
-image: ./assets/images-of-signs/car.gif
+image: "@signs/car.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Watch (noun) / Wristwatch
-image: ./assets/images-of-signs/watch-noun.gif
+image: "@signs/watch-noun.gif"
 category: Clothing
 ---
 

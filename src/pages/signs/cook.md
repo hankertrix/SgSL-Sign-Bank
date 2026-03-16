@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cook
-image: ./assets/images-of-signs/cook.gif
+image: "@signs/cook.gif"
 category: Vocabulary
 ---
 

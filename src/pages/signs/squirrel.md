@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Squirrel
-image: ./assets/images-of-signs/squirrel.gif
+image: "@signs/squirrel.gif"
 category: Vocabulary
 ---
 

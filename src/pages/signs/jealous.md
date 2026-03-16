@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jealous
-image: ./assets/images-of-signs/jealous-variation-1.gif
+image: "@signs/jealous-variation-1.gif"
 category: Vocabulary
 ---
 

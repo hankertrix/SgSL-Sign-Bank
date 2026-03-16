@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Programme / Program
-image: ./assets/images-of-signs/programme.gif
+image: "@signs/programme.gif"
 category: Vocabulary
 ---
 

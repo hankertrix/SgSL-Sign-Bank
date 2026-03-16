@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Senior
-image: ./assets/images-of-signs/senior.gif
+image: "@signs/senior.gif"
 category: Vocabulary
 family: Senior
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Salt
-image: ./assets/images-of-signs/salt.gif
+image: "@signs/salt.gif"
 category: Food
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fried carrot cake
-image: ./assets/images-of-signs/fried-carrot-cake.gif
+image: "@signs/fried-carrot-cake.gif"
 category: Food
 ---
 

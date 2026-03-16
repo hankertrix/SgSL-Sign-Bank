@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Zip / Zipper
-image: ./assets/images-of-signs/zip.gif
+image: "@signs/zip.gif"
 category: Clothing
 ---
 

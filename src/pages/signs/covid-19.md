@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: COVID-19
-image: ./assets/images-of-signs/covid-19-variation-1.gif
+image: "@signs/covid-19-variation-1.gif"
 category: Vocabulary
 ---
 

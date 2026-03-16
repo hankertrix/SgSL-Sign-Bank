@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: When
-image: ./assets/images-of-signs/when.gif
+image: "@signs/when.gif"
 category: Vocabulary
 ---
 

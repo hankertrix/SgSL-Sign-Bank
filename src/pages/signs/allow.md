@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Allow
-image: ./assets/images-of-signs/allow.gif
+image: "@signs/allow.gif"
 category: Vocabulary
 family: Allow
 ---

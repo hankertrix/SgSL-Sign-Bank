@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pie
-image: ./assets/images-of-signs/pie.gif
+image: "@signs/pie.gif"
 category: Food
 ---
 

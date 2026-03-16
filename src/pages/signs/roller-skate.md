@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Roller-skate
-image: ./assets/images-of-signs/roller-skate.gif
+image: "@signs/roller-skate.gif"
 category: Vocabulary
 ---
 

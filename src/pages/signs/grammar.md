@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Grammar
-image: ./assets/images-of-signs/grammar.gif
+image: "@signs/grammar.gif"
 category: Vocabulary
 family: Language
 ---

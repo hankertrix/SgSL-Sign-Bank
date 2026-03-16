@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Compare
-image: ./assets/images-of-signs/compare.gif
+image: "@signs/compare.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Verb / Verbal
-image: ./assets/images-of-signs/verb.gif
+image: "@signs/verb.gif"
 category: Vocabulary
 ---
 

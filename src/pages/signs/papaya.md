@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Papaya
-image: ./assets/images-of-signs/papaya-variation-1.gif
+image: "@signs/papaya-variation-1.gif"
 category: Fruits
 ---
 

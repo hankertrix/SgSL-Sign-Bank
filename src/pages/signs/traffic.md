@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Traffic
-image: ./assets/images-of-signs/traffic.gif
+image: "@signs/traffic.gif"
 category: Vocabulary
 ---
 

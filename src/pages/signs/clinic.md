@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Clinic
-image: ./assets/images-of-signs/clinic.gif
+image: "@signs/clinic.gif"
 category: Vocabulary
 ---
 

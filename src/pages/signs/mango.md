@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mango
-image: ./assets/images-of-signs/mango-variation-1.gif
+image: "@signs/mango-variation-1.gif"
 category: Fruits
 ---
 

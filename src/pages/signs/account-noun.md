@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Account (noun)
-image: ./assets/images-of-signs/account-noun.gif
+image: "@signs/account-noun.gif"
 category: Vocabulary
 ---
 

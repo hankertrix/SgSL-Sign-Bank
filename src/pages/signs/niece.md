@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Niece
-image: ./assets/images-of-signs/niece-variation-1.gif
+image: "@signs/niece-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Nasi lemak
-image: ./assets/images-of-signs/nasi-lemak.gif
+image: "@signs/nasi-lemak.gif"
 category: Food
 ---
 

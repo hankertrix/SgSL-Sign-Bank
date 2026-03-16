@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Degree Celsius
-image: ./assets/images-of-signs/degree-celsius.gif
+image: "@signs/degree-celsius.gif"
 category: Vocabulary
 ---
 

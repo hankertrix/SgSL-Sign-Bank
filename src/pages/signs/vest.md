@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Vest
-image: ./assets/images-of-signs/vest.gif
+image: "@signs/vest.gif"
 category: Clothing
 ---
 

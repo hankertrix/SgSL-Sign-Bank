@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Follow
-image: ./assets/images-of-signs/follow.gif
+image: "@signs/follow.gif"
 category: Vocabulary
 ---
 

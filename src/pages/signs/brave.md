@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Brave
-image: ./assets/images-of-signs/brave.gif
+image: "@signs/brave.gif"
 category: Vocabulary
 ---
 

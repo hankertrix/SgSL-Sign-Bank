@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Collar
-image: ./assets/images-of-signs/collar-variation-1.gif
+image: "@signs/collar-variation-1.gif"
 category: Clothing
 ---
 

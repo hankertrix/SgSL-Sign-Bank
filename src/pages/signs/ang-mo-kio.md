@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ang Mo Kio
-image: ./assets/images-of-signs/ang-mo-kio.gif
+image: "@signs/ang-mo-kio.gif"
 category: Places
 ---
 

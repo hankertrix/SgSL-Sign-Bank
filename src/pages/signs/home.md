@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Home
-image: ./assets/images-of-signs/home.gif
+image: "@signs/home.gif"
 category: Vocabulary
 ---
 

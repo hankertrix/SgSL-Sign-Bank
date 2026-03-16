@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Ship
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/boat.gif]
+dependentImages: ["@signs/boat.gif"]
 ---
 
 Similar to ["boat"](./boat), which is shown below,

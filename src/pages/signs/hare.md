@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hare
-image: ./assets/images-of-signs/hare.gif
+image: "@signs/hare.gif"
 category: Vocabulary
 ---
 

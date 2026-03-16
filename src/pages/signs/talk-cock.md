@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Talk cock
-image: ./assets/images-of-signs/merdeaf-talk-cock.png
+image: "@signs/merdeaf-talk-cock.png"
 category: Singlish
 ---
 

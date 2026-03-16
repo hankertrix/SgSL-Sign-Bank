@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lee Kuan Yew
-image: ./assets/images-of-signs/lee-kuan-yew-variation-1.gif
+image: "@signs/lee-kuan-yew-variation-1.gif"
 category: Vocabulary
 ---
 

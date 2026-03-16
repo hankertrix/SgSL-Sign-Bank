@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Idea
-image: ./assets/images-of-signs/idea.gif
+image: "@signs/idea.gif"
 category: Vocabulary
 family: Idea
 ---

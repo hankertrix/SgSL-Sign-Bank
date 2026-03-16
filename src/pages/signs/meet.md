@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Meet / Encounter
-image: ./assets/images-of-signs/meet-variation-1.gif
+image: "@signs/meet-variation-1.gif"
 category: Vocabulary
 ---
 

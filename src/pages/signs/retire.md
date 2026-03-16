@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Retire
-image: ./assets/images-of-signs/retire.gif
+image: "@signs/retire.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hold
-image: ./assets/images-of-signs/hold-variation-1.gif
+image: "@signs/hold-variation-1.gif"
 category: Vocabulary
 ---
 

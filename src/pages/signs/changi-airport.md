@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Changi Airport
-image: ./assets/images-of-signs/changi-airport-variation-1.gif
+image: "@signs/changi-airport-variation-1.gif"
 category: Places
 ---
 

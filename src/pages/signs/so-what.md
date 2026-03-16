@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: So what? / So? / Well...
-image: ./assets/images-of-signs/so-what.gif
+image: "@signs/so-what.gif"
 category: Vocabulary
 ---
 

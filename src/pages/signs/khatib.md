@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Khatib
-image: ./assets/images-of-signs/khatib.gif
+image: "@signs/khatib.gif"
 category: Places
 ---
 

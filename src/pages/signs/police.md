@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Police / Cop
-image: ./assets/images-of-signs/police.gif
+image: "@signs/police.gif"
 category: Vocabulary
 ---
 

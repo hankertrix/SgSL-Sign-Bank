@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Since / So far
-image: ./assets/images-of-signs/since.gif
+image: "@signs/since.gif"
 category: Vocabulary
 ---
 

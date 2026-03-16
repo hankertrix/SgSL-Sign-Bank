@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Remove
-image: ./assets/images-of-signs/remove.gif
+image: "@signs/remove.gif"
 category: Vocabulary
 ---
 

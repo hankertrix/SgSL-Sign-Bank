@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Restaurant
-image: ./assets/images-of-signs/restaurant.gif
+image: "@signs/restaurant.gif"
 category: Vocabulary
 family: Restaurant
 ---

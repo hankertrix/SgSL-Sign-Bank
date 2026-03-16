@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cancer
-image: ./assets/images-of-signs/cancer.gif
+image: "@signs/cancer.gif"
 category: Vocabulary
 ---
 

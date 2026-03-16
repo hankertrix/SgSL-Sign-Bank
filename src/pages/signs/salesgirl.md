@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Salesgirl / Saleslady
-image: ./assets/images-of-signs/salesgirl.gif
+image: "@signs/salesgirl.gif"
 category: Vocabulary
 ---
 

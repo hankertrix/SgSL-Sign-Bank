@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Norway
-image: ./assets/images-of-signs/norway.gif
+image: "@signs/norway.gif"
 category: Places
 ---
 

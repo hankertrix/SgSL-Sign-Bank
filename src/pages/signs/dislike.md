@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dislike
-image: ./assets/images-of-signs/dislike.gif
+image: "@signs/dislike.gif"
 category: Vocabulary
 ---
 

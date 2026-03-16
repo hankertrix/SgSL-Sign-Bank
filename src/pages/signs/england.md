@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: England
-image: ./assets/images-of-signs/england.gif
+image: "@signs/england.gif"
 category: Places
 ---
 

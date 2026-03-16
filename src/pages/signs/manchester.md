@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Manchester
-image: ./assets/images-of-signs/manchester.gif
+image: "@signs/manchester.gif"
 category: Places
 ---
 

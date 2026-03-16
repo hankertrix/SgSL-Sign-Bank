@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Email
-image: ./assets/images-of-signs/email-variation-1.gif
+image: "@signs/email-variation-1.gif"
 category: Vocabulary
 ---
 

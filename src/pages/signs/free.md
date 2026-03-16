@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Free
-image: ./assets/images-of-signs/free.gif
+image: "@signs/free.gif"
 category: Vocabulary
 family: Free
 ---

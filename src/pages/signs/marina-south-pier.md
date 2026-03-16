@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Marina South Pier
-image: ./assets/images-of-signs/marina-south-pier.gif
+image: "@signs/marina-south-pier.gif"
 category: Places
 ---
 

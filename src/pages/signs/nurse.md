@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Nurse
-image: ./assets/images-of-signs/nurse.gif
+image: "@signs/nurse.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: North
-image: ./assets/images-of-signs/north.gif
+image: "@signs/north.gif"
 category: Vocabulary
 ---
 

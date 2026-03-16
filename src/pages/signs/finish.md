@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Finish / Done / Over
-image: ./assets/images-of-signs/finish-variation-1.gif
+image: "@signs/finish-variation-1.gif"
 family:
   variation-1: Finish (variation 1)
   variation-2: Finish (variation 2)

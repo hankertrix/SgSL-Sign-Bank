@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Basket
-image: ./assets/images-of-signs/basket.gif
+image: "@signs/basket.gif"
 category: Vocabulary
 ---
 

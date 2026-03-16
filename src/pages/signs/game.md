@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Game
-image: ./assets/images-of-signs/game-variation-1.gif
+image: "@signs/game-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sky
-image: ./assets/images-of-signs/sky-variation-1.gif
+image: "@signs/sky-variation-1.gif"
 category: Vocabulary
 ---
 

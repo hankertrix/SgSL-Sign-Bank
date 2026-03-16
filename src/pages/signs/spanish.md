@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spanish
-image: ./assets/images-of-signs/spanish.gif
+image: "@signs/spanish.gif"
 category: Vocabulary
 ---
 

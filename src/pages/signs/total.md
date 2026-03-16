@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Total
-image: ./assets/images-of-signs/total.gif
+image: "@signs/total.gif"
 category: Vocabulary
 ---
 

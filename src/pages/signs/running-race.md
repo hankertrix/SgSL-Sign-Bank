@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Race (as in running race)
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/talk.gif]
+dependentImages: ["@signs/talk.gif"]
 ---
 
 Same motion as ["talk"](./talk), which is shown below,

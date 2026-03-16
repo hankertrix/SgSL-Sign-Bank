@@ -2,11 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Chinatown
 category: Places
-dependentImages:
-  [
-    ./assets/images-of-signs/china.gif,
-    ./assets/images-of-signs/town-variation-1.gif,
-  ]
+dependentImages: ["@signs/china.gif", "@signs/town-variation-1.gif"]
 ---
 
 Do the gesture for ["China"](./china),

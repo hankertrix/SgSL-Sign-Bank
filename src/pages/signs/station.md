@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Station
-image: ./assets/images-of-signs/station.gif
+image: "@signs/station.gif"
 category: Vocabulary
 family: Museum
 ---

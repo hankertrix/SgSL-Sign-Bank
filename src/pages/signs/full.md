@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Full
-image: ./assets/images-of-signs/full-variation-1.gif
+image: "@signs/full-variation-1.gif"
 category: Vocabulary
 ---
 

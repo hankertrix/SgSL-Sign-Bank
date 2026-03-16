@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bonus
-image: ./assets/images-of-signs/bonus.gif
+image: "@signs/bonus.gif"
 category: Vocabulary
 ---
 

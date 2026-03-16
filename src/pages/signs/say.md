@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Say / Hearing person
-image: ./assets/images-of-signs/say.gif
+image: "@signs/say.gif"
 category: Vocabulary
 ---
 

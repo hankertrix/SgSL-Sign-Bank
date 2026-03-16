@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Divorce
-image: ./assets/images-of-signs/divorce-variation-1.gif
+image: "@signs/divorce-variation-1.gif"
 category: Vocabulary
 ---
 

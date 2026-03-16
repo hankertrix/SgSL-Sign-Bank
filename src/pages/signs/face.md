@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Face
-image: ./assets/images-of-signs/face.gif
+image: "@signs/face.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cycle (verb)
-image: ./assets/images-of-signs/cycle-verb.gif
+image: "@signs/cycle-verb.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Near
-image: ./assets/images-of-signs/near.gif
+image: "@signs/near.gif"
 category: Vocabulary
 ---
 

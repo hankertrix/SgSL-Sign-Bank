@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Need / Must / Have to / Require / Necessary / Compulsory
-image: ./assets/images-of-signs/must.gif
+image: "@signs/need.gif"
 category: Vocabulary
 ---
 

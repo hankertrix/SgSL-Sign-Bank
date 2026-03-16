@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Emotion / Emotions / Emotional
-image: ./assets/images-of-signs/emotion-variation-1.gif
+image: "@signs/emotion-variation-1.gif"
 category: Vocabulary
 ---
 

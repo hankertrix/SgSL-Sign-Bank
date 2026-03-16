@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Toy
 category: Vocabulary
 family: Party
-dependentImages: [./assets/images-of-signs/party.gif]
+dependentImages: ["@signs/party.gif"]
 ---
 
 Same motion as ["party"](./party),

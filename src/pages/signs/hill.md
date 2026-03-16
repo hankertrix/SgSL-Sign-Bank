@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hill
-image: ./assets/images-of-signs/hill-variation-1.gif
+image: "@signs/hill-variation-1.gif"
 category: Vocabulary
 ---
 

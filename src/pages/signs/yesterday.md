@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Yesterday
-image: ./assets/images-of-signs/yesterday.gif
+image: "@signs/yesterday.gif"
 category: Vocabulary
 ---
 

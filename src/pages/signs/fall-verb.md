@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fall (verb)
-image: ./assets/images-of-signs/fall-verb-variation-1.gif
+image: "@signs/fall-verb-variation-1.gif"
 category: Vocabulary
 ---
 

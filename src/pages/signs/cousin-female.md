@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Cousin (female)
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/cousin-male-variation-1.gif]
+dependentImages: ["@signs/cousin-male-variation-1.gif"]
 ---
 
 Same motion as the first variation of

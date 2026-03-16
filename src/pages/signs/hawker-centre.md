@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hawker centre
-image: ./assets/images-of-signs/hawker-centre.gif
+image: "@signs/hawker-centre.gif"
 category: Places
 ---
 

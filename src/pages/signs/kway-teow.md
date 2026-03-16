@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Kway Teow
 category: Food
-dependentImages: [./assets/images-of-signs/noodles-variation-1.gif]
+dependentImages: ["@signs/noodles-variation-1.gif"]
 ---
 
 ## Variation 1

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: About
-image: ./assets/images-of-signs/about.gif
+image: "@signs/about.gif"
 category: Vocabulary
 ---
 

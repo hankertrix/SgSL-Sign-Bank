@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hen
-image: ./assets/images-of-signs/hen-variation-1.gif
+image: "@signs/hen-variation-1.gif"
 category: Vocabulary
 ---
 

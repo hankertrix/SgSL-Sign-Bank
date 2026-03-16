@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: France / French
-image: ./assets/images-of-signs/france-variation-1.gif
+image: "@signs/france-variation-1.gif"
 category: Places
 ---
 

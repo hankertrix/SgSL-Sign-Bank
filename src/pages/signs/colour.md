@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Colour
-image: ./assets/images-of-signs/colour.gif
+image: "@signs/colour.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Boon Lay
-image: ./assets/images-of-signs/boon-lay.gif
+image: "@signs/boon-lay.gif"
 category: Places
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Project
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/programme.gif]
+dependentImages: ["@signs/programme.gif"]
 ---
 
 Similar motion to the gesture for ["programme"](./programme),

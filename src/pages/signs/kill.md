@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kill
-image: ./assets/images-of-signs/kill.gif
+image: "@signs/kill.gif"
 category: Vocabulary
 ---
 

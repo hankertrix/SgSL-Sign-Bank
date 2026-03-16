@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Handkerchief
-image: ./assets/images-of-signs/handkerchief.gif
+image: "@signs/handkerchief.gif"
 category: Clothing
 ---
 

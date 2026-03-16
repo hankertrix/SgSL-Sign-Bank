@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Somebody
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/some.gif, ./assets/images-of-signs/body.gif]
+dependentImages: ["@signs/some.gif", "@signs/body.gif"]
 ---
 
 Do the gesture for ["some"](./some), which is the first image below

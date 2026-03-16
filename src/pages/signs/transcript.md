@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Transcript
 category: Vocabulary
 family: Museum
-dependentImages: [./assets/images-of-signs/museum.gif]
+dependentImages: ["@signs/museum.gif"]
 ---
 
 Same motion as ["museum"](./museum), which is shown below,

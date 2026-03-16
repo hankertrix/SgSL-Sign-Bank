@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Everything
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/every.gif, ./assets/images-of-signs/thing.gif]
+dependentImages: ["@signs/every.gif", "@signs/thing.gif"]
 ---
 
 Do the gesture for ["every"](./every), the first image below,

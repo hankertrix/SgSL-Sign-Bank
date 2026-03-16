@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Born / Birth
-image: ./assets/images-of-signs/born-variation-1.gif
+image: "@signs/born-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Computer
-image: ./assets/images-of-signs/computer.gif
+image: "@signs/computer.gif"
 category: Vocabulary
 family: Improve
 ---

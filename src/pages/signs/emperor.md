@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Emperor
-image: ./assets/images-of-signs/emperor.gif
+image: "@signs/emperor.gif"
 category: Vocabulary
 family: King
 ---

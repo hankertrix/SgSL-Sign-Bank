@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Coach (vehicle)
-image: ./assets/images-of-signs/coach-vehicle.gif
+image: "@signs/coach-vehicle.gif"
 category: Vocabulary
 ---
 

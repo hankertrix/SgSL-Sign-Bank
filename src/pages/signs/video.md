@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Video
-image: ./assets/images-of-signs/video-variation-1.gif
+image: "@signs/video-variation-1.gif"
 category: Vocabulary
 family: Period
 ---

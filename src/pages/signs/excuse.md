@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Excuse / Excuses / Exempt / Exemption
-image: ./assets/images-of-signs/excuse.gif
+image: "@signs/excuse.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hear
-image: ./assets/images-of-signs/hear-variation-1.gif
+image: "@signs/hear-variation-1.gif"
 category: Vocabulary
 family: Hear
 ---

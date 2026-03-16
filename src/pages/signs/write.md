@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Write / Pen
-image: ./assets/images-of-signs/write.gif
+image: "@signs/write.gif"
 category: Vocabulary
 ---
 

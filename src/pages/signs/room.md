@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Room
-image: ./assets/images-of-signs/room.gif
+image: "@signs/room.gif"
 category: Vocabulary
 ---
 

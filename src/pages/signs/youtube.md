@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: YouTube
-image: ./assets/images-of-signs/youtube-variation-1.gif
+image: "@signs/youtube-variation-1.gif"
 category: Brands
 family: Period
 ---

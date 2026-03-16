@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Technology
-image: ./assets/images-of-signs/technology.gif
+image: "@signs/technology.gif"
 category: Vocabulary
 ---
 

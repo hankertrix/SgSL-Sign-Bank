@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Olympics
-image: ./assets/images-of-signs/olympics-variation-1.gif
+image: "@signs/olympics-variation-1.gif"
 category: Sports
 ---
 

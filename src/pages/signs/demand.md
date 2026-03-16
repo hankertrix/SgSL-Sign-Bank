@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Demand
-image: ./assets/images-of-signs/demand.gif
+image: "@signs/demand.gif"
 category: Vocabulary
 ---
 

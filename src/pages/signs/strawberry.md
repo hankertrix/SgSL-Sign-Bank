@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Strawberry
-image: ./assets/images-of-signs/strawberry-variation-1.gif
+image: "@signs/strawberry-variation-1.gif"
 category: Fruits
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Professional / Pro
-image: ./assets/images-of-signs/professional.gif
+image: "@signs/professional.gif"
 category: Vocabulary
 family: Specialise
 ---

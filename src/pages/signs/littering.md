@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Littering / Litter
-image: ./assets/images-of-signs/littering.gif
+image: "@signs/littering.gif"
 category: Vocabulary
 ---
 

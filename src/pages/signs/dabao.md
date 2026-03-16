@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dabao
-image: ./assets/images-of-signs/merdeaf-dabao.png
+image: "@signs/merdeaf-dabao.png"
 category: Singlish
 ---
 

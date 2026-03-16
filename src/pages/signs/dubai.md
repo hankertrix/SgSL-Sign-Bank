@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dubai
-image: ./assets/images-of-signs/dubai.gif
+image: "@signs/dubai.gif"
 category: Places
 ---
 

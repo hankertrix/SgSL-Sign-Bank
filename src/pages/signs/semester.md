@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Semester
 category: Vocabulary
 family: Period
-dependentImages: [./assets/images-of-signs/period-time.gif]
+dependentImages: ["@signs/period-time.gif"]
 ---
 
 Same motion as ["period"](./period-time),

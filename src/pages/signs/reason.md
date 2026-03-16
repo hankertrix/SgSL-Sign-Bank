@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Reason
-image: ./assets/images-of-signs/reason.gif
+image: "@signs/reason.gif"
 category: Vocabulary
 ---
 

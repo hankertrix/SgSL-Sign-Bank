@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Merge
-image: ./assets/images-of-signs/merge.gif
+image: "@signs/merge.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hokkaido
-image: ./assets/images-of-signs/hokkaido.gif
+image: "@signs/hokkaido.gif"
 category: Places
 ---
 

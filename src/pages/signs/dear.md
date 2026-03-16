@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Dear
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/love.gif]
+dependentImages: ["@signs/love.gif"]
 ---
 
 Same motion as ["love"](./love),

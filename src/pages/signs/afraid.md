@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Afraid
-image: ./assets/images-of-signs/afraid.gif
+image: "@signs/afraid.gif"
 category: Vocabulary
 ---
 

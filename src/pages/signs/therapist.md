@@ -2,11 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Therapist / Pathologist
 category: Vocabulary
-dependentImages:
-  [
-    ./assets/images-of-signs/therapy.gif,
-    ./assets/images-of-signs/person-variation-1.gif,
-  ]
+dependentImages: ["@signs/therapy.gif", "@signs/person-variation-1.gif"]
 ---
 
 Do the gesture for ["therapy"](./therapy),

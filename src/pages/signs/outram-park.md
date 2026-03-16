@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Outram Park
-image: ./assets/images-of-signs/outram-park.gif
+image: "@signs/outram-park.gif"
 category: Places
 ---
 

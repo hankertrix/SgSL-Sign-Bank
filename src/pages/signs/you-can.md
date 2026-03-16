@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: You can!
-image: ./assets/images-of-signs/you-can.gif
+image: "@signs/you-can.gif"
 category: Short expressions
 ---
 

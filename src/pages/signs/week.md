@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Week
-image: ./assets/images-of-signs/week.gif
+image: "@signs/week.gif"
 category: Vocabulary
 ---
 

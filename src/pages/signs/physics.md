@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Physics
-image: ./assets/images-of-signs/physics.gif
+image: "@signs/physics.gif"
 category: Vocabulary
 family: Science
 ---

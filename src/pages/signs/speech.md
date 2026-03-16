@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Speech / Oral
-image: ./assets/images-of-signs/speech.gif
+image: "@signs/speech.gif"
 category: Vocabulary
 ---
 

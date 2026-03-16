@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Lift
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/tall-variation-1.gif]
+dependentImages: ["@signs/tall-variation-1.gif"]
 ---
 
 Lift as in an elevator, or a device that moves objects up and down in a building.

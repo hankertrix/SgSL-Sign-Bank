@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Smartphone
-image: ./assets/images-of-signs/smartphone.gif
+image: "@signs/smartphone.gif"
 category: Vocabulary
 ---
 

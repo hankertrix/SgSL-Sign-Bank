@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: During
-image: ./assets/images-of-signs/during.gif
+image: "@signs/during.gif"
 category: Vocabulary
 ---
 

@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Reunion dinner
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/unite.gif, ./assets/images-of-signs/dinner.gif]
+dependentImages: ["@signs/unite.gif", "@signs/dinner.gif"]
 ---
 
 Do the gesture for ["unite"](./unite),

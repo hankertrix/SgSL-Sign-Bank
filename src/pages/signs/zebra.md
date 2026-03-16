@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Zebra
-image: ./assets/images-of-signs/zebra.gif
+image: "@signs/zebra.gif"
 category: Vocabulary
 ---
 

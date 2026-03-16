@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Decrease
-image: ./assets/images-of-signs/decrease.gif
+image: "@signs/decrease.gif"
 category: Vocabulary
 ---
 

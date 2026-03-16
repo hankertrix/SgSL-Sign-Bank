@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Disappointed
-image: ./assets/images-of-signs/disappointed.gif
+image: "@signs/disappointed.gif"
 category: Vocabulary
 ---
 

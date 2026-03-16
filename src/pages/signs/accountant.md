@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Accountant
-image: ./assets/images-of-signs/accountant.gif
+image: "@signs/accountant.gif"
 category: Vocabulary
 ---
 

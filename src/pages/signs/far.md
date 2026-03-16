@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Far
-image: ./assets/images-of-signs/far.gif
+image: "@signs/far.gif"
 category: Vocabulary
 ---
 

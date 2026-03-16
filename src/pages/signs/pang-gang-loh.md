@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pang gang loh
-image: ./assets/images-of-signs/merdeaf-pang-gang-loh.png
+image: "@signs/merdeaf-pang-gang-loh.png"
 category: Singlish
 ---
 

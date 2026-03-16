@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Supper
-image: ./assets/images-of-signs/supper.gif
+image: "@signs/supper.gif"
 category: Vocabulary
 ---
 

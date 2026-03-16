@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Manual alphabet
-image: ./assets/images-of-signs/singapore-sign-language-alphabet.png
+image: "@signs/singapore-sign-language-alphabet.png"
 category: Alphabets
 ---
 

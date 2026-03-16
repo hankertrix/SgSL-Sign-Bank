@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wah lau
-image: ./assets/images-of-signs/alt-merdeaf-wah-lau.gif
+image: "@signs/alt-merdeaf-wah-lau.gif"
 category: Singlish
 ---
 

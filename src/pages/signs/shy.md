@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Shy
-image: ./assets/images-of-signs/shy.gif
+image: "@signs/shy.gif"
 category: Vocabulary
 ---
 

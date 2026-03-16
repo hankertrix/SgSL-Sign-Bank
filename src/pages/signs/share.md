@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Share
-image: ./assets/images-of-signs/share-variation-1.gif
+image: "@signs/share-variation-1.gif"
 category: Vocabulary
 ---
 

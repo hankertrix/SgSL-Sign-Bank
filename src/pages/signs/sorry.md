@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sorry
-image: ./assets/images-of-signs/sorry.gif
+image: "@signs/sorry.gif"
 category: Vocabulary
 ---
 

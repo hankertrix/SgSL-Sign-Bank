@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: No money
-image: ./assets/images-of-signs/no-money-variation-1.gif
+image: "@signs/no-money-variation-1.gif"
 category: Vocabulary
 ---
 

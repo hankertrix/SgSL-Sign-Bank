@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hate
-image: ./assets/images-of-signs/hate.gif
+image: "@signs/hate.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Spoon (noun)
-image: ./assets/images-of-signs/spoon-noun.gif
+image: "@signs/spoon-noun.gif"
 category: Vocabulary
 ---
 

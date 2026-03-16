@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pig / Pork
-image: ./assets/images-of-signs/pig.gif
+image: "@signs/pig.gif"
 category: Vocabulary
 ---
 

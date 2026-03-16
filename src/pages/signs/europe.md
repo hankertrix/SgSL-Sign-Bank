@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Europe / European
-image: ./assets/images-of-signs/europe-variation-1.gif
+image: "@signs/europe-variation-1.gif"
 category: Places
 ---
 

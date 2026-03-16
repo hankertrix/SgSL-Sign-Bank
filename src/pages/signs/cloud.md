@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cloud
-image: ./assets/images-of-signs/cloud.gif
+image: "@signs/cloud.gif"
 category: Vocabulary
 ---
 

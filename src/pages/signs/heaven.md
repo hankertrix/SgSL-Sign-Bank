@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Heaven
-image: ./assets/images-of-signs/heaven.gif
+image: "@signs/heaven.gif"
 category: Vocabulary
 ---
 

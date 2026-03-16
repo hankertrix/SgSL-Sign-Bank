@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Interest (passion) / Interesting
-image: ./assets/images-of-signs/interest.gif
+image: "@signs/interest-passion.gif"
 category: Vocabulary
 ---
 

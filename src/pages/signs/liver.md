@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Liver
-image: ./assets/images-of-signs/liver.gif
+image: "@signs/liver.gif"
 category: Body parts
 ---
 

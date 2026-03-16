@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pasir Ris
-image: ./assets/images-of-signs/pasir-ris.gif
+image: "@signs/pasir-ris.gif"
 category: Places
 ---
 

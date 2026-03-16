@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Court (noun)
-image: ./assets/images-of-signs/court-noun.gif
+image: "@signs/court-noun.gif"
 category: Vocabulary
 family: Balance
 ---

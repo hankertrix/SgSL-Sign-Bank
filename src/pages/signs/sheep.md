@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sheep
-image: ./assets/images-of-signs/sheep.gif
+image: "@signs/sheep.gif"
 category: Vocabulary
 ---
 

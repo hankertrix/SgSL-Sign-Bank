@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pill
-image: ./assets/images-of-signs/pill.gif
+image: "@signs/pill.gif"
 category: Vocabulary
 ---
 

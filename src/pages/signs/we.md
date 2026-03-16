@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: We
-image: ./assets/images-of-signs/we-variation-1.gif
+image: "@signs/we-variation-1.gif"
 category: Vocabulary
 ---
 

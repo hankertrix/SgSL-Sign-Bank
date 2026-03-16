@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Benefit
-image: ./assets/images-of-signs/benefit.gif
+image: "@signs/benefit.gif"
 category: Vocabulary
 ---
 

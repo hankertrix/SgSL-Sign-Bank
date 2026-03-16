@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Future
-image: ./assets/images-of-signs/future.gif
+image: "@signs/future.gif"
 category: Vocabulary
 ---
 

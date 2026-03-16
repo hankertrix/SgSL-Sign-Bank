@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pregnant
-image: ./assets/images-of-signs/pregnant-variation-1.gif
+image: "@signs/pregnant-variation-1.gif"
 category: Vocabulary
 ---
 

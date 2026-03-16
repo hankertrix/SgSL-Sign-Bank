@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tokyo
-image: ./assets/images-of-signs/tokyo-variation-1.gif
+image: "@signs/tokyo-variation-1.gif"
 category: Vocabulary
 ---
 

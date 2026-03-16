@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Breakfast
-image: ./assets/images-of-signs/breakfast.gif
+image: "@signs/breakfast.gif"
 category: Vocabulary
 ---
 

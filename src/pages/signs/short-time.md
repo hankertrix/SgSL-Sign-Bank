@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Short (time)
-image: ./assets/images-of-signs/short-time.gif
+image: "@signs/short-time.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Remote control / Remote (noun)
-image: ./assets/images-of-signs/remote-control.gif
+image: "@signs/remote-control.gif"
 category: Vocabulary
 ---
 

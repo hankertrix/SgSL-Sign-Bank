@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Malay
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/traffic.gif]
+dependentImages: ["@signs/traffic.gif"]
 ---
 
 Similar motion to ["traffic"](./traffic), which is shown below,

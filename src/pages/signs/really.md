@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Really / Real
-image: ./assets/images-of-signs/really-variation-1.gif
+image: "@signs/really-variation-1.gif"
 category: Vocabulary
 ---
 

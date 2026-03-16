@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Educate
-image: ./assets/images-of-signs/educate.gif
+image: "@signs/educate.gif"
 category: Vocabulary
 family: Teach
 ---

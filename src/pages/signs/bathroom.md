@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bathroom
-image: ./assets/images-of-signs/bathroom-variation-1.gif
+image: "@signs/bathroom-variation-1.gif"
 category: Vocabulary
 ---
 

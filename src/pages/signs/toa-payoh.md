@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Toa Payoh
-image: ./assets/images-of-signs/toa-payoh.gif
+image: "@signs/toa-payoh.gif"
 category: Places
 ---
 

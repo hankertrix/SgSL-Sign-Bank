@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Distant
-image: ./assets/images-of-signs/distant.gif
+image: "@signs/distant.gif"
 category: Vocabulary
 ---
 

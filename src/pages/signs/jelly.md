@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jelly
-image: ./assets/images-of-signs/jelly.gif
+image: "@signs/jelly.gif"
 category: Food
 ---
 

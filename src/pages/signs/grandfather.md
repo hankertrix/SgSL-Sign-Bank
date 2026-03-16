@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Grandfather
-image: ./assets/images-of-signs/grandfather.gif
+image: "@signs/grandfather.gif"
 category: Vocabulary
 ---
 

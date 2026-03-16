@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sex
-image: ./assets/images-of-signs/sex-variation-1.gif
+image: "@signs/sex-variation-1.gif"
 category: Vocabulary
 ---
 

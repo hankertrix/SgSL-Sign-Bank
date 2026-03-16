@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bangkok
-image: ./assets/images-of-signs/bangkok.gif
+image: "@signs/bangkok.gif"
 category: Places
 ---
 

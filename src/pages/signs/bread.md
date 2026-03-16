@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bread
-image: ./assets/images-of-signs/bread.gif
+image: "@signs/bread.gif"
 category: Food
 ---
 

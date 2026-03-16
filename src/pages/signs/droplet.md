@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Droplet / Drop (water)
-image: ./assets/images-of-signs/droplet.gif
+image: "@signs/droplet.gif"
 category: Vocabulary
 ---
 

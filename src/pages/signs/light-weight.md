@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Light (weight)
-image: ./assets/images-of-signs/light-weight-variation-1.gif
+image: "@signs/light-weight-variation-1.gif"
 category: Vocabulary
 ---
 

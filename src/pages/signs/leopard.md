@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Leopard
-image: ./assets/images-of-signs/tiger-variation-1.gif
+image: "@signs/tiger-variation-1.gif"
 category: Vocabulary
 ---
 

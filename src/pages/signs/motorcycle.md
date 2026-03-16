@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Motorcycle / Motorbike
-image: ./assets/images-of-signs/motorcycle.gif
+image: "@signs/motorcycle.gif"
 category: Vocabulary
 ---
 

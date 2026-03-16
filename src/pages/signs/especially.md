@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Especially
-image: ./assets/images-of-signs/especially-variation-1.gif
+image: "@signs/especially-variation-1.gif"
 category: Vocabulary
 ---
 

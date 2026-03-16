@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Deep / Proficiency
-image: ./assets/images-of-signs/deep.gif
+image: "@signs/deep.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: News
-image: ./assets/images-of-signs/news-variation-1.gif
+image: "@signs/news-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -7,15 +7,15 @@ import { glob } from "astro/loaders";
 // The collection of signs
 const signs = defineCollection({
 	loader: glob({ pattern: "**/*.{md,mdx}", base: "./src/pages/signs" }),
-	schema: z.object({
+	schema: ({ image }) => z.object({
 		title: z.string().or(z.number()),
-		image: z.string().optional(),
+		image: image().optional(),
 		category: z.string(),
 		family: z
 			.string()
 			.or(z.record(z.string(), z.string().or(z.null())))
 			.optional(),
-		dependentImages: z.array(z.string()).optional(),
+		dependentImages: z.array(image()).optional(),
 	}),
 });
 

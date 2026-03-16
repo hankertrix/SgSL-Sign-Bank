@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Macam
-image: ./assets/images-of-signs/merdeaf-macam.png
+image: "@signs/merdeaf-macam.png"
 category: Singlish
 ---
 

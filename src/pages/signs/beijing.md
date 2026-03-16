@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Beijing
-image: ./assets/images-of-signs/beijing.gif
+image: "@signs/beijing.gif"
 category: Places
 ---
 

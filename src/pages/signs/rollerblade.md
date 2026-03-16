@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rollerblade / Inline skate
-image: ./assets/images-of-signs/rollerblade.gif
+image: "@signs/rollerblade.gif"
 category: Vocabulary
 ---
 

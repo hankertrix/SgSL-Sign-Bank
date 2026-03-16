@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: You don't bluff
-image: ./assets/images-of-signs/you-dont-bluff.gif
+image: "@signs/you-dont-bluff.gif"
 category: Singlish
 ---
 

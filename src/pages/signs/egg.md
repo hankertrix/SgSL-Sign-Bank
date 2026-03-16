@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Egg / Omelette
-image: ./assets/images-of-signs/egg-variation-1.gif
+image: "@signs/egg-variation-1.gif"
 category: Vocabulary
 ---
 

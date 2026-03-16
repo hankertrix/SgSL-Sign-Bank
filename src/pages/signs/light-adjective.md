@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Light (adjective)
-image: ./assets/images-of-signs/light-adjective-variation-1.gif
+image: "@signs/light-adjective-variation-1.gif"
 category: Vocabulary
 ---
 

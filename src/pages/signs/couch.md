@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Couch
-image: ./assets/images-of-signs/couch.gif
+image: "@signs/couch.gif"
 category: Vocabulary
 family: Bench
 ---

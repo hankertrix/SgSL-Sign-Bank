@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Uniform (noun)
-image: ./assets/images-of-signs/uniform-noun.gif
+image: "@signs/uniform-noun.gif"
 category: Clothing
 ---
 

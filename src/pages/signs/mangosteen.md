@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mangosteen
-image: ./assets/images-of-signs/mangosteen.gif
+image: "@signs/mangosteen.gif"
 category: Vocabulary
 ---
 

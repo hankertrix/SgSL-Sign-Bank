@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hunt
-image: ./assets/images-of-signs/hunt.gif
+image: "@signs/hunt.gif"
 category: Vocabulary
 ---
 

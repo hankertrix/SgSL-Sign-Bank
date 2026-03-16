@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Independent
-image: ./assets/images-of-signs/independent.gif
+image: "@signs/independent.gif"
 category: Vocabulary
 family: Free
 ---

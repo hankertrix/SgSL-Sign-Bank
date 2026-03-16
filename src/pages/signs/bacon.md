@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bacon
-image: ./assets/images-of-signs/bacon.gif
+image: "@signs/bacon.gif"
 category: Food
 ---
 

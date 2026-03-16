@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kidding / Kid
-image: ./assets/images-of-signs/kidding.gif
+image: "@signs/kidding.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Have / Has
-image: ./assets/images-of-signs/have-variation-1.gif
+image: "@signs/have-variation-1.gif"
 category: Vocabulary
 ---
 

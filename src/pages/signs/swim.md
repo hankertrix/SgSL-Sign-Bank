@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Swim / Swimming
-image: ./assets/images-of-signs/swim.gif
+image: "@signs/swim.gif"
 category: Sports
 ---
 

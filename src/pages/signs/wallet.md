@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Wallet
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/wallet-asl.gif]
+dependentImages: ["@signs/wallet-asl.gif"]
 ---
 
 Same motion as the American Sign Language (ASL) gesture for wallet below,

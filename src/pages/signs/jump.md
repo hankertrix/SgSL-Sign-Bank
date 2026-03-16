@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Jump
-image: ./assets/images-of-signs/jump.gif
+image: "@signs/jump.gif"
 category: Vocabulary
 ---
 

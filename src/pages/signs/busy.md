@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Busy
-image: ./assets/images-of-signs/busy-variation-1.gif
+image: "@signs/busy-variation-1.gif"
 category: Vocabulary
 ---
 

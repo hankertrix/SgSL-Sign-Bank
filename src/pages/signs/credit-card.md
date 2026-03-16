@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Credit card
-image: ./assets/images-of-signs/credit-card-variation-1.gif
+image: "@signs/credit-card-variation-1.gif"
 category: Vocabulary
 ---
 

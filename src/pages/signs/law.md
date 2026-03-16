@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Law
-image: ./assets/images-of-signs/law.gif
+image: "@signs/law.gif"
 category: Vocabulary
 family: Lesson
 ---

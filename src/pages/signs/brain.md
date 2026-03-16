@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Brain
-image: ./assets/images-of-signs/brain.gif
+image: "@signs/brain.gif"
 category: Body parts
 ---
 

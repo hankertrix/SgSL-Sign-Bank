@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Smart
-image: ./assets/images-of-signs/smart.gif
+image: "@signs/smart.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Aiyah / Aiyoh
-image: ./assets/images-of-signs/merdeaf-aiyah.png
+image: "@signs/merdeaf-aiyah.png"
 category: Singlish
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Stand
-image: ./assets/images-of-signs/stand.gif
+image: "@signs/stand.gif"
 category: Vocabulary
 ---
 

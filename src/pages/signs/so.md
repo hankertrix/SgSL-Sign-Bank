@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: So
-image: ./assets/images-of-signs/so-variation-1.gif
+image: "@signs/so-variation-1.gif"
 category: Vocabulary
 ---
 

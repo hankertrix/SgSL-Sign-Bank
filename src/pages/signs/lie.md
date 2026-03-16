@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lie / Fib
-image: ./assets/images-of-signs/lie-variation-1.gif
+image: "@signs/lie-variation-1.gif"
 category: Vocabulary
 ---
 

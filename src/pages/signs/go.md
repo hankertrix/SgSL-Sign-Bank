@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Go / Went
-image: ./assets/images-of-signs/go-variation-1.gif
+image: "@signs/go-variation-1.gif"
 category: Vocabulary
 ---
 

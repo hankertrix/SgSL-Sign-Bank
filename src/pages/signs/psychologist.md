@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Psychologist / Psychiatrist
-image: ./assets/images-of-signs/psychology.gif
+image: "@signs/psychology.gif"
 category: Vocabulary
 ---
 

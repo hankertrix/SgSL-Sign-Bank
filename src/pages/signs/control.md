@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Control
-image: ./assets/images-of-signs/control.gif
+image: "@signs/control.gif"
 category: Vocabulary
 ---
 

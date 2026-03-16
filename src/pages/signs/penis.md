@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Penis
-image: ./assets/images-of-signs/penis.gif
+image: "@signs/penis.gif"
 category: Body parts
 ---
 

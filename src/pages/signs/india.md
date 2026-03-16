@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: India / Indian
-image: ./assets/images-of-signs/india.gif
+image: "@signs/india.gif"
 category: Places
 family: India
 ---

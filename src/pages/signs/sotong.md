@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sotong
-image: ./assets/images-of-signs/merdeaf-sotong.png
+image: "@signs/merdeaf-sotong.png"
 category: Singlish
 ---
 

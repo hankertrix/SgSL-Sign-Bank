@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Staircase
-image: ./assets/images-of-signs/staircase.gif
+image: "@signs/staircase.gif"
 category: Vocabulary
 ---
 

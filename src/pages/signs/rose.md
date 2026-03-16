@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Rose
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/flower-variation-1.gif]
+dependentImages: ["@signs/flower-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["flower"](./flower#variation-1),

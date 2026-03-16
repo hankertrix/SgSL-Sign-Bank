@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Beef
-image: ./assets/images-of-signs/beef.gif
+image: "@signs/beef.gif"
 category: Food
 ---
 

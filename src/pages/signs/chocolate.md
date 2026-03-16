@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Chocolate
-image: ./assets/images-of-signs/chocolate-variation-1.gif
+image: "@signs/chocolate-variation-1.gif"
 category: Food
 ---
 

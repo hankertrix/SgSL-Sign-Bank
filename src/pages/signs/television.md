@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Television / TV
-image: ./assets/images-of-signs/television.gif
+image: "@signs/television.gif"
 category: Vocabulary
 ---
 

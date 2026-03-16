@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Africa
-image: ./assets/images-of-signs/africa-variation-1.gif
+image: "@signs/africa-variation-1.gif"
 category: Places
 ---
 

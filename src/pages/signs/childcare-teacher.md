@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Childcare teacher
-image: ./assets/images-of-signs/childcare-teacher.gif
+image: "@signs/childcare-teacher.gif"
 category: Vocabulary
 ---
 

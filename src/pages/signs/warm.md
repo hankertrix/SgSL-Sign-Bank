@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Warm
-image: ./assets/images-of-signs/warm.gif
+image: "@signs/warm.gif"
 category: Vocabulary
 ---
 

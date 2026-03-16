@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Age (noun)
-image: ./assets/images-of-signs/age-noun.gif
+image: "@signs/age-noun.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Legs
-image: ./assets/images-of-signs/legs.gif
+image: "@signs/legs.gif"
 category: Body parts
 ---
 

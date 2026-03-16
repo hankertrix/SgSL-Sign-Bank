@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Shirt
-image: ./assets/images-of-signs/shirt-sgsl-variation.gif
+image: "@signs/shirt-sgsl-variation.gif"
 category: Clothing
 ---
 

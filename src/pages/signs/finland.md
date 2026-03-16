@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Finland / Finnish
-image: ./assets/images-of-signs/finland.gif
+image: "@signs/finland.gif"
 category: Places
 ---
 

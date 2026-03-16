@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Break (verb)
-image: ./assets/images-of-signs/break-verb.gif
+image: "@signs/break-verb.gif"
 category: Vocabulary
 ---
 

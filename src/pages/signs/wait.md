@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wait
-image: ./assets/images-of-signs/wait.gif
+image: "@signs/wait.gif"
 category: Vocabulary
 ---
 

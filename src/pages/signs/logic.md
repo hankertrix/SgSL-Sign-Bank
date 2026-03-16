@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Logic
-image: ./assets/images-of-signs/logic.gif
+image: "@signs/logic.gif"
 category: Vocabulary
 ---
 

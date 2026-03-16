@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Friend
-image: ./assets/images-of-signs/friend.gif
+image: "@signs/friend.gif"
 category: Vocabulary
 ---
 

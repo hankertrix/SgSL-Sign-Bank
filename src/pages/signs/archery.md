@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Archery
-image: ./assets/images-of-signs/archery.gif
+image: "@signs/archery.gif"
 category: Sports
 ---
 

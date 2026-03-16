@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wrong
-image: ./assets/images-of-signs/wrong.gif
+image: "@signs/wrong.gif"
 category: Vocabulary
 ---
 

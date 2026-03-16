@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Heavy
-image: ./assets/images-of-signs/heavy.gif
+image: "@signs/heavy.gif"
 category: Vocabulary
 ---
 

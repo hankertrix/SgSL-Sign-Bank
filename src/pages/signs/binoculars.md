@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Binoculars
-image: ./assets/images-of-signs/binoculars.gif
+image: "@signs/binoculars.gif"
 category: Vocabulary
 ---
 

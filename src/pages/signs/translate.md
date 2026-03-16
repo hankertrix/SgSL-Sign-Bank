@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Translate
 category: Vocabulary
 family: Change
-dependentImages: [./assets/images-of-signs/change.gif]
+dependentImages: ["@signs/change.gif"]
 ---
 
 ## Variation 1

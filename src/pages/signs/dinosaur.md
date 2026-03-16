@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dinosaur
-image: ./assets/images-of-signs/dinosaur.gif
+image: "@signs/dinosaur.gif"
 category: Vocabulary
 ---
 

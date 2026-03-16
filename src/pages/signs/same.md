@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Same / Similar / Alike / Like / Me too
-image: ./assets/images-of-signs/same-variation-1.gif
+image: "@signs/same-variation-1.gif"
 category: Vocabulary
 ---
 

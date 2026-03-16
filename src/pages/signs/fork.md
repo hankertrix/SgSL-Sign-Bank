@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fork
-image: ./assets/images-of-signs/fork-variation-1.gif
+image: "@signs/fork-variation-1.gif"
 category: Vocabulary
 ---
 

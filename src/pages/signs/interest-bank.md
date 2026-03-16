@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Interest (bank)
-image: ./assets/images-of-signs/interest-bank.gif
+image: "@signs/interest-bank.gif"
 category: Vocabulary
 ---
 

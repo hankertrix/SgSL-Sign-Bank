@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fax
-image: ./assets/images-of-signs/fax-variation-1.gif
+image: "@signs/fax-variation-1.gif"
 category: Vocabulary
 ---
 

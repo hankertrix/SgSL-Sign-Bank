@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Thirsty
-image: ./assets/images-of-signs/thirsty-variation-1.gif
+image: "@signs/thirsty-variation-1.gif"
 category: Vocabulary
 ---
 

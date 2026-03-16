@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bed
-image: ./assets/images-of-signs/bed-variation-1.gif
+image: "@signs/bed-variation-1.gif"
 category: Vocabulary
 ---
 

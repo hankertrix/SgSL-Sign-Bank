@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Impact
-image: ./assets/images-of-signs/impact.gif
+image: "@signs/impact.gif"
 category: Vocabulary
 ---
 

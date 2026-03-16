@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Beach
-image: ./assets/images-of-signs/beach.gif
+image: "@signs/beach.gif"
 category: Places
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Comb
-image: ./assets/images-of-signs/comb-variation-1.gif
+image: "@signs/comb-variation-1.gif"
 category: Vocabulary
 ---
 

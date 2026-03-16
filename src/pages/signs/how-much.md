@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: How much?
-image: ./assets/images-of-signs/how-much-variation-1.gif
+image: "@signs/how-much-variation-1.gif"
 category: Simple questions
 ---
 

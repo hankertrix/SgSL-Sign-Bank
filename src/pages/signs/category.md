@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Category
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/shape.gif]
+dependentImages: ["@signs/shape.gif"]
 ---
 
 Same motion as ["shape"](./shape),

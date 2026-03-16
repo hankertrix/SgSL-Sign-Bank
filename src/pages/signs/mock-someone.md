@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Mock
-image: ./assets/images-of-signs/mock-someone.gif
+image: "@signs/mock-someone.gif"
 category: Vocabulary
 ---
 

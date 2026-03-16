@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Relax
-image: ./assets/images-of-signs/relax-variation-1.gif
+image: "@signs/relax-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Depressing / Depression
-image: ./assets/images-of-signs/depressing-variation-1.gif
+image: "@signs/depressing-variation-1.gif"
 category: Vocabulary
 ---
 

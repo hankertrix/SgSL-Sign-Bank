@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Big
-image: ./assets/images-of-signs/big-variation-1.gif
+image: "@signs/big-variation-1.gif"
 category: Vocabulary
 ---
 

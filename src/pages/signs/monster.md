@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Monster
-image: ./assets/images-of-signs/monster.gif
+image: "@signs/monster.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bible
-image: ./assets/images-of-signs/bible-variation-1.gif
+image: "@signs/bible-variation-1.gif"
 category: Vocabulary
 ---
 

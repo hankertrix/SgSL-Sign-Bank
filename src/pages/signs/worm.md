@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Worm
-image: ./assets/images-of-signs/worm.gif
+image: "@signs/worm.gif"
 category: Vocabulary
 ---
 

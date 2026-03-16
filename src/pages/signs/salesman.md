@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Salesman
-image: ./assets/images-of-signs/salesman.gif
+image: "@signs/salesman.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Innocent
-image: ./assets/images-of-signs/innocent-variation-1.gif
+image: "@signs/innocent-variation-1.gif"
 category: Vocabulary
 ---
 

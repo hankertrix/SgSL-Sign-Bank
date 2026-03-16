@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Children
-image: ./assets/images-of-signs/children.gif
+image: "@signs/children.gif"
 category: Vocabulary
 ---
 

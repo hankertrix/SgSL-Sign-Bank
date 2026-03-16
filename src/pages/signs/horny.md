@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Horny
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/hungry.gif]
+dependentImages: ["@signs/hungry.gif"]
 ---
 
 Same motion as ["hungry"](./hungry),

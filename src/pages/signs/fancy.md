@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Fancy
-image: ./assets/images-of-signs/fancy.gif
+image: "@signs/fancy.gif"
 category: Vocabulary
 ---
 

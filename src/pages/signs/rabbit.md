@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rabbit
-image: ./assets/images-of-signs/rabbit-variation-1.gif
+image: "@signs/rabbit-variation-1.gif"
 category: Vocabulary
 ---
 

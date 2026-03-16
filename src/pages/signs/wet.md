@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wet
-image: ./assets/images-of-signs/wet-variation-1.gif
+image: "@signs/wet-variation-1.gif"
 category: Vocabulary
 ---
 

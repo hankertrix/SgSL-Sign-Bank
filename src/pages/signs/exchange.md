@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Exchange / Swap
-image: ./assets/images-of-signs/exchange.gif
+image: "@signs/exchange.gif"
 category: Vocabulary
 ---
 

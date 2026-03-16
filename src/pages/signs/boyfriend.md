@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Boyfriend
-image: ./assets/images-of-signs/boyfriend.gif
+image: "@signs/boyfriend.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Progress
-image: ./assets/images-of-signs/progress.gif
+image: "@signs/progress.gif"
 category: Vocabulary
 ---
 

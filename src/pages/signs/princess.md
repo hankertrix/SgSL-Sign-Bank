@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Princess
-image: ./assets/images-of-signs/princess-variation-1.gif
+image: "@signs/princess-variation-1.gif"
 category: Vocabulary
 family: King
 ---

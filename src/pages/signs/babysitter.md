@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Babysitter
-image: ./assets/images-of-signs/babysitter.gif
+image: "@signs/babysitter.gif"
 category: Vocabulary
 ---
 

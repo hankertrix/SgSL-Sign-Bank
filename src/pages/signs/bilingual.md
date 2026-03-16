@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bilingual
-image: ./assets/images-of-signs/bilingual.gif
+image: "@signs/bilingual.gif"
 category: Vocabulary
 ---
 

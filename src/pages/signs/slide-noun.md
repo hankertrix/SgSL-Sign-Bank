@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Slide (noun)
-image: ./assets/images-of-signs/slide-noun.gif
+image: "@signs/slide-noun.gif"
 category: Vocabulary
 ---
 

@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Organise / Organisation
 category: Vocabulary
 family: Class
-dependentImages: [./assets/images-of-signs/class.gif]
+dependentImages: ["@signs/class.gif"]
 ---
 
 Same motion as ["class"](./class), which is shown below,

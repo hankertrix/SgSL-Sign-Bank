@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Chemistry / Chemical
-image: ./assets/images-of-signs/chemistry.gif
+image: "@signs/chemistry.gif"
 category: Vocabulary
 family: Science
 ---

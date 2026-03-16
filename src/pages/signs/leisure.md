@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Leisure
-image: ./assets/images-of-signs/leisure-variation-1.gif
+image: "@signs/leisure-variation-1.gif"
 category: Vocabulary
 family:
   variation-1: Enjoy

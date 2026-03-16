@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Function
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/business-variation-1.gif]
+dependentImages: ["@signs/business-variation-1.gif"]
 ---
 
 Same motion as the first variation of ["business"](./business#variation-1),

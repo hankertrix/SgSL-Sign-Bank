@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: But
-image: ./assets/images-of-signs/but.gif
+image: "@signs/but.gif"
 category: Vocabulary
 ---
 

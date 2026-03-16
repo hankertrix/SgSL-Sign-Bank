@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Speech language pathologist
-image: ./assets/images-of-signs/speech-language-pathologist.gif
+image: "@signs/speech-language-pathologist.gif"
 category: Vocabulary
 ---
 

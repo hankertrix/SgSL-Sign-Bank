@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hooray / Hurrah / Yay
-image: ./assets/images-of-signs/hooray.gif
+image: "@signs/hooray.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Parenthesis / Brackets / ()
-image: ./assets/images-of-signs/parenthesis.gif
+image: "@signs/parenthesis.gif"
 category: Symbols
 ---
 

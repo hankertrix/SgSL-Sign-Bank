@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Build / Building
-image: ./assets/images-of-signs/build.gif
+image: "@signs/build.gif"
 category: Vocabulary
 ---
 

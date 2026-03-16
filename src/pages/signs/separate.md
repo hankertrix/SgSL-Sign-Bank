@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Separate
-image: ./assets/images-of-signs/separate-variation-1.gif
+image: "@signs/separate-variation-1.gif"
 category: Vocabulary
 ---
 

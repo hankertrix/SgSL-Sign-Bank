@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dress (noun)
-image: ./assets/images-of-signs/dress-noun-variation-1.gif
+image: "@signs/dress-noun-variation-1.gif"
 category: Vocabulary
 ---
 

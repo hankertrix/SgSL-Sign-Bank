@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Tennis
-image: ./assets/images-of-signs/tennis.gif
+image: "@signs/tennis.gif"
 category: Sports
 ---
 

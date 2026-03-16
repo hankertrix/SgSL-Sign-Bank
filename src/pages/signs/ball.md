@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Ball
-image: ./assets/images-of-signs/ball.gif
+image: "@signs/ball.gif"
 category: Vocabulary
 ---
 

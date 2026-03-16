@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Please
-image: ./assets/images-of-signs/please.gif
+image: "@signs/please.gif"
 category: Vocabulary
 ---
 

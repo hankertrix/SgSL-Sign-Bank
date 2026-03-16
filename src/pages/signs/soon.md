@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Soon
-image: ./assets/images-of-signs/soon.gif
+image: "@signs/soon.gif"
 category: Vocabulary
 ---
 

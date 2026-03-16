@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Taiwan
-image: ./assets/images-of-signs/taiwan.gif
+image: "@signs/taiwan.gif"
 category: Places
 family: Corn
 ---

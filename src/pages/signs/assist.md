@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Assist / Assistant / Aid
-image: ./assets/images-of-signs/assist.gif
+image: "@signs/assist.gif"
 category: Vocabulary
 ---
 

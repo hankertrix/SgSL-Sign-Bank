@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Trip (noun)
-image: ./assets/images-of-signs/trip-noun.gif
+image: "@signs/trip-noun.gif"
 category: Vocabulary
 ---
 

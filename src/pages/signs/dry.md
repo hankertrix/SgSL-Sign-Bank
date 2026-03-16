@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dry
-image: ./assets/images-of-signs/dry.gif
+image: "@signs/dry.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Transgender
-image: ./assets/images-of-signs/transgender.gif
+image: "@signs/transgender.gif"
 category: Vocabulary
 ---
 

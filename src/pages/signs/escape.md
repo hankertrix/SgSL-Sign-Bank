@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Escape
-image: ./assets/images-of-signs/escape.gif
+image: "@signs/escape.gif"
 category: Vocabulary
 ---
 

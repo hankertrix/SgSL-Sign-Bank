@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Huat ah
-image: ./assets/images-of-signs/merdeaf-huat-ah.png
+image: "@signs/merdeaf-huat-ah.png"
 category: Singlish
 ---
 

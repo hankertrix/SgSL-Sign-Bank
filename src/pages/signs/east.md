@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: East
-image: ./assets/images-of-signs/east.gif
+image: "@signs/east.gif"
 category: Vocabulary
 ---
 

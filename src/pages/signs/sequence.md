@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sequence
-image: ./assets/images-of-signs/sequence.gif
+image: "@signs/sequence.gif"
 category: Vocabulary
 ---
 

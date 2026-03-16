@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lobster
-image: ./assets/images-of-signs/lobster.gif
+image: "@signs/lobster.gif"
 category: Food
 ---
 

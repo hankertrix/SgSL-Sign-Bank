@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Abuse
-image: ./assets/images-of-signs/abuse-variation-1.gif
+image: "@signs/abuse-variation-1.gif"
 category: Vocabulary
 ---
 

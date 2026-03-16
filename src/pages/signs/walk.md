@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Walk
-image: ./assets/images-of-signs/walk-variation-1.gif
+image: "@signs/walk-variation-1.gif"
 category: Vocabulary
 ---
 

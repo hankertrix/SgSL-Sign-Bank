@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cashier
-image: ./assets/images-of-signs/cashier.gif
+image: "@signs/cashier.gif"
 category: Vocabulary
 ---
 

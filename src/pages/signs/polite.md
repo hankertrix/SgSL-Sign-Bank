@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Polite
-image: ./assets/images-of-signs/polite.gif
+image: "@signs/polite.gif"
 category: Vocabulary
 family: Fine
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Find
-image: ./assets/images-of-signs/find.gif
+image: "@signs/find.gif"
 category: Vocabulary
 ---
 

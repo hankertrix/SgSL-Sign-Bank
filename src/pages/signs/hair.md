@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Hair
-image: ./assets/images-of-signs/hair-variation-1.gif
+image: "@signs/hair-variation-1.gif"
 category: Vocabulary
 ---
 

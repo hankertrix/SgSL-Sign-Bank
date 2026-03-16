@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Much
-image: ./assets/images-of-signs/much.gif
+image: "@signs/much.gif"
 category: Vocabulary
 ---
 

@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Night Safari
 category: Places
-dependentImages: [./assets/images-of-signs/night.gif]
+dependentImages: ["@signs/night.gif"]
 ---
 
 Do the gesture for ["night"](./night),

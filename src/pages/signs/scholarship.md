@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Scholarship / Scholar
-image: ./assets/images-of-signs/scholarship.gif
+image: "@signs/scholarship.gif"
 category: Vocabulary
 family: School
 ---

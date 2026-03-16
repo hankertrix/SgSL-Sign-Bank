@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bukit Gombak
-image: ./assets/images-of-signs/bukit-gombak.gif
+image: "@signs/bukit-gombak.gif"
 category: Places
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Miss
-image: ./assets/images-of-signs/merdeaf-miss.png
+image: "@signs/merdeaf-miss.png"
 category: Vocabulary
 ---
 

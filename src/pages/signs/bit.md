@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bit
-image: ./assets/images-of-signs/bit-variation-1.gif
+image: "@signs/bit-variation-1.gif"
 category: Vocabulary
 ---
 

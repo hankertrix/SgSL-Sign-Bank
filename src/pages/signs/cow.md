@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cow
-image: ./assets/images-of-signs/cow.gif
+image: "@signs/cow.gif"
 category: Vocabulary
 ---
 

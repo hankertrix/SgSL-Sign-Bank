@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Orange
-image: ./assets/images-of-signs/orange-fruit.gif
+image: "@signs/orange-fruit.gif"
 category: Fruits
 ---
 

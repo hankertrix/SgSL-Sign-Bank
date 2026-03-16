@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Pineapple
-image: ./assets/images-of-signs/pineapple-variation-1.gif
+image: "@signs/pineapple-variation-1.gif"
 category: Fruits
 ---
 

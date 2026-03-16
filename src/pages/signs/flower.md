@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Flower
-image: ./assets/images-of-signs/flower-variation-1.gif
+image: "@signs/flower-variation-1.gif"
 category: Vocabulary
 ---
 

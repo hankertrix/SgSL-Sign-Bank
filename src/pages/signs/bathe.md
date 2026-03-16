@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bathe / Bath
-image: ./assets/images-of-signs/bathe-variation-1.gif
+image: "@signs/bathe-variation-1.gif"
 category: Vocabulary
 ---
 

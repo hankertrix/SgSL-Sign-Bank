@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Necklace
-image: ./assets/images-of-signs/necklace.gif
+image: "@signs/necklace.gif"
 category: Clothing
 ---
 

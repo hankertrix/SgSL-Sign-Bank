@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Suffer
-image: ./assets/images-of-signs/suffer.gif
+image: "@signs/suffer.gif"
 category: Vocabulary
 ---
 

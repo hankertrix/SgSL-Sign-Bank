@@ -2,8 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Siblings
 category: Vocabulary
-dependentImages:
-  [./assets/images-of-signs/brother.gif, ./assets/images-of-signs/sister.gif]
+dependentImages: ["@signs/brother.gif", "@signs/sister.gif"]
 ---
 
 Do the gesture for ["brother"](./brother),

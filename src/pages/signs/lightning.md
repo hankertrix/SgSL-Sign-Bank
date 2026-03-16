@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Lightning
-image: ./assets/images-of-signs/lightning.gif
+image: "@signs/lightning.gif"
 category: Vocabulary
 ---
 

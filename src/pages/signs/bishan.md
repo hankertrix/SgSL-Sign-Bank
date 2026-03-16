@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bishan
-image: ./assets/images-of-signs/bishan.gif
+image: "@signs/bishan.gif"
 category: Places
 ---
 

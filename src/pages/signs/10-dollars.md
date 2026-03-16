@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: 10 dollars / Ten dollars
-image: ./assets/images-of-signs/10-dollars-variation-1.gif
+image: "@signs/10-dollars-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Belt
-image: ./assets/images-of-signs/belt.gif
+image: "@signs/belt.gif"
 category: Clothing
 ---
 

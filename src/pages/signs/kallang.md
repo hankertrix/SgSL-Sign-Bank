@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Kallang
-image: ./assets/images-of-signs/kallang.gif
+image: "@signs/kallang.gif"
 category: Places
 ---
 

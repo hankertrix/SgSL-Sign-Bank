@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Visual / Visibility
-image: ./assets/images-of-signs/visual.gif
+image: "@signs/visual.gif"
 category: Vocabulary
 ---
 

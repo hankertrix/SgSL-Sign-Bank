@@ -3,7 +3,7 @@ layout: "@layouts/MarkdownLayout.astro"
 title: Local
 category: Vocabulary
 family: Culture
-dependentImages: [./assets/images-of-signs/culture.gif]
+dependentImages: ["@signs/culture.gif"]
 ---
 
 Same motion as ["culture"](./culture), which is shown below,

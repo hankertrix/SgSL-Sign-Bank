@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sing
-image: ./assets/images-of-signs/sing-variation-1.gif
+image: "@signs/sing-variation-1.gif"
 category: Vocabulary
 ---
 

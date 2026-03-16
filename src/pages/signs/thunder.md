@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Thunder
-image: ./assets/images-of-signs/thunder.gif
+image: "@signs/thunder.gif"
 category: Vocabulary
 ---
 

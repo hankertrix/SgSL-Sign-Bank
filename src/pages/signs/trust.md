@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Trust
-image: ./assets/images-of-signs/trust.gif
+image: "@signs/trust.gif"
 category: Vocabulary
 ---
 

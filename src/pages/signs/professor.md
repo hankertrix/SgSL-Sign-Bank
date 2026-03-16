@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Professor
-image: ./assets/images-of-signs/ride.gif
+image: "@signs/ride.gif"
 category: Vocabulary
 ---
 

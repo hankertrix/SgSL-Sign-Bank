@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Behave / Behaviour
-image: ./assets/images-of-signs/behave.gif
+image: "@signs/behave.gif"
 category: Vocabulary
 ---
 

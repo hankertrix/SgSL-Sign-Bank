@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: This / That
-image: ./assets/images-of-signs/this.gif
+image: "@signs/this.gif"
 category: Vocabulary
 ---
 

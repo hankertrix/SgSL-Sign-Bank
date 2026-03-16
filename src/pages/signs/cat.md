@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cat
-image: ./assets/images-of-signs/cat.gif
+image: "@signs/cat.gif"
 category: Vocabulary
 ---
 

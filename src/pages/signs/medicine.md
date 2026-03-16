@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Medicine / Medical
-image: ./assets/images-of-signs/medicine.gif
+image: "@signs/medicine.gif"
 category: Vocabulary
 ---
 

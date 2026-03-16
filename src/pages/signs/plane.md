@@ -2,7 +2,7 @@
 layout: "@layouts/MarkdownLayout.astro"
 title: Plane / Aeroplane / Aerospace / Airplane
 category: Vocabulary
-dependentImages: [./assets/images-of-signs/flight-plane.gif]
+dependentImages: ["@signs/flight-plane.gif"]
 ---
 
 Same motion as ["flight"](./flight-plane),

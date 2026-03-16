@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Guilty
-image: ./assets/images-of-signs/guilty.gif
+image: "@signs/guilty.gif"
 category: Vocabulary
 ---
 

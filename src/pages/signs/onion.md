@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Onion
-image: ./assets/images-of-signs/onion.gif
+image: "@signs/onion.gif"
 category: Food
 ---
 

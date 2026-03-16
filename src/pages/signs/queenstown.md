@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Queenstown
-image: ./assets/images-of-signs/queenstown.gif
+image: "@signs/queenstown.gif"
 category: Places
 ---
 

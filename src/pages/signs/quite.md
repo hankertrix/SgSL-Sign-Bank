@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Quite
-image: ./assets/images-of-signs/quite.gif
+image: "@signs/quite.gif"
 category: Vocabulary
 ---
 

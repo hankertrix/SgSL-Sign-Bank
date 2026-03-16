@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Choy
-image: ./assets/images-of-signs/merdeaf-choy.png
+image: "@signs/merdeaf-choy.png"
 category: Singlish
 ---
 

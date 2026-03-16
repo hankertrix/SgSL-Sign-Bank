@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Early intervention programme
-image: ./assets/images-of-signs/early-intervention-programme-variation-1.gif
+image: "@signs/early-intervention-programme-variation-1.gif"
 category: Vocabulary
 ---
 

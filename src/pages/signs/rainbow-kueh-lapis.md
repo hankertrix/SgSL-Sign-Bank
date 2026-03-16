@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Rainbow kueh lapis
-image: ./assets/images-of-signs/rainbow-kueh-lapis.gif
+image: "@signs/rainbow-kueh-lapis.gif"
 category: Food
 ---
 

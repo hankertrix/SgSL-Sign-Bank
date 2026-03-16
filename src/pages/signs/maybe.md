@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Maybe / May / Might
-image: ./assets/images-of-signs/maybe.gif
+image: "@signs/maybe.gif"
 category: Vocabulary
 ---
 

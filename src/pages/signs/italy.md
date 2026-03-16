@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Italy
-image: ./assets/images-of-signs/italy-italian-sign.gif
+image: "@signs/italy-italian-sign.gif"
 category: Places
 ---
 

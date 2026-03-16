@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Applause
-image: ./assets/images-of-signs/applause.gif
+image: "@signs/applause.gif"
 category: Vocabulary
 ---
 

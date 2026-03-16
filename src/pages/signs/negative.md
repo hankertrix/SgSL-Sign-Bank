@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Negative
-image: ./assets/images-of-signs/negative.gif
+image: "@signs/negative.gif"
 category: Vocabulary
 ---
 

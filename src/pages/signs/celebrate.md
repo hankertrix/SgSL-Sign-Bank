@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Celebrate / Celebration / Anniversary
-image: ./assets/images-of-signs/celebrate-variation-1.gif
+image: "@signs/celebrate-variation-1.gif"
 category: Vocabulary
 ---
 

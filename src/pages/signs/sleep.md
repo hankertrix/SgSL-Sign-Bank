@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Sleep / Sleepy
-image: ./assets/images-of-signs/sleep-variation-1.gif
+image: "@signs/sleep-variation-1.gif"
 category: Vocabulary
 ---
 

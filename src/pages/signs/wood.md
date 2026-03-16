@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Wood
-image: ./assets/images-of-signs/wood-variation-1.gif
+image: "@signs/wood-variation-1.gif"
 category: Vocabulary
 ---
 

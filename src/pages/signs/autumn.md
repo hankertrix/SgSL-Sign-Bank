@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Autumn
-image: ./assets/images-of-signs/autumn-variation-1.gif
+image: "@signs/autumn-variation-1.gif"
 category: Vocabulary
 ---
 

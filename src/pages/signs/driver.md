@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Driver
-image: ./assets/images-of-signs/driver.gif
+image: "@signs/driver.gif"
 category: Vocabulary
 ---
 

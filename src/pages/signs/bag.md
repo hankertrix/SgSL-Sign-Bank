@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Bag
-image: ./assets/images-of-signs/bag-variation-1.gif
+image: "@signs/bag-variation-1.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Toilet
-image: ./assets/images-of-signs/toilet.gif
+image: "@signs/toilet.gif"
 category: Vocabulary
 family: Toilet
 ---

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Cannot / Can't
-image: ./assets/images-of-signs/cannot-variation-1.gif
+image: "@signs/cannot-variation-1.gif"
 category: Vocabulary
 ---
 

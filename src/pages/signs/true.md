@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: True / Truth / Actual / Sure
-image: ./assets/images-of-signs/true.gif
+image: "@signs/true.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Key
-image: ./assets/images-of-signs/key.gif
+image: "@signs/key.gif"
 category: Vocabulary
 ---
 

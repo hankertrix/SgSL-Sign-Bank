@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Eagle
-image: ./assets/images-of-signs/eagle.gif
+image: "@signs/eagle.gif"
 category: Vocabulary
 ---
 

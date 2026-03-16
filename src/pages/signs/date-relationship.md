@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Date (relationship)
-image: ./assets/images-of-signs/date-relationship.gif
+image: "@signs/date-relationship.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Counter
-image: ./assets/images-of-signs/counter.gif
+image: "@signs/counter.gif"
 category: Vocabulary
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Dot dot dot
-image: ./assets/images-of-signs/merdeaf-dot-dot-dot.png
+image: "@signs/merdeaf-dot-dot-dot.png"
 category: Singlish
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Recent / Recently
-image: ./assets/images-of-signs/recent-variation-1.gif
+image: "@signs/recent-variation-1.gif"
 category: Vocabulary
 ---
 

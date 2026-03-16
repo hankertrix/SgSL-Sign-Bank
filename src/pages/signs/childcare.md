@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Childcare
-image: ./assets/images-of-signs/childcare.gif
+image: "@signs/childcare.gif"
 category: Vocabulary
 ---
 

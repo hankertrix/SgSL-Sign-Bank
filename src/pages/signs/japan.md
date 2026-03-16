@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Japan / Japanese
-image: ./assets/images-of-signs/japan-variation-1.gif
+image: "@signs/japan-variation-1.gif"
 category: Places
 ---
 

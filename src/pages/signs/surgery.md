@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Surgery / Surgeon
-image: ./assets/images-of-signs/surgery.gif
+image: "@signs/surgery.gif"
 category: Vocabulary
 ---
 

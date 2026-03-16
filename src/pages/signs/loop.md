@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Loop
-image: ./assets/images-of-signs/loop-vertical-variation.gif
+image: "@signs/loop-vertical-variation.gif"
 category: Vocabulary
 ---
 

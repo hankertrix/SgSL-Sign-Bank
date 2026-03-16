@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Green
-image: ./assets/images-of-signs/green.gif
+image: "@signs/green.gif"
 category: Vocabulary
 ---
 

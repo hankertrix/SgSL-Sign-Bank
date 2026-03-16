@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Struggle
-image: ./assets/images-of-signs/struggle.gif
+image: "@signs/struggle.gif"
 category: Vocabulary
 ---
 

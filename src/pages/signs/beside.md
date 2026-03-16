@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Beside
-image: ./assets/images-of-signs/beside.gif
+image: "@signs/beside.gif"
 category: Vocabulary
 ---
 

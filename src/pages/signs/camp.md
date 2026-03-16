@@ -1,7 +1,7 @@
 ---
 layout: "@layouts/MarkdownLayout.astro"
 title: Camp
-image: ./assets/images-of-signs/camp-variation-1.gif
+image: "@signs/camp-variation-1.gif"
 category: Vocabulary
 ---
 
