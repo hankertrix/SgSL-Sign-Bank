@@ -6,6 +6,7 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
+
     site: "https://sgsl-sign-bank.vercel.app",
     output: "static",
 
@@ -13,10 +14,15 @@ export default defineConfig({
         layout: "constrained",
     },
 
-    // Disable smartypants so the quotes don't look weird
-    // due to the Chinese font
     markdown: {
+
+        // Disable smartypants so the quotes don't look weird
+        // due to the Chinese font
         smartypants: false,
+
+        // There is no code in the project,
+        // so syntax highlighting is not needed
+        syntaxHighlight: false,
     },
 
     // CSP
